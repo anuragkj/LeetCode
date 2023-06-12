@@ -18,4 +18,4 @@ The questions are divided into 3 levels of difficulty:
 [//]: # (Solutions)
 
 [LC0001.py]: Solutions/LC0001.py
-[Summary Ranges]: [https://leetcode.com/problems/summary-ranges/]
+[Summary Ranges]: https://leetcode.com/problems/summary-ranges/
