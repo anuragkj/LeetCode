@@ -13,6 +13,7 @@ class Solution:
                     output.add(i)
         return list(output)
 
-nums = [1,2]
-sol = Solution()
-print(sol.majorityElement(nums))
+# nums = [1,2]
+# sol = Solution()
+# print(sol.majorityElement(nums))
+# Or we can also use Boyer-Moore Voting Algorithm for O(1) space complexity 
