@@ -13,9 +13,13 @@ The questions are divided into 3 levels of difficulty:
 | Problem Solution | Problem Statement                                                                                    | Difficulty |
 |:----------------:|------------------------------------------------------------------------------------------------------|:----------:|
 | [LC0001.py]     | [Summary Ranges]                                                                                      | Easy       |
+| [LC0002.py]     | [Majority Element II]                                                                                 | Medium     |
 
 
 [//]: # (Solutions)
 
 [LC0001.py]: Solutions/LC0001.py
 [Summary Ranges]: https://leetcode.com/problems/summary-ranges/
+
+[LC0002.py]: Solutions/LC0002.py
+[Majority Element II]: https://leetcode.com/problems/majority-element-ii/
