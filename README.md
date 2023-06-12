@@ -2,8 +2,6 @@
 
 Solutions to some of the questions on the LeetCode [website](https://www.leetcode.com "LeetCode").
 
-<p align="center"><img src="../assets/leetcode.png"></p>
-
 The questions are divided into 3 levels of difficulty:
 
 *   Easy
