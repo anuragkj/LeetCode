@@ -12,10 +12,10 @@ The questions are divided into 3 levels of difficulty:
 
 | Problem Solution | Problem Statement                                                                                    | Difficulty |
 |:----------------:|------------------------------------------------------------------------------------------------------|:----------:|
-| [LC0001.cpp]     | [Summary Ranges]                                                                                     | Easy       |
+| [LC0001.py]     | [Summary Ranges]                                                                                      | Easy       |
 
 
 [//]: # (Solutions)
 
-[LC0001.cpp]: Solutions/LC0001.cpp?ts=4
+[LC0001.py]: Solutions/LC0001.py
 [Two Sum]: [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/summary-ranges/)
