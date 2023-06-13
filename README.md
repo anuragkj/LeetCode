@@ -24,4 +24,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0002.py]: Solutions/LC0002.py
 [Majority Element II]: https://leetcode.com/problems/majority-element-ii/
+
+[LC0003.py]: Solutions/LC0003.py
 [Equal Row and Column Pairs]: https://leetcode.com/problems/equal-row-and-column-pairs/
