@@ -14,6 +14,7 @@ The questions are divided into 3 levels of difficulty:
 |:----------------:|------------------------------------------------------------------------------------------------------|:----------:|
 | [LC0001.py]     | [Summary Ranges]                                                                                      | Easy       |
 | [LC0002.py]     | [Majority Element II]                                                                                 | Medium     |
+| [LC0003.py]     | [Equal Row and Column Pairs]                                                                          | Medium     |
 
 
 [//]: # (Solutions)
@@ -23,3 +24,4 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0002.py]: Solutions/LC0002.py
 [Majority Element II]: https://leetcode.com/problems/majority-element-ii/
+[Equal Row and Column Pairs]: https://leetcode.com/problems/equal-row-and-column-pairs/
