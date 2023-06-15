@@ -17,6 +17,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0003.py]     | [Equal Row and Column Pairs]                                                                          | Medium     |
 | [LC0004.py]     | [Minimum Absolute Difference in BST]                                                                  | Easy       |
 | [LC0004.py]     | [Minimum Distance Between BST Nodes]                                                                  | Easy       |
+| [LC0005.py]     | [Maximum Level Sum of a Binary Tree]                                                                  | Medium     |
 
 
 [//]: # (Solutions)
@@ -35,3 +36,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0004.py]: Solutions/LC0004.py
 [Minimum Distance Between BST Nodes]: https://leetcode.com/problems/minimum-distance-between-bst-nodes/
+
+[LC0005.py]: Solutions/LC0005.py
+[Maximum Level Sum of a Binary Tree]: https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
