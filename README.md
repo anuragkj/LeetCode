@@ -19,6 +19,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0004.py]     | [Minimum Distance Between BST Nodes]                                                                  | Easy       |
 | [LC0005.py]     | [Maximum Level Sum of a Binary Tree]                                                                  | Medium     |
 | [LC0006.py]     | [Two Sum]                                                                                             | Easy       |
+| [LC0007.py]     | [Number of Ways to Reorder Array to Get Same BST]                                                     | Hard       |
 
 [//]: # (Solutions)
 
@@ -42,3 +43,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0006.py]: Solutions/LC0006.py
 [Two Sum]: https://leetcode.com/problems/two-sum/
+
+[LC0007.py]: Solutions/LC0007.py
+[Number of Ways to Reorder Array to Get Same BST]: https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
