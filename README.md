@@ -21,6 +21,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0006.py]     | [Two Sum]                                                                                             | Easy       |
 | [LC0007.py]     | [Number of Ways to Reorder Array to Get Same BST]                                                     | Hard       |
 | [LC0008.py]     | [Add two Numbers]                                                                                     | Medium     |
+| [LC0009.py]     | [Make Array Strictly Increasing]                                                                      | Hard     |
 
 [//]: # (Solutions)
 
@@ -50,3 +51,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0008.py]: Solutions/LC0008.py
 [Add two Numbers]: https://leetcode.com/problems/add-two-numbers/
+
+[LC0009.py]: Solutions/LC0009.py
+[Make Array Strictly Increasing]: https://leetcode.com/problems/make-array-strictly-increasing/
