@@ -21,7 +21,10 @@ The questions are divided into 3 levels of difficulty:
 | [LC0006.py]     | [Two Sum]                                                                                             | Easy       |
 | [LC0007.py]     | [Number of Ways to Reorder Array to Get Same BST]                                                     | Hard       |
 | [LC0008.py]     | [Add two Numbers]                                                                                     | Medium     |
-| [LC0009.py]     | [Make Array Strictly Increasing]                                                                      | Hard     |
+| [LC0009.py]     | [Make Array Strictly Increasing]                                                                      | Hard       |
+| [LC0010.py]     | [Longest Substring Without Repeating Characters]                                                      | Medium     |
+| [LC0011.py]     | [Number of Increasing Paths in a Grid]                                                                | Hard       |
+| [LC0012.py]     | [Find the Highest Altitude]                                                                           | Easy       |
 
 [//]: # (Solutions)
 
@@ -54,3 +57,12 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0009.py]: Solutions/LC0009.py
 [Make Array Strictly Increasing]: https://leetcode.com/problems/make-array-strictly-increasing/
+
+[LC0010.py]: Solutions/LC0010.py
+[Longest Substring Without Repeating Characters]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+[LC0011.py]: Solutions/LC0011.py
+[Number of Increasing Paths in a Grid]: https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/
+
+[LC0012.py]: Solutions/LC0012.py
+[Find the Highest Altitude]: https://leetcode.com/problems/find-the-highest-altitude
