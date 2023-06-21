@@ -25,6 +25,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0010.py]     | [Longest Substring Without Repeating Characters]                                                      | Medium     |
 | [LC0011.py]     | [Number of Increasing Paths in a Grid]                                                                | Hard       |
 | [LC0012.py]     | [Find the Highest Altitude]                                                                           | Easy       |
+| [LC0013.py]     | [K Radius Subarray Averages]                                                                          | Medium     |
+| [LC0014.py]     | [Median of Two Sorted Arrays]                                                                         | Hard       |
 
 [//]: # (Solutions)
 
@@ -66,3 +68,11 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0012.py]: Solutions/LC0012.py
 [Find the Highest Altitude]: https://leetcode.com/problems/find-the-highest-altitude
+
+[LC0013.py]: Solutions/LC0013.py
+[K Radius Subarray Averages]: https://leetcode.com/problems/k-radius-subarray-averages/
+
+[LC0014.py]: Solutions/LC0014.py
+[Median of Two Sorted Arrays]: https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+
+
