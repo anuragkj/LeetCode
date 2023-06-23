@@ -27,6 +27,9 @@ The questions are divided into 3 levels of difficulty:
 | [LC0012.py]     | [Find the Highest Altitude]                                                                           | Easy       |
 | [LC0013.py]     | [K Radius Subarray Averages]                                                                          | Medium     |
 | [LC0014.py]     | [Median of Two Sorted Arrays]                                                                         | Hard       |
+| [LC0015.py]     | [Minimum Cost to Make Array Equal]                                                                    | Hard       |
+| [LC0016.py]     | [Best Time to Buy and Sell Stock with Transaction Fee]                                                | Medium     |
+| [LC0017.py]     | [Longest Arithmetic Subsequence]                                                                      | Medium     |
 
 [//]: # (Solutions)
 
@@ -74,5 +77,14 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0014.py]: Solutions/LC0014.py
 [Median of Two Sorted Arrays]: https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+
+[LC0015.py]: Solutions/LC0015.py
+[Minimum Cost to Make Array Equal]: https://leetcode.com/problems/minimum-cost-to-make-array-equal/
+
+[LC0016.py]: Solutions/LC0016.py
+[Best Time to Buy and Sell Stock with Transaction Fee]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+
+[LC0017.py]: Solutions/LC0017.py
+[Longest Arithmetic Subsequence]: https://leetcode.com/problems/longest-arithmetic-subsequence/
 
 
