@@ -48,3 +48,10 @@ class Solution:
                     # If it is a lock and we don't have its key, continue.
                     elif cell in lock_set and not (keys & (1 << (ord(cell) - ord('A')))):
                         continue
+                        
+                    # We can walk to this cell if we haven't been here before with the same key state.
+                    elif (new_r, new_c) not in seen[keys]:
+                        seen[keys].add((new_r, new_c))
+                        queue.append((new_r, new_c, keys, dist + 1))
+            
+        return -1
