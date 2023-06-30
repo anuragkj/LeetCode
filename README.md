@@ -30,6 +30,13 @@ The questions are divided into 3 levels of difficulty:
 | [LC0015.py]     | [Minimum Cost to Make Array Equal]                                                                    | Hard       |
 | [LC0016.py]     | [Best Time to Buy and Sell Stock with Transaction Fee]                                                | Medium     |
 | [LC0017.py]     | [Longest Arithmetic Subsequence]                                                                      | Medium     |
+| [LC0018.py]     | [Tallest Billboard]                                                                                   | Hard       |
+| [LC0019.py]     | [Count All Possible Routes]                                                                           | Hard       |
+| [LC0020.py]     | [Total Cost to Hire K Workers]                                                                        | Medium     |
+| [LC0021.py]     | [Find K Pairs with Smallest Sums]                                                                     | Medium     |
+| [LC0022.py]     | [Path with Maximum Probability]                                                                       | Medium     |
+| [LC0023.py]     | [Shortest Path to Get All Keys]                                                                       | Hard       |
+| [LC0024.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
 
 [//]: # (Solutions)
 
@@ -87,4 +94,23 @@ The questions are divided into 3 levels of difficulty:
 [LC0017.py]: Solutions/LC0017.py
 [Longest Arithmetic Subsequence]: https://leetcode.com/problems/longest-arithmetic-subsequence/
 
+[LC0018.py]: Solutions/LC0018.py
+[Tallest Billboard]: https://leetcode.com/problems/tallest-billboard/
 
+[LC0019.py]: Solutions/LC0019.py
+[Count All Possible Routes]: https://leetcode.com/problems/count-all-possible-routes/
+
+[LC0020.py]: Solutions/LC0020.py
+[Total Cost to Hire K Workers]: https://leetcode.com/problems/total-cost-to-hire-k-workers/
+
+[LC0021.py]: Solutions/LC0021.py
+[Find K Pairs with Smallest Sums]: https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
+
+[LC0022.py]: Solutions/LC0022.py
+[Path with Maximum Probability]: https://leetcode.com/problems/path-with-maximum-probability/
+
+[LC0023.py]: Solutions/LC0023.py
+[Shortest Path to Get All Keys]: https://leetcode.com/problems/shortest-path-to-get-all-keys/
+
+[LC0024.py]: Solutions/LC0024.py
+[Last Day Where You Can Still Cross]:https://leetcode.com/problems/last-day-where-you-can-still-cross/
