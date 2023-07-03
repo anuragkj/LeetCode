@@ -3,7 +3,7 @@ class Solution:
         n = len(s)
         if s == goal:
             temp = set(s)
-            return len(temp) < len(goal)  # Swapping same characters
+            return len(temp) < len(goal)  
 
         i = 0
         j = n - 1
