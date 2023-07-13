@@ -1,3 +1,4 @@
+from collections import deque
 class Solution:
     def canFinish(self, numCourses, prerequisites):
         indegree = [0] * numCourses
