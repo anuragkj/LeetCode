@@ -37,24 +37,24 @@ The questions are divided into 3 levels of difficulty:
 | [LC0022.py]     | [Path with Maximum Probability]                                                                       | Medium     |
 | [LC0023.py]     | [Shortest Path to Get All Keys]                                                                       | Hard       |
 | [LC0024.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
-| [LC0025.py]     | [Fair Distribution of Cookies]                                                               | Hard       |
-| [LC0026.py]     | [Maximum Number of Achievable Transfer Requests]                                                              | Hard       |
-| [LC0027.py]     | [Buddy Strings]                                                                  | Hard       |
-| [LC0028.py]     | [Single Number II]                                                                 | Hard       |
-| [LC0029.py]     | [Longest Subarray of 1's After Deleting One Element]                                                                  | Hard       |
-| [LC0030.py]     | [Minimum Size Subarray Sum]                                                                 | Hard       |
-| [LC0031.py]     | [Maximize the Confusion of an Exam]                                                         | Hard       |
-| [LC0032.py]     | [Put Marbles in Bags]                                                                | Hard       |
-| [LC0033.py]     | [Substring With Largest Variance]                                                                 | Hard       |
-| [LC0034.py]     | [Minimum Depth of Binary Tree]                                                                  | Hard       |
-| [LC0035.py]     | [All Nodes Distance K in Binary Tree]                                                                 | Hard       |
-| [LC0036.py]     | [Find Eventual Safe States]                                                                  | Hard       |
-| [LC0037.py]     | [Course Schedule]                                                                  | Hard       |
-| [LC0038.py]     | [Longest Arithmetic Subsequence of Given Difference]                                                                 | Hard       |
-| [LC0039.py]     | [Maximum Number of Events That Can Be Attended II]                                                                  | Hard       |
-| [LC0040.py]     | [Smallest Sufficient Team]                                                                  | Hard       |
-| [LC0041.py]     | [Add Two Numbers II]                                                                  | Hard       |
-| [LC0042.py]     | [LRU Cache]                                                                  | Hard       |
+| [LC0025.py]     | [Fair Distribution of Cookies]                                                                        | Medium     |
+| [LC0026.py]     | [Maximum Number of Achievable Transfer Requests]                                                      | Hard       |
+| [LC0027.py]     | [Buddy Strings]                                                                                       | Easy       |
+| [LC0028.py]     | [Single Number II]                                                                                    | Medium     |
+| [LC0029.py]     | [Longest Subarray of 1's After Deleting One Element]                                                  | Medium     |
+| [LC0030.py]     | [Minimum Size Subarray Sum]                                                                           | Medium     |
+| [LC0031.py]     | [Maximize the Confusion of an Exam]                                                                   | Medium     |
+| [LC0032.py]     | [Put Marbles in Bags]                                                                                 | Hard       |
+| [LC0033.py]     | [Substring With Largest Variance]                                                                     | Hard       |
+| [LC0034.py]     | [Minimum Depth of Binary Tree]                                                                        | Easy       |
+| [LC0035.py]     | [All Nodes Distance K in Binary Tree]                                                                 | Medium     |
+| [LC0036.py]     | [Find Eventual Safe States]                                                                           | Medium     |
+| [LC0037.py]     | [Course Schedule]                                                                                     | Medium     |
+| [LC0038.py]     | [Longest Arithmetic Subsequence of Given Difference]                                                  | Medium     |
+| [LC0039.py]     | [Maximum Number of Events That Can Be Attended II]                                                    | Hard       |
+| [LC0040.py]     | [Smallest Sufficient Team]                                                                            | Hard       |
+| [LC0041.py]     | [Add Two Numbers II]                                                                                  | Medium     |
+| [LC0042.py]     | [LRU Cache]                                                                                           | Medium     |
 
 [//]: # (Solutions)
 
