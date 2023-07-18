@@ -37,6 +37,24 @@ The questions are divided into 3 levels of difficulty:
 | [LC0022.py]     | [Path with Maximum Probability]                                                                       | Medium     |
 | [LC0023.py]     | [Shortest Path to Get All Keys]                                                                       | Hard       |
 | [LC0024.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
+| [LC0025.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
+| [LC0026.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
+| [LC0027.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
+| [LC0028.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
+| [LC0029.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
+| [LC0030.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
+| [LC0031.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
+| [LC0032.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
+| [LC0033.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
+| [LC0034.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
+| [LC0035.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
+| [LC0036.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
+| [LC0037.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
+| [LC0038.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
+| [LC0039.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
+| [LC0040.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
+| [LC0041.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
+| [LC0042.py]     | [Last Day Where You Can Still Cross]                                                                  | Hard       |
 
 [//]: # (Solutions)
 
@@ -114,3 +132,57 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0024.py]: Solutions/LC0024.py
 [Last Day Where You Can Still Cross]:https://leetcode.com/problems/last-day-where-you-can-still-cross/
+
+[LC0025.py]: Solutions/LC0025.py
+[Fair Distribution of Cookies]:https://leetcode.com/problems/fair-distribution-of-cookies/
+
+[LC0026.py]: Solutions/LC0026.py
+[Maximum Number of Achievable Transfer Requests]:https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/
+
+[LC0027.py]: Solutions/LC0027.py
+[Buddy Strings]:https://leetcode.com/problems/buddy-strings/
+
+[LC0028.py]: Solutions/LC0028.py
+[Single Number II]:https://leetcode.com/problems/single-number-ii/
+
+[LC0029.py]: Solutions/LC0029.py
+[Longest Subarray of 1's After Deleting One Element]:https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+
+[LC0030.py]: Solutions/LC0030.py
+[Minimum Size Subarray Sum]:https://leetcode.com/problems/minimum-size-subarray-sum/
+
+[LC0031.py]: Solutions/LC0031.py
+[Maximize the Confusion of an Exam]:https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
+
+[LC0032.py]: Solutions/LC0032.py
+[Put Marbles in Bags]:https://leetcode.com/problems/put-marbles-in-bags/
+
+[LC0033.py]: Solutions/LC0033.py
+[Substring With Largest Variance]:https://leetcode.com/problems/substring-with-largest-variance/
+
+[LC0034.py]: Solutions/LC0034.py
+[Minimum Depth of Binary Tree]:https://leetcode.com/problems/minimum-depth-of-binary-tree/
+
+[LC0035.py]: Solutions/LC0035.py
+[All Nodes Distance K in Binary Tree]:https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+
+[LC0036.py]: Solutions/LC0036.py
+[Find Eventual Safe States]:https://leetcode.com/problems/find-eventual-safe-states/
+
+[LC0037.py]: Solutions/LC0037.py
+[Course Schedule]:https://leetcode.com/problems/course-schedule/
+
+[LC0038.py]: Solutions/LC0038.py
+[Longest Arithmetic Subsequence of Given Difference]:https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/
+
+[LC0039.py]: Solutions/LC0039.py
+[Maximum Number of Events That Can Be Attended II]:https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/
+
+[LC0040.py]: Solutions/LC0040.py
+[Smallest Sufficient Team]:https://leetcode.com/problems/smallest-sufficient-team/
+
+[LC0041.py]: Solutions/LC0041.py
+[Add Two Numbers II]:https://leetcode.com/problems/add-two-numbers-ii/
+
+[LC0042.py]: Solutions/LC0042.py
+[LRU Cache]:https://leetcode.com/problems/lru-cache/
