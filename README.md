@@ -55,6 +55,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0040.py]     | [Smallest Sufficient Team]                                                                            | Hard       |
 | [LC0041.py]     | [Add Two Numbers II]                                                                                  | Medium     |
 | [LC0042.py]     | [LRU Cache]                                                                                           | Medium     |
+| [LC0043.py]     | [Non-overlapping Intervals]                                                                           | Medium     |
 
 [//]: # (Solutions)
 
@@ -186,3 +187,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0042.py]: Solutions/LC0042.py
 [LRU Cache]:https://leetcode.com/problems/lru-cache/
+
+[LC0043.py]: Solutions/LC0043.py
+[Non-overlapping Intervals]:https://leetcode.com/problems/non-overlapping-intervals/
