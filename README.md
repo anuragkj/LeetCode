@@ -56,6 +56,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0041.py]     | [Add Two Numbers II]                                                                                  | Medium     |
 | [LC0042.py]     | [LRU Cache]                                                                                           | Medium     |
 | [LC0043.py]     | [Non-overlapping Intervals]                                                                           | Medium     |
+| [LC0044.py]     | [Asteroid Collision]                                                                                  | Medium     |
 
 [//]: # (Solutions)
 
@@ -190,3 +191,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0043.py]: Solutions/LC0043.py
 [Non-overlapping Intervals]:https://leetcode.com/problems/non-overlapping-intervals/
+
+[LC0044.py]: Solutions/LC0044.py
+[Asteroid Collision]:https://leetcode.com/problems/asteroid-collision/
