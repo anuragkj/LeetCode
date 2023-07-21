@@ -57,6 +57,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0042.py]     | [LRU Cache]                                                                                           | Medium     |
 | [LC0043.py]     | [Non-overlapping Intervals]                                                                           | Medium     |
 | [LC0044.py]     | [Asteroid Collision]                                                                                  | Medium     |
+| [LC0045.py]     | [Number of Longest Increasing Subsequence]                                                            | Medium     |
+| [LC0046.py]     | [Longest Increasing Subsequence]                                                                      | Medium     |
 
 [//]: # (Solutions)
 
@@ -194,3 +196,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0044.py]: Solutions/LC0044.py
 [Asteroid Collision]:https://leetcode.com/problems/asteroid-collision/
+
+[LC0045.py]: Solutions/LC0045.py
+[Number of Longest Increasing Subsequence]:https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+
+[LC0046.py]: Solutions/LC0046.py
+[Longest Increasing Subsequence]:https://leetcode.com/problems/longest-increasing-subsequence/
