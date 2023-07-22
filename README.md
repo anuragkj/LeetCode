@@ -59,6 +59,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0044.py]     | [Asteroid Collision]                                                                                  | Medium     |
 | [LC0045.py]     | [Number of Longest Increasing Subsequence]                                                            | Medium     |
 | [LC0046.py]     | [Longest Increasing Subsequence]                                                                      | Medium     |
+| [LC0047.py]     | [Knight Probability in Chessboard]                                                                    | Medium     |
 
 [//]: # (Solutions)
 
@@ -202,3 +203,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0046.py]: Solutions/LC0046.py
 [Longest Increasing Subsequence]:https://leetcode.com/problems/longest-increasing-subsequence/
+
+[LC0047.py]: Solutions/LC0047.py
+[Knight Probability in Chessboard]:https://leetcode.com/problems/knight-probability-in-chessboard/
