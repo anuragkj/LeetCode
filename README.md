@@ -60,6 +60,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0045.py]     | [Number of Longest Increasing Subsequence]                                                            | Medium     |
 | [LC0046.py]     | [Longest Increasing Subsequence]                                                                      | Medium     |
 | [LC0047.py]     | [Knight Probability in Chessboard]                                                                    | Medium     |
+| [LC0048.py]     | [All Possible Full Binary Trees]                                                                      | Medium     |
 
 [//]: # (Solutions)
 
@@ -206,3 +207,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0047.py]: Solutions/LC0047.py
 [Knight Probability in Chessboard]:https://leetcode.com/problems/knight-probability-in-chessboard/
+
+[LC0048.py]: Solutions/LC0048.py
+[All Possible Full Binary Trees]:https://leetcode.com/problems/all-possible-full-binary-trees/
