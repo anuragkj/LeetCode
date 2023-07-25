@@ -62,6 +62,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0047.py]     | [Knight Probability in Chessboard]                                                                    | Medium     |
 | [LC0048.py]     | [All Possible Full Binary Trees]                                                                      | Medium     |
 | [LC0049.py]     | [Pow(x, n)]                                                                                           | Medium     |
+| [LC0050.py]     | [Peak Index in a Mountain Array]                                                                      | Medium     |
 
 [//]: # (Solutions)
 
@@ -214,3 +215,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0049.py]: Solutions/LC0049.py
 [Pow(x, n)]:https://leetcode.com/problems/powx-n/
+
+[LC0050.py]: Solutions/LC0050.py
+[Peak Index in a Mountain Array]:https://leetcode.com/problems/peak-index-in-a-mountain-array/
