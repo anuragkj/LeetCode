@@ -63,6 +63,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0048.py]     | [All Possible Full Binary Trees]                                                                      | Medium     |
 | [LC0049.py]     | [Pow(x, n)]                                                                                           | Medium     |
 | [LC0050.py]     | [Peak Index in a Mountain Array]                                                                      | Medium     |
+| [LC0051.py]     | [Minimum Speed to Arrive on Time]                                                                     | Medium     |
 
 [//]: # (Solutions)
 
@@ -218,3 +219,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0050.py]: Solutions/LC0050.py
 [Peak Index in a Mountain Array]:https://leetcode.com/problems/peak-index-in-a-mountain-array/
+
+[LC0051.py]: Solutions/LC0051.py
+[Minimum Speed to Arrive on Time]:https://leetcode.com/problems/minimum-speed-to-arrive-on-time/
