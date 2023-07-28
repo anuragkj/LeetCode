@@ -64,6 +64,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0049.py]     | [Pow(x, n)]                                                                                           | Medium     |
 | [LC0050.py]     | [Peak Index in a Mountain Array]                                                                      | Medium     |
 | [LC0051.py]     | [Minimum Speed to Arrive on Time]                                                                     | Medium     |
+| [LC0052.py]     | [Minimum Speed to Arrive on Time]                                                                     | Hard       |
+| [LC0053.py]     | [Minimum Speed to Arrive on Time]                                                                     | Medium     |
 
 [//]: # (Solutions)
 
@@ -222,3 +224,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0051.py]: Solutions/LC0051.py
 [Minimum Speed to Arrive on Time]:https://leetcode.com/problems/minimum-speed-to-arrive-on-time/
+
+[LC0052.py]: Solutions/LC0052.py
+[Maximum Running Time of N Computers]:https://leetcode.com/problems/maximum-running-time-of-n-computers/
+
+[LC0053.py]: Solutions/LC0053.py
+[Predict the Winner]:https://leetcode.com/problems/predict-the-winner/
