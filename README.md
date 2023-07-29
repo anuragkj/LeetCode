@@ -66,6 +66,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0051.py]     | [Minimum Speed to Arrive on Time]                                                                     | Medium     |
 | [LC0052.py]     | [Maximum Running Time of N Computers]                                                                 | Hard       |
 | [LC0053.py]     | [Predict the Winner]                                                                                  | Medium     |
+| [LC0054.py]     | [Soup Servings]                                                                                       | Medium     |
 
 [//]: # (Solutions)
 
@@ -230,3 +231,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0053.py]: Solutions/LC0053.py
 [Predict the Winner]:https://leetcode.com/problems/predict-the-winner/
+
+[LC0054.py]: Solutions/LC0054.py
+[Soup Servings]:https://leetcode.com/problems/soup-servings/
