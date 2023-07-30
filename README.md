@@ -67,6 +67,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0052.py]     | [Maximum Running Time of N Computers]                                                                 | Hard       |
 | [LC0053.py]     | [Predict the Winner]                                                                                  | Medium     |
 | [LC0054.py]     | [Soup Servings]                                                                                       | Medium     |
+| [LC0055.py]     | [Strange Printer]                                                                                     | Hard       |
 
 [//]: # (Solutions)
 
@@ -234,3 +235,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0054.py]: Solutions/LC0054.py
 [Soup Servings]:https://leetcode.com/problems/soup-servings/
+
+[LC0055.py]: Solutions/LC0055.py
+[Strange Printer]:https://leetcode.com/problems/strange-printer/
