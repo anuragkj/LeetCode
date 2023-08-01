@@ -68,6 +68,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0053.py]     | [Predict the Winner]                                                                                  | Medium     |
 | [LC0054.py]     | [Soup Servings]                                                                                       | Medium     |
 | [LC0055.py]     | [Strange Printer]                                                                                     | Hard       |
+| [LC0056.py]     | [Minimum ASCII Delete Sum for Two Strings]                                                            | Medium     |
+| [LC0057.py]     | [Combinations]                                                                                        | Medium     |
 
 [//]: # (Solutions)
 
@@ -238,3 +240,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0055.py]: Solutions/LC0055.py
 [Strange Printer]:https://leetcode.com/problems/strange-printer/
+
+[LC0056.py]: Solutions/LC0056.py
+[Minimum ASCII Delete Sum for Two Strings]:https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
+
+[LC0057.py]: Solutions/LC0057.py
+[Combinations]:https://leetcode.com/problems/combinations/
