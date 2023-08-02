@@ -70,6 +70,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0055.py]     | [Strange Printer]                                                                                     | Hard       |
 | [LC0056.py]     | [Minimum ASCII Delete Sum for Two Strings]                                                            | Medium     |
 | [LC0057.py]     | [Combinations]                                                                                        | Medium     |
+| [LC0058.py]     | [Permutations]                                                                                        | Medium     |
 
 [//]: # (Solutions)
 
@@ -246,3 +247,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0057.py]: Solutions/LC0057.py
 [Combinations]:https://leetcode.com/problems/combinations/
+
+[LC0058.py]: Solutions/LC0058.py
+[Permutations]:https://leetcode.com/problems/permutations/
