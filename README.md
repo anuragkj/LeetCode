@@ -71,6 +71,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0056.py]     | [Minimum ASCII Delete Sum for Two Strings]                                                            | Medium     |
 | [LC0057.py]     | [Combinations]                                                                                        | Medium     |
 | [LC0058.py]     | [Permutations]                                                                                        | Medium     |
+| [LC0059.py]     | [Letter Combinations of a Phone Number]                                                               | Medium     |
 
 [//]: # (Solutions)
 
@@ -250,3 +251,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0058.py]: Solutions/LC0058.py
 [Permutations]:https://leetcode.com/problems/permutations/
+
+[LC0059.py]: Solutions/LC0059.py
+[Letter Combinations of a Phone Number]:https://leetcode.com/problems/letter-combinations-of-a-phone-number/
