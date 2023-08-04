@@ -72,6 +72,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0057.py]     | [Combinations]                                                                                        | Medium     |
 | [LC0058.py]     | [Permutations]                                                                                        | Medium     |
 | [LC0059.py]     | [Letter Combinations of a Phone Number]                                                               | Medium     |
+| [LC0060.py]     | [Word Break]                                                                                          | Medium     |
 
 [//]: # (Solutions)
 
@@ -254,3 +255,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0059.py]: Solutions/LC0059.py
 [Letter Combinations of a Phone Number]:https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+
+[LC0060.py]: Solutions/LC0060.py
+[Word Break]:https://leetcode.com/problems/word-break/
