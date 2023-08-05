@@ -73,6 +73,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0058.py]     | [Permutations]                                                                                        | Medium     |
 | [LC0059.py]     | [Letter Combinations of a Phone Number]                                                               | Medium     |
 | [LC0060.py]     | [Word Break]                                                                                          | Medium     |
+| [LC0061.py]     | [Unique Binary Search Trees]                                                                          | Medium     |
+| [LC0062.py]     | [Unique Binary Search Trees II]                                                                       | Medium     |
 
 [//]: # (Solutions)
 
@@ -258,3 +260,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0060.py]: Solutions/LC0060.py
 [Word Break]:https://leetcode.com/problems/word-break/
+
+[LC0061.py]: Solutions/LC0061.py
+[Unique Binary Search Trees]:https://leetcode.com/problems/unique-binary-search-trees/
+
+[LC0062.py]: Solutions/LC0062.py
+[Unique Binary Search Trees II]:https://leetcode.com/problems/unique-binary-search-trees-ii/
