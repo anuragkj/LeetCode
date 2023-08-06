@@ -75,6 +75,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0060.py]     | [Word Break]                                                                                          | Medium     |
 | [LC0061.py]     | [Unique Binary Search Trees]                                                                          | Medium     |
 | [LC0062.py]     | [Unique Binary Search Trees II]                                                                       | Medium     |
+| [LC0063.py]     | [Number of Music Playlists]                                                                           | Hard       |
 
 [//]: # (Solutions)
 
@@ -266,3 +267,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0062.py]: Solutions/LC0062.py
 [Unique Binary Search Trees II]:https://leetcode.com/problems/unique-binary-search-trees-ii/
+
+[LC0063.py]: Solutions/LC0063.py
+[Number of Music Playlists]:https://leetcode.com/problems/number-of-music-playlists/
