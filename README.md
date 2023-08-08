@@ -76,6 +76,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0061.py]     | [Unique Binary Search Trees]                                                                          | Medium     |
 | [LC0062.py]     | [Unique Binary Search Trees II]                                                                       | Medium     |
 | [LC0063.py]     | [Number of Music Playlists]                                                                           | Hard       |
+| [LC0064.py]     | [Search a 2D Matrix]                                                                                  | Hard       |
 
 [//]: # (Solutions)
 
@@ -270,3 +271,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0063.py]: Solutions/LC0063.py
 [Number of Music Playlists]:https://leetcode.com/problems/number-of-music-playlists/
+
+[LC0064.py]: Solutions/LC0064.py
+[Search a 2D Matrix]:https://leetcode.com/problems/search-a-2d-matrix/
