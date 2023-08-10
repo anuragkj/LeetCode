@@ -79,6 +79,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0064.py]     | [Search a 2D Matrix]                                                                                  | Hard       |
 | [LC0065.py]     | [Search in Rotated Sorted Array]                                                                      | Medium     |
 | [LC0066.py]     | [Minimize the Maximum Difference of Pairs]                                                            | Medium     |
+| [LC0067.py]     | [Search in Rotated Sorted Array II]                                                                   | Medium     |
 
 [//]: # (Solutions)
 
@@ -282,3 +283,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0066.py]: Solutions/LC0066.py
 [Minimize the Maximum Difference of Pairs]:https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/
+
+[LC0067.py]: Solutions/LC0067.py
+[Search in Rotated Sorted Array II]:https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
