@@ -81,6 +81,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0066.py]     | [Minimize the Maximum Difference of Pairs]                                                            | Medium     |
 | [LC0067.py]     | [Search in Rotated Sorted Array II]                                                                   | Medium     |
 | [LC0068.py]     | [Coin Change II]                                                                                      | Medium     |
+| [LC0069.py]     | [Unique Paths II]                                                                                      | Medium     |
 
 [//]: # (Solutions)
 
@@ -290,3 +291,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0068.py]: Solutions/LC0068.py
 [Coin Change II]:https://leetcode.com/problems/coin-change-ii/
+
+[LC0069.py]: Solutions/LC0069.py
+[Unique Paths II]:https://leetcode.com/problems/unique-paths-ii/
