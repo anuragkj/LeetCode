@@ -81,7 +81,9 @@ The questions are divided into 3 levels of difficulty:
 | [LC0066.py]     | [Minimize the Maximum Difference of Pairs]                                                            | Medium     |
 | [LC0067.py]     | [Search in Rotated Sorted Array II]                                                                   | Medium     |
 | [LC0068.py]     | [Coin Change II]                                                                                      | Medium     |
-| [LC0069.py]     | [Unique Paths II]                                                                                      | Medium     |
+| [LC0069.py]     | [Unique Paths II]                                                                                     | Medium     |
+| [LC0070.py]     | [Check if There is a Valid Partition For The Array]                                                   | Medium     |
+| [LC0071.py]     | [Kth Largest Element in an Array]                                                                     | Medium     |
 
 [//]: # (Solutions)
 
@@ -294,3 +296,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0069.py]: Solutions/LC0069.py
 [Unique Paths II]:https://leetcode.com/problems/unique-paths-ii/
+
+[LC0070.py]: Solutions/LC0070.py
+[Check if There is a Valid Partition For The Array]:https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
+
+[LC0071.py]: Solutions/LC0071.py
+[Kth Largest Element in an Array]:https://leetcode.com/problems/kth-largest-element-in-an-array/
