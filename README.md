@@ -84,6 +84,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0069.py]     | [Unique Paths II]                                                                                     | Medium     |
 | [LC0070.py]     | [Check if There is a Valid Partition For The Array]                                                   | Medium     |
 | [LC0071.py]     | [Kth Largest Element in an Array]                                                                     | Medium     |
+| [LC0072.py]     | [Partition List]                                                                                      | Medium     |
 
 [//]: # (Solutions)
 
@@ -302,3 +303,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0071.py]: Solutions/LC0071.py
 [Kth Largest Element in an Array]:https://leetcode.com/problems/kth-largest-element-in-an-array/
+
+[LC0072.py]: Solutions/LC0072.py
+[Partition List]:https://leetcode.com/problems/partition-list/
