@@ -85,6 +85,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0070.py]     | [Check if There is a Valid Partition For The Array]                                                   | Medium     |
 | [LC0071.py]     | [Kth Largest Element in an Array]                                                                     | Medium     |
 | [LC0072.py]     | [Partition List]                                                                                      | Medium     |
+| [LC0073.py]     | [Sliding Window Maximum]                                                                              | Hard       |
 
 [//]: # (Solutions)
 
@@ -306,3 +307,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0072.py]: Solutions/LC0072.py
 [Partition List]:https://leetcode.com/problems/partition-list/
+
+[LC0073.py]: Solutions/LC0073.py
+[Sliding Window Maximum]:https://leetcode.com/problems/sliding-window-maximum/
