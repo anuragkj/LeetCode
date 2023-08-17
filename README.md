@@ -86,6 +86,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0071.py]     | [Kth Largest Element in an Array]                                                                     | Medium     |
 | [LC0072.py]     | [Partition List]                                                                                      | Medium     |
 | [LC0073.py]     | [Sliding Window Maximum]                                                                              | Hard       |
+| [LC0074.py]     | [01 Matrix]                                                                                           | Medium     |
 
 [//]: # (Solutions)
 
@@ -310,3 +311,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0073.py]: Solutions/LC0073.py
 [Sliding Window Maximum]:https://leetcode.com/problems/sliding-window-maximum/
+
+[LC0074.py]: Solutions/LC0074.py
+[01 Matrix]:https://leetcode.com/problems/01-matrix/
