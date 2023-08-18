@@ -87,6 +87,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0072.py]     | [Partition List]                                                                                      | Medium     |
 | [LC0073.py]     | [Sliding Window Maximum]                                                                              | Hard       |
 | [LC0074.py]     | [01 Matrix]                                                                                           | Medium     |
+| [LC0075.py]     | [Maximal Network Rank]                                                                                | Medium     |
 
 [//]: # (Solutions)
 
@@ -314,3 +315,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0074.py]: Solutions/LC0074.py
 [01 Matrix]:https://leetcode.com/problems/01-matrix/
+
+[LC0075.py]: Solutions/LC0075.py
+[Maximal Network Rank]:https://leetcode.com/problems/maximal-network-rank/
