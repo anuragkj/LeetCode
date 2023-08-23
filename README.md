@@ -88,6 +88,11 @@ The questions are divided into 3 levels of difficulty:
 | [LC0073.py]     | [Sliding Window Maximum]                                                                              | Hard       |
 | [LC0074.py]     | [01 Matrix]                                                                                           | Medium     |
 | [LC0075.py]     | [Maximal Network Rank]                                                                                | Medium     |
+| [LC0076.py]     | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree]                                    | Hard       |
+| [LC0077.py]     | [Sort Items by Groups Respecting Dependencies]                                                        | Hard       |
+| [LC0078.py]     | [Reorganize String]                                                                                   | Medium     |
+| [LC0079.py]     | [Excel Sheet Column Title]                                                                            | Easy       |
+| [LC0080.py]     | [Repeated Substring Pattern]                                                                          | Easy       |
 
 [//]: # (Solutions)
 
@@ -318,3 +323,18 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0075.py]: Solutions/LC0075.py
 [Maximal Network Rank]:https://leetcode.com/problems/maximal-network-rank/
+
+[LC0076.py]: Solutions/LC0076.py
+[Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree]:https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/
+
+[LC0077.py]: Solutions/LC0077.py
+[Sort Items by Groups Respecting Dependencies]:https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
+
+[LC0078.py]: Solutions/LC0078.py
+[Reorganize String]:https://leetcode.com/problems/reorganize-string/
+
+[LC0079.py]: Solutions/LC0079.py
+[Excel Sheet Column Title]:https://leetcode.com/problems/excel-sheet-column-title/
+
+[LC0080.py]: Solutions/LC0080.py
+[Repeated Substring Pattern]:https://leetcode.com/problems/repeated-substring-pattern/
