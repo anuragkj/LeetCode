@@ -93,6 +93,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0078.py]     | [Reorganize String]                                                                                   | Medium     |
 | [LC0079.py]     | [Excel Sheet Column Title]                                                                            | Easy       |
 | [LC0080.py]     | [Repeated Substring Pattern]                                                                          | Easy       |
+| [LC0081.py]     | [Text Justification]                                                                                  | Hard       |
 
 [//]: # (Solutions)
 
@@ -338,3 +339,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0080.py]: Solutions/LC0080.py
 [Repeated Substring Pattern]:https://leetcode.com/problems/repeated-substring-pattern/
+
+[LC0081.py]: Solutions/LC0081.py
+[Text Justification]:https://leetcode.com/problems/text-justification/
