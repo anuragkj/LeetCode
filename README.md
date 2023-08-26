@@ -94,6 +94,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0079.py]     | [Excel Sheet Column Title]                                                                            | Easy       |
 | [LC0080.py]     | [Repeated Substring Pattern]                                                                          | Easy       |
 | [LC0081.py]     | [Text Justification]                                                                                  | Hard       |
+| [LC0082.py]     | [Interleaving String]                                                                                 | Medium     |
+| [LC0083.py]     | [Maximum Length of Pair Chain]                                                                        | Medium     |
 
 [//]: # (Solutions)
 
@@ -342,3 +344,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0081.py]: Solutions/LC0081.py
 [Text Justification]:https://leetcode.com/problems/text-justification/
+
+[LC0082.py]: Solutions/LC0082.py
+[Interleaving String]:https://leetcode.com/problems/interleaving-string/
+
+[LC0083.py]: Solutions/LC0083.py
+[Maximum Length of Pair Chain]:https://leetcode.com/problems/maximum-length-of-pair-chain/
