@@ -97,6 +97,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0082.py]     | [Interleaving String]                                                                                 | Medium     |
 | [LC0083.py]     | [Maximum Length of Pair Chain]                                                                        | Medium     |
 | [LC0084.py]     | [Frog Jump]                                                                                           | Hard       |
+| [LC0084.py]     | [Implement Stack using Queues]                                                                        | Easy       |
 
 [//]: # (Solutions)
 
@@ -354,3 +355,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0084.py]: Solutions/LC0084.py
 [Frog Jump]:https://leetcode.com/problems/frog-jump/
+
+[LC0085.py]: Solutions/LC0085.py
+[Implement Stack using Queues]:https://leetcode.com/problems/implement-stack-using-queues/
