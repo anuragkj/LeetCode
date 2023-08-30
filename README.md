@@ -97,7 +97,10 @@ The questions are divided into 3 levels of difficulty:
 | [LC0082.py]     | [Interleaving String]                                                                                 | Medium     |
 | [LC0083.py]     | [Maximum Length of Pair Chain]                                                                        | Medium     |
 | [LC0084.py]     | [Frog Jump]                                                                                           | Hard       |
-| [LC0084.py]     | [Implement Stack using Queues]                                                                        | Easy       |
+| [LC0085.py]     | [Implement Stack using Queues]                                                                        | Easy       |
+| [LC0086.py]     | [Minimum Penalty for a Shop]                                                                          | Medium     |
+| [LC0087.py]     | [Minimum Replacements to Sort the Array]                                                              | Hard       |
+
 
 [//]: # (Solutions)
 
@@ -358,3 +361,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0085.py]: Solutions/LC0085.py
 [Implement Stack using Queues]:https://leetcode.com/problems/implement-stack-using-queues/
+
+[LC0086.py]: Solutions/LC0086.py
+[Minimum Penalty for a Shop]:https://leetcode.com/problems/minimum-penalty-for-a-shop/
+
+[LC0087.py]: Solutions/LC0087.py
+[Minimum Replacements to Sort the Array]:https://leetcode.com/problems/minimum-replacements-to-sort-the-array/
