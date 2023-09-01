@@ -100,6 +100,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0085.py]     | [Implement Stack using Queues]                                                                        | Easy       |
 | [LC0086.py]     | [Minimum Penalty for a Shop]                                                                          | Medium     |
 | [LC0087.py]     | [Minimum Replacements to Sort the Array]                                                              | Hard       |
+| [LC0088.py]     | [Minimum Number of Taps to Open to Water a Garden]                                                    | Hard       |
+| [LC0089.py]     | [Counting Bits]                                                                                       | Easy       |
 
 
 [//]: # (Solutions)
@@ -367,3 +369,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0087.py]: Solutions/LC0087.py
 [Minimum Replacements to Sort the Array]:https://leetcode.com/problems/minimum-replacements-to-sort-the-array/
+
+[LC0088.py]: Solutions/LC0088.py
+[Minimum Number of Taps to Open to Water a Garden]:https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/
+
+[LC0089.py]: Solutions/LC0089.py
+[Counting Bits]:https://leetcode.com/problems/counting-bits/
