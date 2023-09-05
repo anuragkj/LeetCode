@@ -102,6 +102,10 @@ The questions are divided into 3 levels of difficulty:
 | [LC0087.py]     | [Minimum Replacements to Sort the Array]                                                              | Hard       |
 | [LC0088.py]     | [Minimum Number of Taps to Open to Water a Garden]                                                    | Hard       |
 | [LC0089.py]     | [Counting Bits]                                                                                       | Easy       |
+| [LC0090.py]     | [Extra Characters in a String]                                                                        | Medium     |
+| [LC0091.py]     | [Unique Paths]                                                                                        | Medium     |
+| [LC0092.py]     | [Linked List Cycle]                                                                                   | Easy       |
+| [LC0093.py]     | [Copy List with Random Pointer]                                                                       | Medium     |
 
 
 [//]: # (Solutions)
@@ -375,3 +379,15 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0089.py]: Solutions/LC0089.py
 [Counting Bits]:https://leetcode.com/problems/counting-bits/
+
+[LC0090.py]: Solutions/LC0090.py
+[Extra Characters in a String]:https://leetcode.com/problems/extra-characters-in-a-string/
+
+[LC0091.py]: Solutions/LC0091.py
+[Unique Paths]:https://leetcode.com/problems/unique-paths/
+
+[LC0092.py]: Solutions/LC0092.py
+[Linked List Cycle]:https://leetcode.com/problems/linked-list-cycle/
+
+[LC0093.py]: Solutions/LC0093.py
+[Copy List with Random Pointer]:https://leetcode.com/problems/copy-list-with-random-pointer/
