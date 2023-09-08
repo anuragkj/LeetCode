@@ -106,6 +106,9 @@ The questions are divided into 3 levels of difficulty:
 | [LC0091.py]     | [Unique Paths]                                                                                        | Medium     |
 | [LC0092.py]     | [Linked List Cycle]                                                                                   | Easy       |
 | [LC0093.py]     | [Copy List with Random Pointer]                                                                       | Medium     |
+| [LC0094.py]     | [Split Linked List in Parts]                                                                          | Medium     |
+| [LC0095.py]     | [Reverse Linked List II]                                                                              | Medium     |
+| [LC0096.py]     | [Pascal's Triangle            ]                                                                       | Easy       |
 
 
 [//]: # (Solutions)
@@ -391,3 +394,12 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0093.py]: Solutions/LC0093.py
 [Copy List with Random Pointer]:https://leetcode.com/problems/copy-list-with-random-pointer/
+
+[LC0094.py]: Solutions/LC0094.py
+[Split Linked List in Parts]:https://leetcode.com/problems/split-linked-list-in-parts/
+
+[LC0095.py]: Solutions/LC0095.py
+[Reverse Linked List II]:https://leetcode.com/problems/reverse-linked-list-ii/description/
+
+[LC0096.py]: Solutions/LC0096.py
+[Pascal's Triangle]:https://leetcode.com/problems/pascals-triangle/
