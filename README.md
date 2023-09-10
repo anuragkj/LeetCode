@@ -110,6 +110,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0095.py]     | [Reverse Linked List II]                                                                              | Medium     |
 | [LC0096.py]     | [Pascal's Triangle]                                                                                   | Easy       |
 | [LC0097.py]     | [Combination Sum IV]                                                                                  | Medium     |
+| [LC0098.py]     | [Count All Valid Pickup and Delivery Options]                                                         | Hard       |
 
 
 [//]: # (Solutions)
@@ -407,3 +408,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0097.py]: Solutions/LC0097.py
 [Combination Sum IV]:https://leetcode.com/problems/combination-sum-iv/
+
+[LC0098.py]: Solutions/LC0098.py
+[Count All Valid Pickup and Delivery Options]:https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/
