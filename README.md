@@ -111,6 +111,14 @@ The questions are divided into 3 levels of difficulty:
 | [LC0096.py]     | [Pascal's Triangle]                                                                                   | Easy       |
 | [LC0097.py]     | [Combination Sum IV]                                                                                  | Medium     |
 | [LC0098.py]     | [Count All Valid Pickup and Delivery Options]                                                         | Hard       |
+| [LC0099.py]     | [Group the People Given the Group Size They Belong To]                                                | Medium     |
+| [LC0100.py]     | [Minimum Deletions to Make Character Frequencies Unique]                                              | Medium     |
+| [LC0101.py]     | [Candy]                                                                                               | Hard       |
+| [LC0102.py]     | [Reconstruct Itinerary]                                                                               | Hard       |
+| [LC0103.py]     | [Min Cost to Connect All Points]                                                                      | Medium     |
+| [LC0104.py]     | [Path With Minimum Effort]                                                                            | Medium     |
+| [LC0105.py]     | [Shortest Path Visiting All Nodes]                                                                    | Hard       |
+
 
 
 [//]: # (Solutions)
@@ -411,3 +419,24 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0098.py]: Solutions/LC0098.py
 [Count All Valid Pickup and Delivery Options]:https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/
+
+[LC0099.py]: Solutions/LC0099.py
+[Group the People Given the Group Size They Belong To]:https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
+
+[LC00100.py]: Solutions/LC0100.py
+[Minimum Deletions to Make Character Frequencies Unique]:https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
+
+[LC00101.py]: Solutions/LC0101.py
+[Candy]:https://leetcode.com/problems/candy/
+
+[LC00102.py]: Solutions/LC0102.py
+[Reconstruct Itinerary]:https://leetcode.com/problems/reconstruct-itinerary/
+
+[LC00103.py]: Solutions/LC0103.py
+[Min Cost to Connect All Points]:https://leetcode.com/problems/min-cost-to-connect-all-points/
+
+[LC00104.py]: Solutions/LC0104.py
+[Path With Minimum Effort]:https://leetcode.com/problems/path-with-minimum-effort/
+
+[LC00105.py]: Solutions/LC0105.py
+[Shortest Path Visiting All Nodes]:https://leetcode.com/problems/shortest-path-visiting-all-nodes/
