@@ -118,6 +118,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0103.py]     | [Min Cost to Connect All Points]                                                                      | Medium     |
 | [LC0104.py]     | [Path With Minimum Effort]                                                                            | Medium     |
 | [LC0105.py]     | [Shortest Path Visiting All Nodes]                                                                    | Hard       |
+| [LC0106.py]     | [The K Weakest Rows in a Matrix]                                                                      | Easy       |
 
 
 
@@ -440,3 +441,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC00105.py]: Solutions/LC0105.py
 [Shortest Path Visiting All Nodes]:https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+
+[LC00106.py]: Solutions/LC0106.py
+[The K Weakest Rows in a Matrix]:https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
