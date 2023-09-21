@@ -119,6 +119,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0104.py]     | [Path With Minimum Effort]                                                                            | Medium     |
 | [LC0105.py]     | [Shortest Path Visiting All Nodes]                                                                    | Hard       |
 | [LC0106.py]     | [The K Weakest Rows in a Matrix]                                                                      | Easy       |
+| [LC0107.py]     | [Find the Duplicate Number]                                                                           | Medium     |
+| [LC0108.py]     | [Minimum Operations to Reduce X to Zero]                                                              | Medium     |
 
 
 
@@ -444,3 +446,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC00106.py]: Solutions/LC0106.py
 [The K Weakest Rows in a Matrix]:https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
+
+[LC00107.py]: Solutions/LC0107.py
+[Find the Duplicate Number]:https://leetcode.com/problems/find-the-duplicate-number/
+
+[LC00108.py]: Solutions/LC0108.py
+[Minimum Operations to Reduce X to Zero]:https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
