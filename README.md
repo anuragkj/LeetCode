@@ -121,7 +121,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0106.py]     | [The K Weakest Rows in a Matrix]                                                                      | Easy       |
 | [LC0107.py]     | [Find the Duplicate Number]                                                                           | Medium     |
 | [LC0108.py]     | [Minimum Operations to Reduce X to Zero]                                                              | Medium     |
-
+| [LC0109.py]     | [Is Subsequence]                                                                                      | Easy       |
 
 
 [//]: # (Solutions)
@@ -452,3 +452,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC00108.py]: Solutions/LC0108.py
 [Minimum Operations to Reduce X to Zero]:https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
+
+[LC00109.py]: Solutions/LC0109.py
+[Is Subsequence]:https://leetcode.com/problems/is-subsequence/
