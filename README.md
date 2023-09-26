@@ -122,6 +122,11 @@ The questions are divided into 3 levels of difficulty:
 | [LC0107.py]     | [Find the Duplicate Number]                                                                           | Medium     |
 | [LC0108.py]     | [Minimum Operations to Reduce X to Zero]                                                              | Medium     |
 | [LC0109.py]     | [Is Subsequence]                                                                                      | Easy       |
+| [LC0110.py]     | [Longest String Chain]                                                                                | Medium     |
+| [LC0111.py]     | [Champagne Tower]                                                                                     | Medium     |
+| [LC0112.py]     | [Find the Difference]                                                                                 | Easy       |
+| [LC0113.py]     | [Smallest Subsequence of Distinct Characters]                                                         | Medium     |
+| [LC0114.py]     | [Remove Duplicate Letters]                                                                            | Medium     |
 
 
 [//]: # (Solutions)
@@ -455,3 +460,18 @@ The questions are divided into 3 levels of difficulty:
 
 [LC00109.py]: Solutions/LC0109.py
 [Is Subsequence]:https://leetcode.com/problems/is-subsequence/
+
+[LC00110.py]: Solutions/LC0110.py
+[Longest String Chain]:https://leetcode.com/problems/longest-string-chain/
+
+[LC00111.py]: Solutions/LC0111.py
+[Champagne Tower]:https://leetcode.com/problems/champagne-tower/
+
+[LC00112.py]: Solutions/LC0112.py
+[Find the Difference]:https://leetcode.com/problems/find-the-difference/
+
+[LC00113.py]: Solutions/LC0113.py
+[Smallest Subsequence of Distinct Characters]:https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
+
+[LC00114.py]: Solutions/LC0114.py
+[Remove Duplicate Letters]:https://leetcode.com/problems/remove-duplicate-letters/
