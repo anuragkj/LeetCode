@@ -431,47 +431,47 @@ The questions are divided into 3 levels of difficulty:
 [LC0099.py]: Solutions/LC0099.py
 [Group the People Given the Group Size They Belong To]:https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
 
-[LC00100.py]: Solutions/LC0100.py
+[LC0100.py]: Solutions/LC0100.py
 [Minimum Deletions to Make Character Frequencies Unique]:https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
 
-[LC00101.py]: Solutions/LC0101.py
+[LC0101.py]: Solutions/LC0101.py
 [Candy]:https://leetcode.com/problems/candy/
 
-[LC00102.py]: Solutions/LC0102.py
+[LC0102.py]: Solutions/LC0102.py
 [Reconstruct Itinerary]:https://leetcode.com/problems/reconstruct-itinerary/
 
-[LC00103.py]: Solutions/LC0103.py
+[LC0103.py]: Solutions/LC0103.py
 [Min Cost to Connect All Points]:https://leetcode.com/problems/min-cost-to-connect-all-points/
 
-[LC00104.py]: Solutions/LC0104.py
+[LC0104.py]: Solutions/LC0104.py
 [Path With Minimum Effort]:https://leetcode.com/problems/path-with-minimum-effort/
 
-[LC00105.py]: Solutions/LC0105.py
+[LC0105.py]: Solutions/LC0105.py
 [Shortest Path Visiting All Nodes]:https://leetcode.com/problems/shortest-path-visiting-all-nodes/
 
-[LC00106.py]: Solutions/LC0106.py
+[LC0106.py]: Solutions/LC0106.py
 [The K Weakest Rows in a Matrix]:https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 
-[LC00107.py]: Solutions/LC0107.py
+[LC0107.py]: Solutions/LC0107.py
 [Find the Duplicate Number]:https://leetcode.com/problems/find-the-duplicate-number/
 
-[LC00108.py]: Solutions/LC0108.py
+[LC0108.py]: Solutions/LC0108.py
 [Minimum Operations to Reduce X to Zero]:https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 
-[LC00109.py]: Solutions/LC0109.py
+[LC0109.py]: Solutions/LC0109.py
 [Is Subsequence]:https://leetcode.com/problems/is-subsequence/
 
-[LC00110.py]: Solutions/LC0110.py
+[LC0110.py]: Solutions/LC0110.py
 [Longest String Chain]:https://leetcode.com/problems/longest-string-chain/
 
-[LC00111.py]: Solutions/LC0111.py
+[LC0111.py]: Solutions/LC0111.py
 [Champagne Tower]:https://leetcode.com/problems/champagne-tower/
 
-[LC00112.py]: Solutions/LC0112.py
+[LC0112.py]: Solutions/LC0112.py
 [Find the Difference]:https://leetcode.com/problems/find-the-difference/
 
-[LC00113.py]: Solutions/LC0113.py
+[LC0113.py]: Solutions/LC0113.py
 [Smallest Subsequence of Distinct Characters]:https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
 
-[LC00114.py]: Solutions/LC0114.py
+[LC0114.py]: Solutions/LC0114.py
 [Remove Duplicate Letters]:https://leetcode.com/problems/remove-duplicate-letters/
