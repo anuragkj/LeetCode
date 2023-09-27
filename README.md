@@ -127,7 +127,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0112.py]     | [Find the Difference]                                                                                 | Easy       |
 | [LC0113.py]     | [Smallest Subsequence of Distinct Characters]                                                         | Medium     |
 | [LC0114.py]     | [Remove Duplicate Letters]                                                                            | Medium     |
-
+| [LC0115.py]     | [Decoded String at Index]                                                                             | Medium     |
 
 [//]: # (Solutions)
 
@@ -475,3 +475,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0114.py]: Solutions/LC0114.py
 [Remove Duplicate Letters]:https://leetcode.com/problems/remove-duplicate-letters/
+
+[LC0115.py]: Solutions/LC0115.py
+[Decoded String at Index]:https://leetcode.com/problems/decoded-string-at-index/
