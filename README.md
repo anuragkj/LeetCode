@@ -128,6 +128,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0113.py]     | [Smallest Subsequence of Distinct Characters]                                                         | Medium     |
 | [LC0114.py]     | [Remove Duplicate Letters]                                                                            | Medium     |
 | [LC0115.py]     | [Decoded String at Index]                                                                             | Medium     |
+| [LC0116.py]     | [Sort Array By Parity]                                                                                | Easy       |
 
 [//]: # (Solutions)
 
@@ -478,3 +479,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0115.py]: Solutions/LC0115.py
 [Decoded String at Index]:https://leetcode.com/problems/decoded-string-at-index/
+
+[LC0116.py]: Solutions/LC0116.py
+[Sort Array By Parity]:https://leetcode.com/problems/sort-array-by-parity/
