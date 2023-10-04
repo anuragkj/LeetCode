@@ -129,6 +129,13 @@ The questions are divided into 3 levels of difficulty:
 | [LC0114.py]     | [Remove Duplicate Letters]                                                                            | Medium     |
 | [LC0115.py]     | [Decoded String at Index]                                                                             | Medium     |
 | [LC0116.py]     | [Sort Array By Parity]                                                                                | Easy       |
+| [LC0117.py]     | [Monotonic Array]                                                                                     | Easy       |
+| [LC0118.py]     | [132 Pattern]                                                                                         | Medium     |
+| [LC0119.py]     | [Reverse Words in a String III]                                                                       | Easy       |
+| [LC0120.py]     | [Remove Colored Pieces if Both Neighbors are the Same Color]                                          | Medium     |
+| [LC0121.py]     | [Keys and Rooms]                                                                                      | Medium     |
+| [LC0122.py]     | [Number of Good Pairs]                                                                                | Easy       |
+| [LC0123.py]     | [Design HashMap]                                                                                      | Easy       |
 
 [//]: # (Solutions)
 
@@ -482,3 +489,24 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0116.py]: Solutions/LC0116.py
 [Sort Array By Parity]:https://leetcode.com/problems/sort-array-by-parity/
+
+[LC0117.py]: Solutions/LC0117.py
+[Monotonic Array]:https://leetcode.com/problems/monotonic-array/
+
+[LC0118.py]: Solutions/LC0118.py
+[132 Pattern]:https://leetcode.com/problems/132-pattern/
+
+[LC0119.py]: Solutions/LC0119.py
+[Reverse Words in a String III]:https://leetcode.com/problems/reverse-words-in-a-string-iii/
+
+[LC0120.py]: Solutions/LC0120.py
+[Remove Colored Pieces if Both Neighbors are the Same Color]:https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/
+
+[LC0121.py]: Solutions/LC0121.py
+[Keys and Rooms]:https://leetcode.com/problems/keys-and-rooms/
+
+[LC0122.py]: Solutions/LC0122.py
+[Number of Good Pairs]:https://leetcode.com/problems/number-of-good-pairs/
+
+[LC0123.py]: Solutions/LC0123.py
+[Design HashMap]:https://leetcode.com/problems/design-hashmap/
