@@ -136,6 +136,12 @@ The questions are divided into 3 levels of difficulty:
 | [LC0121.py]     | [Keys and Rooms]                                                                                      | Medium     |
 | [LC0122.py]     | [Number of Good Pairs]                                                                                | Easy       |
 | [LC0123.py]     | [Design HashMap]                                                                                      | Easy       |
+| [LC0124.py]     | [Majority Element II]                                                                                 | Medium     |
+| [LC0125.py]     | [Integer Break]                                                                                       | Medium     |
+| [LC0126.py]     | [Build Array Where You Can Find The Maximum Exactly K Comparisons]                                    | Hard       |
+| [LC0127.py]     | [Max Dot Product of Two Subsequences]                                                                 | Hard       |
+| [LC0128.py]     | [Find First and Last Position of Element in Sorted Array]                                             | Medium     |
+| [LC0129.py]     | [Minimum Number of Operations to Make Array Continuous]                                               | Hard       |
 
 [//]: # (Solutions)
 
@@ -510,3 +516,21 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0123.py]: Solutions/LC0123.py
 [Design HashMap]:https://leetcode.com/problems/design-hashmap/
+
+[LC0124.py]: Solutions/LC0124.py
+[Majority Element II]:https://leetcode.com/problems/majority-element-ii/
+
+[LC0125.py]: Solutions/LC0125.py
+[Integer Break]:https://leetcode.com/problems/integer-break/
+
+[LC0126.py]: Solutions/LC0126.py
+[Build Array Where You Can Find The Maximum Exactly K Comparisons]:https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/
+
+[LC0127.py]: Solutions/LC0127.py
+[Max Dot Product of Two Subsequences]:https://leetcode.com/problems/max-dot-product-of-two-subsequences/
+
+[LC0128.py]: Solutions/LC0128.py
+[Find First and Last Position of Element in Sorted Array]:https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+
+[LC0129.py]: Solutions/LC0129.py
+[Minimum Number of Operations to Make Array Continuous]:https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/
