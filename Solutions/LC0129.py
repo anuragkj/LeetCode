@@ -3,11 +3,12 @@ class Solution:
         n = len(nums)
         ans = n
         new_nums = sorted(set(nums))
+        j = 0
         
         for i in range(len(new_nums)):
-            left = new_nums[i]
-            right = left + n - 1
-            j = bisect_right(new_nums, right)
+            while j < len(new_nums) and new_nums[j] < new_nums[i] + n:
+                j += 1
+            
             count = j - i
             ans = min(ans, n - count)
 
