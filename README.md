@@ -142,6 +142,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0127.py]     | [Max Dot Product of Two Subsequences]                                                                 | Hard       |
 | [LC0128.py]     | [Find First and Last Position of Element in Sorted Array]                                             | Medium     |
 | [LC0129.py]     | [Minimum Number of Operations to Make Array Continuous]                                               | Hard       |
+| [LC0130.py]     | [Number of Flowers in Full Bloom]                                                                     | Hard       |
 
 [//]: # (Solutions)
 
@@ -534,3 +535,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0129.py]: Solutions/LC0129.py
 [Minimum Number of Operations to Make Array Continuous]:https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/
+
+[LC0130.py]: Solutions/LC0130.py
+[Number of Flowers in Full Bloom]:https://leetcode.com/problems/number-of-flowers-in-full-bloom/
