@@ -143,6 +143,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0128.py]     | [Find First and Last Position of Element in Sorted Array]                                             | Medium     |
 | [LC0129.py]     | [Minimum Number of Operations to Make Array Continuous]                                               | Hard       |
 | [LC0130.py]     | [Number of Flowers in Full Bloom]                                                                     | Hard       |
+| [LC0131.py]     | [Find in Mountain Array]                                                                              | Hard       |
 
 [//]: # (Solutions)
 
@@ -538,3 +539,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0130.py]: Solutions/LC0130.py
 [Number of Flowers in Full Bloom]:https://leetcode.com/problems/number-of-flowers-in-full-bloom/
+
+[LC0131.py]: Solutions/LC0131.py
+[Find in Mountain Array]:https://leetcode.com/problems/find-in-mountain-array/
