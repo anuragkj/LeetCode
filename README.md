@@ -144,6 +144,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0129.py]     | [Minimum Number of Operations to Make Array Continuous]                                               | Hard       |
 | [LC0130.py]     | [Number of Flowers in Full Bloom]                                                                     | Hard       |
 | [LC0131.py]     | [Find in Mountain Array]                                                                              | Hard       |
+| [LC0132.py]     | [Min Cost Climbing Stairs]                                                                            | Easy       |
 
 [//]: # (Solutions)
 
@@ -542,3 +543,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0131.py]: Solutions/LC0131.py
 [Find in Mountain Array]:https://leetcode.com/problems/find-in-mountain-array/
+
+[LC0132.py]: Solutions/LC0132.py
+[Min Cost Climbing Stairs]:https://leetcode.com/problems/min-cost-climbing-stairs/
