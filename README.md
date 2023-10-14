@@ -145,6 +145,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0130.py]     | [Number of Flowers in Full Bloom]                                                                     | Hard       |
 | [LC0131.py]     | [Find in Mountain Array]                                                                              | Hard       |
 | [LC0132.py]     | [Min Cost Climbing Stairs]                                                                            | Easy       |
+| [LC0133.py]     | [Painting the Walls]                                                                                  | Hard       |
 
 [//]: # (Solutions)
 
@@ -546,3 +547,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0132.py]: Solutions/LC0132.py
 [Min Cost Climbing Stairs]:https://leetcode.com/problems/min-cost-climbing-stairs/
+
+[LC0133.py]: Solutions/LC0133.py
+[Painting the Walls]:https://leetcode.com/problems/painting-the-walls/
