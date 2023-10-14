@@ -1,5 +1,5 @@
 class Solution:
-    def minOperations(self, nums: List[int]) -> int:
+    def minOperations(self, nums):
         n = len(nums)
         ans = n
         new_nums = sorted(set(nums))
