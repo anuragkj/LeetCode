@@ -146,6 +146,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0131.py]     | [Find in Mountain Array]                                                                              | Hard       |
 | [LC0132.py]     | [Min Cost Climbing Stairs]                                                                            | Easy       |
 | [LC0133.py]     | [Painting the Walls]                                                                                  | Hard       |
+| [LC0134.py]     | [Number of Ways to Stay in the Same Place After Some Steps]                                           | Hard       |
 
 [//]: # (Solutions)
 
@@ -550,3 +551,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0133.py]: Solutions/LC0133.py
 [Painting the Walls]:https://leetcode.com/problems/painting-the-walls/
+
+[LC0134.py]: Solutions/LC0134.py
+[Number of Ways to Stay in the Same Place After Some Steps]:https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/
