@@ -148,6 +148,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0133.py]     | [Painting the Walls]                                                                                  | Hard       |
 | [LC0134.py]     | [Number of Ways to Stay in the Same Place After Some Steps]                                           | Hard       |
 | [LC0135.py]     | [Pascal's Triangle II]                                                                                | Easy       |
+| [LC0136.py]     | [Validate Binary Tree Nodes]                                                                          | Medium     |
 
 [//]: # (Solutions)
 
@@ -558,3 +559,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0135.py]: Solutions/LC0135.py
 [Pascal's Triangle II]:https://leetcode.com/problems/pascals-triangle-ii/
+
+[LC0136.py]: Solutions/LC0136.py
+[Validate Binary Tree Nodes]:https://leetcode.com/problems/validate-binary-tree-nodes/
