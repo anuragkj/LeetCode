@@ -149,6 +149,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0134.py]     | [Number of Ways to Stay in the Same Place After Some Steps]                                           | Hard       |
 | [LC0135.py]     | [Pascal's Triangle II]                                                                                | Easy       |
 | [LC0136.py]     | [Validate Binary Tree Nodes]                                                                          | Medium     |
+| [LC0137.py]     | [Parallel Courses III]                                                                                | Hard       |
 
 [//]: # (Solutions)
 
@@ -562,3 +563,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0136.py]: Solutions/LC0136.py
 [Validate Binary Tree Nodes]:https://leetcode.com/problems/validate-binary-tree-nodes/
+
+[LC0137.py]: Solutions/LC0137.py
+[Parallel Courses III]:https://leetcode.com/problems/parallel-courses-iii/
