@@ -150,6 +150,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0135.py]     | [Pascal's Triangle II]                                                                                | Easy       |
 | [LC0136.py]     | [Validate Binary Tree Nodes]                                                                          | Medium     |
 | [LC0137.py]     | [Parallel Courses III]                                                                                | Hard       |
+| [LC0138.py]     | [Backspace String Compare]                                                                            | Easy       |
+| [LC0139.py]     | [Flatten Nested List Iterator]                                                                        | Medium     |
 
 [//]: # (Solutions)
 
@@ -566,3 +568,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0137.py]: Solutions/LC0137.py
 [Parallel Courses III]:https://leetcode.com/problems/parallel-courses-iii/
+
+[LC0138.py]: Solutions/LC0138.py
+[Backspace String Compare]:https://leetcode.com/problems/backspace-string-compare/
+
+[LC0139.py]: Solutions/LC0139.py
+[Flatten Nested List Iterator]:https://leetcode.com/problems/flatten-nested-list-iterator/
