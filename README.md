@@ -152,6 +152,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0137.py]     | [Parallel Courses III]                                                                                | Hard       |
 | [LC0138.py]     | [Backspace String Compare]                                                                            | Easy       |
 | [LC0139.py]     | [Flatten Nested List Iterator]                                                                        | Medium     |
+| [LC0140.py]     | [Constrained Subsequence Sum]                                                                         | Hard       |
+| [LC0141.py]     | [Maximum Score of a Good Subarray]                                                                    | Hard       |
 
 [//]: # (Solutions)
 
@@ -574,3 +576,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0139.py]: Solutions/LC0139.py
 [Flatten Nested List Iterator]:https://leetcode.com/problems/flatten-nested-list-iterator/
+
+[LC0140.py]: Solutions/LC0140.py
+[Constrained Subsequence Sum]:https://leetcode.com/problems/constrained-subsequence-sum/
+
+[LC0141.py]: Solutions/LC0141.py
+[Maximum Score of a Good Subarray]:https://leetcode.com/problems/maximum-score-of-a-good-subarray/
