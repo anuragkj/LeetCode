@@ -154,6 +154,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0139.py]     | [Flatten Nested List Iterator]                                                                        | Medium     |
 | [LC0140.py]     | [Constrained Subsequence Sum]                                                                         | Hard       |
 | [LC0141.py]     | [Maximum Score of a Good Subarray]                                                                    | Hard       |
+| [LC0142.py]     | [Power of Four]                                                                                       | Easy       |
+| [LC0143.py]     | [Find Largest Value in Each Tree Row]                                                                 | Medium     |
 
 [//]: # (Solutions)
 
@@ -582,3 +584,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0141.py]: Solutions/LC0141.py
 [Maximum Score of a Good Subarray]:https://leetcode.com/problems/maximum-score-of-a-good-subarray/
+
+[LC0142.py]: Solutions/LC0142.py
+[Power of Four]:https://leetcode.com/problems/power-of-four/
+
+[LC0143.py]: Solutions/LC0143.py
+[Find Largest Value in Each Tree Row]:https://leetcode.com/problems/find-largest-value-in-each-tree-row/
