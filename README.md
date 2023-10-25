@@ -156,6 +156,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0141.py]     | [Maximum Score of a Good Subarray]                                                                    | Hard       |
 | [LC0142.py]     | [Power of Four]                                                                                       | Easy       |
 | [LC0143.py]     | [Find Largest Value in Each Tree Row]                                                                 | Medium     |
+| [LC0144.py]     | [K-th Symbol in Grammar]                                                                              | Medium     |
 
 [//]: # (Solutions)
 
@@ -590,3 +591,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0143.py]: Solutions/LC0143.py
 [Find Largest Value in Each Tree Row]:https://leetcode.com/problems/find-largest-value-in-each-tree-row/
+
+[LC0144.py]: Solutions/LC0144.py
+[K-th Symbol in Grammar]:https://leetcode.com/problems/k-th-symbol-in-grammar/
