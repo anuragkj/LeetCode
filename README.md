@@ -158,6 +158,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0143.py]     | [Find Largest Value in Each Tree Row]                                                                 | Medium     |
 | [LC0144.py]     | [K-th Symbol in Grammar]                                                                              | Medium     |
 | [LC0145.py]     | [Binary Trees With Factors]                                                                           | Medium     |
+| [LC0146.py]     | [Longest Palindromic Substring]                                                                       | Medium     |
 
 [//]: # (Solutions)
 
@@ -598,3 +599,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0145.py]: Solutions/LC0145.py
 [Binary Trees With Factors]:https://leetcode.com/problems/binary-trees-with-factors/
+
+[LC0146.py]: Solutions/LC0146.py
+[Longest Palindromic Substring]:https://leetcode.com/problems/longest-palindromic-substring/
