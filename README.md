@@ -602,3 +602,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0146.py]: Solutions/LC0146.py
 [Longest Palindromic Substring]:https://leetcode.com/problems/longest-palindromic-substring/
+
+[LC0147.py]: Solutions/LC0147.py
+[Count Vowels Permutation]:https://leetcode.com/problems/count-vowels-permutation/
