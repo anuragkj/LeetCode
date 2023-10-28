@@ -158,7 +158,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0143.py]     | [Find Largest Value in Each Tree Row]                                                                 | Medium     |
 | [LC0144.py]     | [K-th Symbol in Grammar]                                                                              | Medium     |
 | [LC0145.py]     | [Binary Trees With Factors]                                                                           | Medium     |
-| [LC0146.py]     | [Longest Palindromic Substring]                                                                       | Medium     |
+| [LC0146.py]     | [Longest Palindromic Substring]                                                                       | Hard       |
 
 [//]: # (Solutions)
 
