@@ -159,6 +159,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0144.py]     | [K-th Symbol in Grammar]                                                                              | Medium     |
 | [LC0145.py]     | [Binary Trees With Factors]                                                                           | Medium     |
 | [LC0146.py]     | [Longest Palindromic Substring]                                                                       | Hard       |
+| [LC0147.py]     | [Count Vowels Permutation]                                                                            | Hard       |
+| [LC0148.py]     | [Poor Pigs]                                                                                           | Hard       |
 
 [//]: # (Solutions)
 
@@ -605,3 +607,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0147.py]: Solutions/LC0147.py
 [Count Vowels Permutation]:https://leetcode.com/problems/count-vowels-permutation/
+
+[LC0148.py]: Solutions/LC0148.py
+[Poor Pigs]:https://leetcode.com/problems/poor-pigs/
