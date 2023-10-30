@@ -161,6 +161,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0146.py]     | [Longest Palindromic Substring]                                                                       | Hard       |
 | [LC0147.py]     | [Count Vowels Permutation]                                                                            | Hard       |
 | [LC0148.py]     | [Poor Pigs]                                                                                           | Hard       |
+| [LC0149.py]     | [Sort Integers by The Number of 1 Bits]                                                               | Easy       |
 
 [//]: # (Solutions)
 
@@ -610,3 +611,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0148.py]: Solutions/LC0148.py
 [Poor Pigs]:https://leetcode.com/problems/poor-pigs/
+
+[LC0149.py]: Solutions/LC0149.py
+[Sort Integers by The Number of 1 Bits]:https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
