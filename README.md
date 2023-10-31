@@ -162,6 +162,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0147.py]     | [Count Vowels Permutation]                                                                            | Hard       |
 | [LC0148.py]     | [Poor Pigs]                                                                                           | Hard       |
 | [LC0149.py]     | [Sort Integers by The Number of 1 Bits]                                                               | Easy       |
+| [LC0150.py]     | [Find The Original Array of Prefix Xor]                                                               | Medium     |
 
 [//]: # (Solutions)
 
