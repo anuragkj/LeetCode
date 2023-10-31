@@ -614,3 +614,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0149.py]: Solutions/LC0149.py
 [Sort Integers by The Number of 1 Bits]:https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
+
+[LC0149.py]: Solutions/LC0149.py
+[Sort Integers by The Number of 1 Bits]:https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
+
+[LC0150.py]: Solutions/LC0150.py
+[Find The Original Array of Prefix Xor]:https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
