@@ -163,6 +163,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0148.py]     | [Poor Pigs]                                                                                           | Hard       |
 | [LC0149.py]     | [Sort Integers by The Number of 1 Bits]                                                               | Easy       |
 | [LC0150.py]     | [Find The Original Array of Prefix Xor]                                                               | Medium     |
+| [LC0151.py]     | [Find Mode in Binary Search Tree]                                                                     | Easy       |
 
 [//]: # (Solutions)
 
@@ -621,3 +622,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0150.py]: Solutions/LC0150.py
 [Find The Original Array of Prefix Xor]:https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
+
+[LC0151.py]: Solutions/LC0151.py
+[Find Mode in Binary Search Tree]:https://leetcode.com/problems/find-mode-in-binary-search-tree/
