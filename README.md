@@ -625,3 +625,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0151.py]: Solutions/LC0151.py
 [Find Mode in Binary Search Tree]:https://leetcode.com/problems/find-mode-in-binary-search-tree/
+
+[LC0152.py]: Solutions/LC0152.py
+[Count Nodes Equal to Average of Subtree]:https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
