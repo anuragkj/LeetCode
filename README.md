@@ -164,7 +164,9 @@ The questions are divided into 3 levels of difficulty:
 | [LC0149.py]     | [Sort Integers by The Number of 1 Bits]                                                               | Easy       |
 | [LC0150.py]     | [Find The Original Array of Prefix Xor]                                                               | Medium     |
 | [LC0151.py]     | [Find Mode in Binary Search Tree]                                                                     | Easy       |
+| [LC0152.py]     | [Count Nodes Equal to Average of Subtree]                                                             | Medium     |
 | [LC0153.py]     | [Build an Array With Stack Operations]                                                                | Medium     |
+| [LC0154.py]     | [Last Moment Before All Ants Fall Out of a Plank]                                                     | Medium     |
 
 [//]: # (Solutions)
 
@@ -630,5 +632,8 @@ The questions are divided into 3 levels of difficulty:
 [LC0152.py]: Solutions/LC0152.py
 [Count Nodes Equal to Average of Subtree]:https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
 
-[LC0153.py]: Solutions/LC0154.py
+[LC0153.py]: Solutions/LC0153.py
 [Build an Array With Stack Operations]:https://leetcode.com/problems/build-an-array-with-stack-operations/
+
+[LC0154.py]: Solutions/LC0154.py
+[Last Moment Before All Ants Fall Out of a Plank]:https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/
