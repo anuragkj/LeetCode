@@ -641,3 +641,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0155.py]: Solutions/LC0155.py
 [Find the Winner of an Array Game]:https://leetcode.com/problems/find-the-winner-of-an-array-game/
+
+[LC0156.py]: Solutions/LC0156.py
+[Seat Reservation Manager]:https://leetcode.com/problems/seat-reservation-manager/
