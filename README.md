@@ -168,6 +168,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0153.py]     | [Build an Array With Stack Operations]                                                                | Medium     |
 | [LC0154.py]     | [Last Moment Before All Ants Fall Out of a Plank]                                                     | Medium     |
 | [LC0155.py]     | [Find the Winner of an Array Game]                                                                    | Medium     |
+| [LC0156.py]     | [Seat Reservation Manager]                                                                            | Medium     |
+| [LC0157.py]     | [Eliminate Maximum Number of Monsters]                                                                | Medium     |
 
 [//]: # (Solutions)
 
@@ -644,3 +646,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0156.py]: Solutions/LC0156.py
 [Seat Reservation Manager]:https://leetcode.com/problems/seat-reservation-manager/
+
+[LC0157.py]: Solutions/LC0157.py
+[Eliminate Maximum Number of Monsters]:https://leetcode.com/problems/eliminate-maximum-number-of-monsters/
