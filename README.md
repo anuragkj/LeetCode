@@ -170,6 +170,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0155.py]     | [Find the Winner of an Array Game]                                                                    | Medium     |
 | [LC0156.py]     | [Seat Reservation Manager]                                                                            | Medium     |
 | [LC0157.py]     | [Eliminate Maximum Number of Monsters]                                                                | Medium     |
+| [LC0158.py]     | [Determine if a Cell Is Reachable at a Given Time]                                                    | Medium     |
 
 [//]: # (Solutions)
 
@@ -649,3 +650,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0157.py]: Solutions/LC0157.py
 [Eliminate Maximum Number of Monsters]:https://leetcode.com/problems/eliminate-maximum-number-of-monsters/
+
+[LC0158.py]: Solutions/LC0158.py
+[Determine if a Cell Is Reachable at a Given Time]:https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/
