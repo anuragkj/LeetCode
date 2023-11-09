@@ -171,6 +171,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0156.py]     | [Seat Reservation Manager]                                                                            | Medium     |
 | [LC0157.py]     | [Eliminate Maximum Number of Monsters]                                                                | Medium     |
 | [LC0158.py]     | [Determine if a Cell Is Reachable at a Given Time]                                                    | Medium     |
+| [LC0159.py]     | [Count Number of Homogenous Substrings]                                                               | Medium     |
 
 [//]: # (Solutions)
 
@@ -653,3 +654,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0158.py]: Solutions/LC0158.py
 [Determine if a Cell Is Reachable at a Given Time]:https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/
+
+[LC0159.py]: Solutions/LC0159.py
+[Count Number of Homogenous Substrings]:https://leetcode.com/problems/count-number-of-homogenous-substrings/
