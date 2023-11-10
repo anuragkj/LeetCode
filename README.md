@@ -172,6 +172,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0157.py]     | [Eliminate Maximum Number of Monsters]                                                                | Medium     |
 | [LC0158.py]     | [Determine if a Cell Is Reachable at a Given Time]                                                    | Medium     |
 | [LC0159.py]     | [Count Number of Homogenous Substrings]                                                               | Medium     |
+| [LC0160.py]     | [Restore the Array From Adjacent Pairs]                                                               | Medium     |
 
 [//]: # (Solutions)
 
@@ -657,3 +658,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0159.py]: Solutions/LC0159.py
 [Count Number of Homogenous Substrings]:https://leetcode.com/problems/count-number-of-homogenous-substrings/
+
+[LC0160.py]: Solutions/LC0160.py
+[Restore the Array From Adjacent Pairs]:https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
