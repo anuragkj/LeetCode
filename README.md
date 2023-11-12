@@ -173,7 +173,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0158.py]     | [Determine if a Cell Is Reachable at a Given Time]                                                    | Medium     |
 | [LC0159.py]     | [Count Number of Homogenous Substrings]                                                               | Medium     |
 | [LC0160.py]     | [Restore the Array From Adjacent Pairs]                                                               | Medium     |
-| [LC0160.py]     | [Design Graph With Shortest Path Calculator]                                                          | Hard       |
+| [LC0161.py]     | [Design Graph With Shortest Path Calculator]                                                          | Hard       |
+| [LC0162.py]     | [Bus Routes]                                                                                          | Hard       |
 
 [//]: # (Solutions)
 
@@ -665,3 +666,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0161.py]: Solutions/LC0161.py
 [Design Graph With Shortest Path Calculator]:https://leetcode.com/problems/design-graph-with-shortest-path-calculator/
+
+[LC0162.py]: Solutions/LC0162.py
+[Bus Routes]:https://leetcode.com/problems/bus-routes/
