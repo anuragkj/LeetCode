@@ -175,6 +175,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0160.py]     | [Restore the Array From Adjacent Pairs]                                                               | Medium     |
 | [LC0161.py]     | [Design Graph With Shortest Path Calculator]                                                          | Hard       |
 | [LC0162.py]     | [Bus Routes]                                                                                          | Hard       |
+| [LC0163.py]     | [Sort Vowels in a String]                                                                             | Medium     |
 
 [//]: # (Solutions)
 
@@ -669,3 +670,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0162.py]: Solutions/LC0162.py
 [Bus Routes]:https://leetcode.com/problems/bus-routes/
+
+[LC0163.py]: Solutions/LC0163.py
+[Sort Vowels in a String]:https://leetcode.com/problems/sort-vowels-in-a-string/
