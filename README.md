@@ -177,6 +177,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0162.py]     | [Bus Routes]                                                                                          | Hard       |
 | [LC0163.py]     | [Sort Vowels in a String]                                                                             | Medium     |
 | [LC0164.py]     | [Unique Length-3 Palindromic Subsequences]                                                            | Medium     |
+| [LC0165.py]     | [Maximum Element After Decreasing and Rearranging]                                                    | Medium     |
 
 [//]: # (Solutions)
 
@@ -677,3 +678,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0164.py]: Solutions/LC0164.py
 [Unique Length-3 Palindromic Subsequences]:https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
+
+[LC0165.py]: Solutions/LC0165.py
+[Maximum Element After Decreasing and Rearranging]:https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
