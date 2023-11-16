@@ -178,6 +178,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0163.py]     | [Sort Vowels in a String]                                                                             | Medium     |
 | [LC0164.py]     | [Unique Length-3 Palindromic Subsequences]                                                            | Medium     |
 | [LC0165.py]     | [Maximum Element After Decreasing and Rearranging]                                                    | Medium     |
+| [LC0166.py]     | [Find Unique Binary String]                                                                           | Medium     |
 
 [//]: # (Solutions)
 
@@ -681,3 +682,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0165.py]: Solutions/LC0165.py
 [Maximum Element After Decreasing and Rearranging]:https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
+
+[LC0166.py]: Solutions/LC0166.py
+[Find Unique Binary String]:https://leetcode.com/problems/find-unique-binary-string/
