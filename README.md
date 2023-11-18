@@ -180,6 +180,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0165.py]     | [Maximum Element After Decreasing and Rearranging]                                                    | Medium     |
 | [LC0166.py]     | [Find Unique Binary String]                                                                           | Medium     |
 | [LC0167.py]     | [Minimize Maximum Pair Sum in Array]                                                                  | Medium     |
+| [LC0168.py]     | [Frequency of the Most Frequent Element]                                                              | Medium     |
 
 [//]: # (Solutions)
 
@@ -689,3 +690,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0167.py]: Solutions/LC0167.py
 [Minimize Maximum Pair Sum in Array]:https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
+
+[LC0168.py]: Solutions/LC0168.py
+[Frequency of the Most Frequent Element]:https://leetcode.com/problems/frequency-of-the-most-frequent-element/
