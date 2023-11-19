@@ -181,6 +181,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0166.py]     | [Find Unique Binary String]                                                                           | Medium     |
 | [LC0167.py]     | [Minimize Maximum Pair Sum in Array]                                                                  | Medium     |
 | [LC0168.py]     | [Frequency of the Most Frequent Element]                                                              | Medium     |
+| [LC0169.py]     | [Reduction Operations to Make the Array Elements Equal]                                               | Medium     |
 
 [//]: # (Solutions)
 
@@ -693,3 +694,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0168.py]: Solutions/LC0168.py
 [Frequency of the Most Frequent Element]:https://leetcode.com/problems/frequency-of-the-most-frequent-element/
+
+[LC0169.py]: Solutions/LC0169.py
+[Reduction Operations to Make the Array Elements Equal]:hhttps://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
