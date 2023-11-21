@@ -185,6 +185,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0170.py]     | [Minimum Amount of Time to Collect Garbage]                                                           | Medium     |
 | [LC0171.py]     | [Count Nice Pairs in an Array]                                                                        | Medium     |
 
+
 [//]: # (Solutions)
 
 [LC0001.py]: Solutions/LC0001.py
@@ -705,3 +706,5 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0171.py]: Solutions/LC0171.py
 [Count Nice Pairs in an Array]:https://leetcode.com/problems/count-nice-pairs-in-an-array/
+
+
