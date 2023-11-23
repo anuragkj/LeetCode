@@ -185,6 +185,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0170.py]     | [Minimum Amount of Time to Collect Garbage]                                                           | Medium     |
 | [LC0171.py]     | [Count Nice Pairs in an Array]                                                                        | Medium     |
 | [LC0172.py]     | [Diagonal Traverse II]                                                                                | Medium     |
+| [LC0173.py]     | [Arithmetic Subarrays]                                                                                | Medium     |
  
 
 [//]: # (Solutions)
@@ -710,3 +711,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0172.py]: Solutions/LC0172.py
 [Diagonal Traverse II]:https://leetcode.com/problems/diagonal-traverse-ii/
+
+[LC0173.py]: Solutions/LC0173.py
+[Arithmetic Subarrays]:https://leetcode.com/problems/arithmetic-subarrays/
