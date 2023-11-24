@@ -186,6 +186,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0171.py]     | [Count Nice Pairs in an Array]                                                                        | Medium     |
 | [LC0172.py]     | [Diagonal Traverse II]                                                                                | Medium     |
 | [LC0173.py]     | [Arithmetic Subarrays]                                                                                | Medium     |
+| [LC0174.py]     | [Maximum Number of Coins You Can Get]                                                                 | Medium     |
  
 
 [//]: # (Solutions)
@@ -714,3 +715,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0173.py]: Solutions/LC0173.py
 [Arithmetic Subarrays]:https://leetcode.com/problems/arithmetic-subarrays/
+
+[LC0174.py]: Solutions/LC0174.py
+[Maximum Number of Coins You Can Get]:https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
