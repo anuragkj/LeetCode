@@ -187,6 +187,12 @@ The questions are divided into 3 levels of difficulty:
 | [LC0172.py]     | [Diagonal Traverse II]                                                                                | Medium     |
 | [LC0173.py]     | [Arithmetic Subarrays]                                                                                | Medium     |
 | [LC0174.py]     | [Maximum Number of Coins You Can Get]                                                                 | Medium     |
+| [LC0175.py]     | [Sum of Absolute Differences in a Sorted Array]                                                       | Medium     |
+| [LC0176.py]     | [Largest Submatrix With Rearrangements]                                                               | Medium     |
+| [LC0177.py]     | [Knight Dialer]                                                                                       | Medium     |
+| [LC0178.py]     | [Number of Ways to Divide a Long Corridor]                                                            | Hard       |
+| [LC0179.py]     | [Number of 1 Bits]                                                                                    | Easy       |
+| [LC0180.py]     | [Minimum One Bit Operations to Make Integers Zero]                                                    | Hard       |
  
 
 [//]: # (Solutions)
@@ -718,3 +724,21 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0174.py]: Solutions/LC0174.py
 [Maximum Number of Coins You Can Get]:https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
+
+[LC0175.py]: Solutions/LC0175.py
+[Sum of Absolute Differences in a Sorted Array]:https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
+
+[LC0176.py]: Solutions/LC0176.py
+[Largest Submatrix With Rearrangements]:https://leetcode.com/problems/largest-submatrix-with-rearrangements/
+
+[LC0177.py]: Solutions/LC0177.py
+[Knight Dialer]:https://leetcode.com/problems/knight-dialer/
+
+[LC0178.py]: Solutions/LC0178.py
+[Number of Ways to Divide a Long Corridor]:https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/
+
+[LC0179.py]: Solutions/LC0179.py
+[Number of 1 Bits]:https://leetcode.com/problems/number-of-1-bits/
+
+[LC0180.py]: Solutions/LC0180.py
+[Minimum One Bit Operations to Make Integers Zero]:https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/
