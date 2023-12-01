@@ -193,6 +193,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0178.py]     | [Number of Ways to Divide a Long Corridor]                                                            | Hard       |
 | [LC0179.py]     | [Number of 1 Bits]                                                                                    | Easy       |
 | [LC0180.py]     | [Minimum One Bit Operations to Make Integers Zero]                                                    | Hard       |
+| [LC0181.py]     | [Check If Two String Arrays are Equivalent]                                                           | Easy       |
  
 
 [//]: # (Solutions)
@@ -742,3 +743,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0180.py]: Solutions/LC0180.py
 [Minimum One Bit Operations to Make Integers Zero]:https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/
+
+[LC0181.py]: Solutions/LC0181.py
+[Check If Two String Arrays are Equivalent]:https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
