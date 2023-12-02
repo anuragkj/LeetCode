@@ -194,6 +194,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0179.py]     | [Number of 1 Bits]                                                                                    | Easy       |
 | [LC0180.py]     | [Minimum One Bit Operations to Make Integers Zero]                                                    | Hard       |
 | [LC0181.py]     | [Check If Two String Arrays are Equivalent]                                                           | Easy       |
+| [LC0182.py]     | [Find Words That Can Be Formed by Characters]                                                         | Easy       |
  
 
 [//]: # (Solutions)
@@ -746,3 +747,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0181.py]: Solutions/LC0181.py
 [Check If Two String Arrays are Equivalent]:https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+
+[LC0182.py]: Solutions/LC0182.py
+[Find Words That Can Be Formed by Characters]:https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
