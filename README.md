@@ -195,6 +195,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0180.py]     | [Minimum One Bit Operations to Make Integers Zero]                                                    | Hard       |
 | [LC0181.py]     | [Check If Two String Arrays are Equivalent]                                                           | Easy       |
 | [LC0182.py]     | [Find Words That Can Be Formed by Characters]                                                         | Easy       |
+| [LC0183.py]     | [Minimum Time Visiting All Points]                                                                    | Easy       |
  
 
 [//]: # (Solutions)
@@ -750,3 +751,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0182.py]: Solutions/LC0182.py
 [Find Words That Can Be Formed by Characters]:https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
+
+[LC0183.py]: Solutions/LC0183.py
+[Minimum Time Visiting All Points]:https://leetcode.com/problems/minimum-time-visiting-all-points/
