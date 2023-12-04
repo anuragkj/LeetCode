@@ -196,6 +196,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0181.py]     | [Check If Two String Arrays are Equivalent]                                                           | Easy       |
 | [LC0182.py]     | [Find Words That Can Be Formed by Characters]                                                         | Easy       |
 | [LC0183.py]     | [Minimum Time Visiting All Points]                                                                    | Easy       |
+| [LC0184.py]     | [Largest 3-Same-Digit Number in String]                                                               | Easy       |
  
 
 [//]: # (Solutions)
@@ -754,3 +755,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0183.py]: Solutions/LC0183.py
 [Minimum Time Visiting All Points]:https://leetcode.com/problems/minimum-time-visiting-all-points/
+
+[LC0184.py]: Solutions/LC0184.py
+[Largest 3-Same-Digit Number in String]:https://leetcode.com/problems/largest-3-same-digit-number-in-string/
