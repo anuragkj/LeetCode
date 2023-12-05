@@ -197,6 +197,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0182.py]     | [Find Words That Can Be Formed by Characters]                                                         | Easy       |
 | [LC0183.py]     | [Minimum Time Visiting All Points]                                                                    | Easy       |
 | [LC0184.py]     | [Largest 3-Same-Digit Number in String]                                                               | Easy       |
+| [LC0185.py]     | [Count of Matches in Tournament]                                                                      | Easy       |
  
 
 [//]: # (Solutions)
@@ -758,3 +759,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0184.py]: Solutions/LC0184.py
 [Largest 3-Same-Digit Number in String]:https://leetcode.com/problems/largest-3-same-digit-number-in-string/
+
+[LC0185.py]: Solutions/LC0185.py
+[Count of Matches in Tournament]:https://leetcode.com/problems/count-of-matches-in-tournament/
