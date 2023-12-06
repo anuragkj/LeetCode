@@ -198,6 +198,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0183.py]     | [Minimum Time Visiting All Points]                                                                    | Easy       |
 | [LC0184.py]     | [Largest 3-Same-Digit Number in String]                                                               | Easy       |
 | [LC0185.py]     | [Count of Matches in Tournament]                                                                      | Easy       |
+| [LC0186.py]     | [Calculate Money in Leetcode Bank]                                                                    | Easy       |
  
 
 [//]: # (Solutions)
@@ -762,3 +763,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0185.py]: Solutions/LC0185.py
 [Count of Matches in Tournament]:https://leetcode.com/problems/count-of-matches-in-tournament/
+
+[LC0186.py]: Solutions/LC0186.py
+[Calculate Money in Leetcode Bank]:https://leetcode.com/problems/calculate-money-in-leetcode-bank/
