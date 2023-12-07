@@ -199,6 +199,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0184.py]     | [Largest 3-Same-Digit Number in String]                                                               | Easy       |
 | [LC0185.py]     | [Count of Matches in Tournament]                                                                      | Easy       |
 | [LC0186.py]     | [Calculate Money in Leetcode Bank]                                                                    | Easy       |
+| [LC0187.py]     | [Largest Odd Number in String]                                                                        | Easy       |
  
 
 [//]: # (Solutions)
@@ -766,3 +767,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0186.py]: Solutions/LC0186.py
 [Calculate Money in Leetcode Bank]:https://leetcode.com/problems/calculate-money-in-leetcode-bank/
+
+[LC0187.py]: Solutions/LC0187.py
+[Largest Odd Number in String]:https://leetcode.com/problems/largest-odd-number-in-string/
