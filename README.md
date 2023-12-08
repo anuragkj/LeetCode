@@ -200,6 +200,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0185.py]     | [Count of Matches in Tournament]                                                                      | Easy       |
 | [LC0186.py]     | [Calculate Money in Leetcode Bank]                                                                    | Easy       |
 | [LC0187.py]     | [Largest Odd Number in String]                                                                        | Easy       |
+| [LC0188.py]     | [Construct String from Binary Tree]                                                                   | Easy       |
  
 
 [//]: # (Solutions)
@@ -770,3 +771,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0187.py]: Solutions/LC0187.py
 [Largest Odd Number in String]:https://leetcode.com/problems/largest-odd-number-in-string/
+
+[LC0188.py]: Solutions/LC0188.py
+[Construct String from Binary Tree]:https://leetcode.com/problems/construct-string-from-binary-tree/
