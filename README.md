@@ -201,6 +201,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0186.py]     | [Calculate Money in Leetcode Bank]                                                                    | Easy       |
 | [LC0187.py]     | [Largest Odd Number in String]                                                                        | Easy       |
 | [LC0188.py]     | [Construct String from Binary Tree]                                                                   | Easy       |
+| [LC0189.py]     | [Binary Tree Inorder Traversal]                                                                       | Easy       |
  
 
 [//]: # (Solutions)
@@ -774,3 +775,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0188.py]: Solutions/LC0188.py
 [Construct String from Binary Tree]:https://leetcode.com/problems/construct-string-from-binary-tree/
+
+[LC0189.py]: Solutions/LC0189.py
+[Binary Tree Inorder Traversal]:https://leetcode.com/problems/binary-tree-inorder-traversal/
