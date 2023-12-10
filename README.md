@@ -202,6 +202,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0187.py]     | [Largest Odd Number in String]                                                                        | Easy       |
 | [LC0188.py]     | [Construct String from Binary Tree]                                                                   | Easy       |
 | [LC0189.py]     | [Binary Tree Inorder Traversal]                                                                       | Easy       |
+| [LC0190.py]     | [Transpose Matrix]                                                                                    | Easy       |
  
 
 [//]: # (Solutions)
@@ -778,3 +779,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0189.py]: Solutions/LC0189.py
 [Binary Tree Inorder Traversal]:https://leetcode.com/problems/binary-tree-inorder-traversal/
+
+[LC0190.py]: Solutions/LC0190.py
+[Transpose Matrix]:https://leetcode.com/problems/transpose-matrix/
