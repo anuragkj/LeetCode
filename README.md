@@ -204,6 +204,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0189.py]     | [Binary Tree Inorder Traversal]                                                                       | Easy       |
 | [LC0190.py]     | [Transpose Matrix]                                                                                    | Easy       |
 | [LC0191.py]     | [Element Appearing More Than 25% In Sorted Array]                                                     | Easy       |
+| [LC0192.py]     | [Maximum Product of Two Elements in an Array]                                                         | Easy       |
  
 
 [//]: # (Solutions)
@@ -786,3 +787,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0191.py]: Solutions/LC0191.py
 [Element Appearing More Than 25% In Sorted Array]:https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
+
+[LC0192.py]: Solutions/LC0192.py
+[Maximum Product of Two Elements in an Array]:https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
