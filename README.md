@@ -205,6 +205,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0190.py]     | [Transpose Matrix]                                                                                    | Easy       |
 | [LC0191.py]     | [Element Appearing More Than 25% In Sorted Array]                                                     | Easy       |
 | [LC0192.py]     | [Maximum Product of Two Elements in an Array]                                                         | Easy       |
+| [LC0193.py]     | [Special Positions in a Binary Matrix]                                                                | Easy       |
  
 
 [//]: # (Solutions)
@@ -790,3 +791,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0192.py]: Solutions/LC0192.py
 [Maximum Product of Two Elements in an Array]:https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
+
+[LC0193.py]: Solutions/LC0193.py
+[Special Positions in a Binary Matrix]:https://leetcode.com/problems/special-positions-in-a-binary-matrix/
