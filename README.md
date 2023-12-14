@@ -206,6 +206,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0191.py]     | [Element Appearing More Than 25% In Sorted Array]                                                     | Easy       |
 | [LC0192.py]     | [Maximum Product of Two Elements in an Array]                                                         | Easy       |
 | [LC0193.py]     | [Special Positions in a Binary Matrix]                                                                | Easy       |
+| [LC0194.py]     | [Difference Between Ones and Zeros in Row and Column]                                                 | Medium     |
  
 
 [//]: # (Solutions)
@@ -794,3 +795,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0193.py]: Solutions/LC0193.py
 [Special Positions in a Binary Matrix]:https://leetcode.com/problems/special-positions-in-a-binary-matrix/
+
+[LC0194.py]: Solutions/LC0194.py
+[Difference Between Ones and Zeros in Row and Column]:https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
