@@ -207,6 +207,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0192.py]     | [Maximum Product of Two Elements in an Array]                                                         | Easy       |
 | [LC0193.py]     | [Special Positions in a Binary Matrix]                                                                | Easy       |
 | [LC0194.py]     | [Difference Between Ones and Zeros in Row and Column]                                                 | Medium     |
+| [LC0195.py]     | [Destination City]                                                                                    | Easy       |
  
 
 [//]: # (Solutions)
@@ -798,3 +799,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0194.py]: Solutions/LC0194.py
 [Difference Between Ones and Zeros in Row and Column]:https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
+
+[LC0195.py]: Solutions/LC0195.py
+[Destination City]:https://leetcode.com/problems/destination-city/
