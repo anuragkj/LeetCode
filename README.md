@@ -209,7 +209,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0194.py]     | [Difference Between Ones and Zeros in Row and Column]                                                 | Medium     |
 | [LC0195.py]     | [Destination City]                                                                                    | Easy       |
 | [LC0196.py]     | [Valid Anagram]                                                                                       | Easy       |
- 
+| [LC0197.py]     | [Design a Food Rating System]                                                                         | Medium     |
 
 [//]: # (Solutions)
 
@@ -806,3 +806,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0196.py]: Solutions/LC0196.py
 [Valid Anagram]:https://leetcode.com/problems/valid-anagram/
+
+[LC0197.py]: Solutions/LC0197.py
+[Design a Food Rating System]:https://leetcode.com/problems/design-a-food-rating-system/
