@@ -210,6 +210,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0195.py]     | [Destination City]                                                                                    | Easy       |
 | [LC0196.py]     | [Valid Anagram]                                                                                       | Easy       |
 | [LC0197.py]     | [Design a Food Rating System]                                                                         | Medium     |
+| [LC0198.py]     | [Maximum Product Difference Between Two Pairs]                                                        | Easy       |
 
 [//]: # (Solutions)
 
@@ -809,3 +810,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0197.py]: Solutions/LC0197.py
 [Design a Food Rating System]:https://leetcode.com/problems/design-a-food-rating-system/
+
+[LC0198.py]: Solutions/LC0198.py
+[Maximum Product Difference Between Two Pairs]:https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
