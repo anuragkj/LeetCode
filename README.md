@@ -211,6 +211,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0196.py]     | [Valid Anagram]                                                                                       | Easy       |
 | [LC0197.py]     | [Design a Food Rating System]                                                                         | Medium     |
 | [LC0198.py]     | [Maximum Product Difference Between Two Pairs]                                                        | Easy       |
+| [LC0199.py]     | [Image Smoother]                                                                                      | Easy       |
+| [LC0200.py]     | [Buy Two Chocolates]                                                                                  | Easy       |
 
 [//]: # (Solutions)
 
@@ -813,3 +815,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0198.py]: Solutions/LC0198.py
 [Maximum Product Difference Between Two Pairs]:https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
+
+[LC0199.py]: Solutions/LC0199.py
+[Image Smoother]:https://leetcode.com/problems/image-smoother/
+
+[LC0198.py]: Solutions/LC0198.py
+[Buy Two Chocolates]:https://leetcode.com/problems/buy-two-chocolates/
