@@ -213,6 +213,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0198.py]     | [Maximum Product Difference Between Two Pairs]                                                        | Easy       |
 | [LC0199.py]     | [Image Smoother]                                                                                      | Easy       |
 | [LC0200.py]     | [Buy Two Chocolates]                                                                                  | Easy       |
+| [LC0201.py]     | [DWidest Vertical Area Between Two Points Containing No Points]                                       | Medium     |
 
 [//]: # (Solutions)
 
@@ -819,5 +820,8 @@ The questions are divided into 3 levels of difficulty:
 [LC0199.py]: Solutions/LC0199.py
 [Image Smoother]:https://leetcode.com/problems/image-smoother/
 
-[LC0198.py]: Solutions/LC0198.py
+[LC0200.py]: Solutions/LC0200.py
 [Buy Two Chocolates]:https://leetcode.com/problems/buy-two-chocolates/
+
+[LC0201.py]: Solutions/LC0201.py
+[Widest Vertical Area Between Two Points Containing No Points]:https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
