@@ -214,6 +214,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0199.py]     | [Image Smoother]                                                                                      | Easy       |
 | [LC0200.py]     | [Buy Two Chocolates]                                                                                  | Easy       |
 | [LC0201.py]     | [DWidest Vertical Area Between Two Points Containing No Points]                                       | Medium     |
+| [LC0200.py]     | [Maximum Score After Splitting a String]                                                              | Easy       |
 
 [//]: # (Solutions)
 
@@ -825,3 +826,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0201.py]: Solutions/LC0201.py
 [Widest Vertical Area Between Two Points Containing No Points]:https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
+
+[LC0202.py]: Solutions/LC0202.py
+[Maximum Score After Splitting a String]:https://leetcode.com/problems/maximum-score-after-splitting-a-string/
