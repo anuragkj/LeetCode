@@ -214,7 +214,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0199.py]     | [Image Smoother]                                                                                      | Easy       |
 | [LC0200.py]     | [Buy Two Chocolates]                                                                                  | Easy       |
 | [LC0201.py]     | [DWidest Vertical Area Between Two Points Containing No Points]                                       | Medium     |
-| [LC0200.py]     | [Maximum Score After Splitting a String]                                                              | Easy       |
+| [LC0202.py]     | [Maximum Score After Splitting a String]                                                              | Easy       |
+| [LC0204.py]     | [Path Crossing]                                                                                       | Easy       |
 
 [//]: # (Solutions)
 
@@ -829,3 +830,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0202.py]: Solutions/LC0202.py
 [Maximum Score After Splitting a String]:https://leetcode.com/problems/maximum-score-after-splitting-a-string/
+
+[LC0203.py]: Solutions/LC0203.py
+[Path Crossing]:https://leetcode.com/problems/path-crossing/
