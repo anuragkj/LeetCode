@@ -215,7 +215,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0200.py]     | [Buy Two Chocolates]                                                                                  | Easy       |
 | [LC0201.py]     | [DWidest Vertical Area Between Two Points Containing No Points]                                       | Medium     |
 | [LC0202.py]     | [Maximum Score After Splitting a String]                                                              | Easy       |
-| [LC0204.py]     | [Path Crossing]                                                                                       | Easy       |
+| [LC0203.py]     | [Path Crossing]                                                                                       | Easy       |
+| [LC0204.py]     | [Minimum Changes To Make Alternating Binary String]                                                   | Easy       |
 
 [//]: # (Solutions)
 
@@ -833,3 +834,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0203.py]: Solutions/LC0203.py
 [Path Crossing]:https://leetcode.com/problems/path-crossing/
+
+[LC0204.py]: Solutions/LC0204.py
+[Minimum Changes To Make Alternating Binary String]:https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
