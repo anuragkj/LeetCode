@@ -213,10 +213,11 @@ The questions are divided into 3 levels of difficulty:
 | [LC0198.py]     | [Maximum Product Difference Between Two Pairs]                                                        | Easy       |
 | [LC0199.py]     | [Image Smoother]                                                                                      | Easy       |
 | [LC0200.py]     | [Buy Two Chocolates]                                                                                  | Easy       |
-| [LC0201.py]     | [DWidest Vertical Area Between Two Points Containing No Points]                                       | Medium     |
+| [LC0201.py]     | [Widest Vertical Area Between Two Points Containing No Points]                                        | Medium     |
 | [LC0202.py]     | [Maximum Score After Splitting a String]                                                              | Easy       |
 | [LC0203.py]     | [Path Crossing]                                                                                       | Easy       |
 | [LC0204.py]     | [Minimum Changes To Make Alternating Binary String]                                                   | Easy       |
+| [LC0205.py]     | [Decode Ways]                                                                                         | Medium     |
 
 [//]: # (Solutions)
 
@@ -837,3 +838,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0204.py]: Solutions/LC0204.py
 [Minimum Changes To Make Alternating Binary String]:https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
+
+[LC0205.py]: Solutions/LC0205.py
+[Decode Ways]:https://leetcode.com/problems/decode-ways/
