@@ -218,6 +218,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0203.py]     | [Path Crossing]                                                                                       | Easy       |
 | [LC0204.py]     | [Minimum Changes To Make Alternating Binary String]                                                   | Easy       |
 | [LC0205.py]     | [Decode Ways]                                                                                         | Medium     |
+| [LC0206.py]     | [Number of Dice Rolls With Target Sum]                                                                | Medium     |
 
 [//]: # (Solutions)
 
@@ -841,3 +842,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0205.py]: Solutions/LC0205.py
 [Decode Ways]:https://leetcode.com/problems/decode-ways/
+
+[LC0206.py]: Solutions/LC0206.py
+[Number of Dice Rolls With Target Sum]:https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
