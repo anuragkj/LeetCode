@@ -845,3 +845,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0206.py]: Solutions/LC0206.py
 [Number of Dice Rolls With Target Sum]:https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
+
+[LC0207.py]: Solutions/LC0207.py
+[Minimum Time to Make Rope Colorful]:https://leetcode.com/problems/minimum-time-to-make-rope-colorful/
