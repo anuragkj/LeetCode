@@ -219,6 +219,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0204.py]     | [Minimum Changes To Make Alternating Binary String]                                                   | Easy       |
 | [LC0205.py]     | [Decode Ways]                                                                                         | Medium     |
 | [LC0206.py]     | [Number of Dice Rolls With Target Sum]                                                                | Medium     |
+| [LC0207.py]     | [Minimum Time to Make Rope Colorful]                                                                  | Medium     |
+| [LC0208.py]     | [String Compression II]                                                                               | Hard       |
 
 [//]: # (Solutions)
 
@@ -848,3 +850,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0207.py]: Solutions/LC0207.py
 [Minimum Time to Make Rope Colorful]:https://leetcode.com/problems/minimum-time-to-make-rope-colorful/
+
+[LC0208.py]: Solutions/LC0208.py
+[String Compression II]:https://leetcode.com/problems/string-compression-ii/
