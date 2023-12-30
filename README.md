@@ -223,6 +223,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0208.py]     | [String Compression II]                                                                               | Hard       |
 | [LC0209.py]     | [Minimum Difficulty of a Job Schedule]                                                                | Hard       |
 | [LC0210.py]     | [Redistribute Characters to Make All Strings Equal]                                                   | Easy       |
+| [LC0211.py]     | [Optimal Partition of String]                                                                         | Medium     |
 
 [//]: # (Solutions)
 
@@ -862,4 +863,5 @@ The questions are divided into 3 levels of difficulty:
 [LC0210.py]: Solutions/LC0210.py
 [Redistribute Characters to Make All Strings Equal]:https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
 
-
+[LC0211.py]: Solutions/LC0211.py
+[Optimal Partition of String]:https://leetcode.com/problems/optimal-partition-of-string/
