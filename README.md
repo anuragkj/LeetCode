@@ -856,6 +856,9 @@ The questions are divided into 3 levels of difficulty:
 [LC0208.py]: Solutions/LC0208.py
 [String Compression II]:https://leetcode.com/problems/string-compression-ii/
 
+[LC0209.py]: Solutions/LC0209.py
+[Minimum Difficulty of a Job Schedule]:https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
+
 [LC0210.py]: Solutions/LC0210.py
 [Redistribute Characters to Make All Strings Equal]:https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
 
