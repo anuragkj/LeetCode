@@ -224,6 +224,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0209.py]     | [Minimum Difficulty of a Job Schedule]                                                                | Hard       |
 | [LC0210.py]     | [Redistribute Characters to Make All Strings Equal]                                                   | Easy       |
 | [LC0211.py]     | [Optimal Partition of String]                                                                         | Medium     |
+| [LC0212.py]     | [Largest Substring Between Two Equal Characters]                                                      | Easy       |
 
 [//]: # (Solutions)
 
@@ -865,3 +866,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0211.py]: Solutions/LC0211.py
 [Optimal Partition of String]:https://leetcode.com/problems/optimal-partition-of-string/
+
+[LC0212.py]: Solutions/LC0212.py
+[Largest Substring Between Two Equal Characters]:https://leetcode.com/problems/largest-substring-between-two-equal-characters/
