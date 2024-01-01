@@ -225,6 +225,9 @@ The questions are divided into 3 levels of difficulty:
 | [LC0210.py]     | [Redistribute Characters to Make All Strings Equal]                                                   | Easy       |
 | [LC0211.py]     | [Optimal Partition of String]                                                                         | Medium     |
 | [LC0212.py]     | [Largest Substring Between Two Equal Characters]                                                      | Easy       |
+| [LC0213.py]     | [Merge Two Sorted Lists]                                                                              | Easy       |
+| [LC0214.py]     | [Merge k Sorted Lists]                                                                                | Hard       |
+| [LC0215.py]     | [Assign Cookies]                                                                                      | Easy       |
 
 [//]: # (Solutions)
 
@@ -869,3 +872,12 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0212.py]: Solutions/LC0212.py
 [Largest Substring Between Two Equal Characters]:https://leetcode.com/problems/largest-substring-between-two-equal-characters/
+
+[LC0213.py]: Solutions/LC0213.py
+[Merge Two Sorted Lists]:https://leetcode.com/problems/merge-two-sorted-lists/
+
+[LC0214.py]: Solutions/LC0214.py
+[Merge k Sorted Lists]:https://leetcode.com/problems/merge-k-sorted-lists/
+
+[LC0215.py]: Solutions/LC0215.py
+[Assign Cookies]:https://leetcode.com/problems/assign-cookies/
