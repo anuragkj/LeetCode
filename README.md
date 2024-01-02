@@ -228,6 +228,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0213.py]     | [Merge Two Sorted Lists]                                                                              | Easy       |
 | [LC0214.py]     | [Merge k Sorted Lists]                                                                                | Hard       |
 | [LC0215.py]     | [Assign Cookies]                                                                                      | Easy       |
+| [LC0216.py]     | [Convert an Array Into a 2D Array With Conditions]                                                    | Medium     |
 
 [//]: # (Solutions)
 
@@ -881,3 +882,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0215.py]: Solutions/LC0215.py
 [Assign Cookies]:https://leetcode.com/problems/assign-cookies/
+
+[LC0216.py]: Solutions/LC0216.py
+[Convert an Array Into a 2D Array With Conditions]:https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/
