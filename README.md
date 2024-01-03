@@ -229,6 +229,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0214.py]     | [Merge k Sorted Lists]                                                                                | Hard       |
 | [LC0215.py]     | [Assign Cookies]                                                                                      | Easy       |
 | [LC0216.py]     | [Convert an Array Into a 2D Array With Conditions]                                                    | Medium     |
+| [LC0217.py]     | [Number of Laser Beams in a Bank]                                                                     | Medium     |
 
 [//]: # (Solutions)
 
@@ -885,3 +886,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0216.py]: Solutions/LC0216.py
 [Convert an Array Into a 2D Array With Conditions]:https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/
+
+[LC0217.py]: Solutions/LC0217.py
+[Number of Laser Beams in a Bank]:https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
