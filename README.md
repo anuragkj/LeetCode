@@ -230,6 +230,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0215.py]     | [Assign Cookies]                                                                                      | Easy       |
 | [LC0216.py]     | [Convert an Array Into a 2D Array With Conditions]                                                    | Medium     |
 | [LC0217.py]     | [Number of Laser Beams in a Bank]                                                                     | Medium     |
+| [LC0217.py]     | [Minimum Number of Operations to Make Array Empty]                                                    | Medium     |
 
 [//]: # (Solutions)
 
@@ -889,3 +890,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0217.py]: Solutions/LC0217.py
 [Number of Laser Beams in a Bank]:https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
+
+[LC0218.py]: Solutions/LC0218.py
+[Minimum Number of Operations to Make Array Empty]:https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/
