@@ -231,6 +231,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0216.py]     | [Convert an Array Into a 2D Array With Conditions]                                                    | Medium     |
 | [LC0217.py]     | [Number of Laser Beams in a Bank]                                                                     | Medium     |
 | [LC0217.py]     | [Minimum Number of Operations to Make Array Empty]                                                    | Medium     |
+| [LC0219.py]     | [Maximum Profit in Job Scheduling]                                                                    | Hard       |
 
 [//]: # (Solutions)
 
@@ -893,3 +894,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0218.py]: Solutions/LC0218.py
 [Minimum Number of Operations to Make Array Empty]:https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/
+
+[LC0219.py]: Solutions/LC0219.py
+[Maximum Profit in Job Scheduling]:https://leetcode.com/problems/maximum-profit-in-job-scheduling/
