@@ -232,6 +232,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0217.py]     | [Number of Laser Beams in a Bank]                                                                     | Medium     |
 | [LC0217.py]     | [Minimum Number of Operations to Make Array Empty]                                                    | Medium     |
 | [LC0219.py]     | [Maximum Profit in Job Scheduling]                                                                    | Hard       |
+| [LC0220.py]     | [MArithmetic Slices II - Subsequence]                                                                 | Hard       |
 
 [//]: # (Solutions)
 
@@ -897,3 +898,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0219.py]: Solutions/LC0219.py
 [Maximum Profit in Job Scheduling]:https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+
+[LC0220.py]: Solutions/LC0220.py
+[Arithmetic Slices II - Subsequence]:https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
