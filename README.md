@@ -233,6 +233,9 @@ The questions are divided into 3 levels of difficulty:
 | [LC0217.py]     | [Minimum Number of Operations to Make Array Empty]                                                    | Medium     |
 | [LC0219.py]     | [Maximum Profit in Job Scheduling]                                                                    | Hard       |
 | [LC0220.py]     | [MArithmetic Slices II - Subsequence]                                                                 | Hard       |
+| [LC0221.py]     | [Range Sum of BST]                                                                                    | Easy       |
+| [LC0222.py]     | [Leaf-Similar Trees]                                                                                  | Easy       |
+| [LC0223.py]     | [Amount of Time for Binary Tree to Be Infected]                                                       | Medium     |
 
 [//]: # (Solutions)
 
@@ -901,3 +904,12 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0220.py]: Solutions/LC0220.py
 [Arithmetic Slices II - Subsequence]:https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
+
+[LC0221.py]: Solutions/LC0221.py
+[Range Sum of BST]:https://leetcode.com/problems/range-sum-of-bst/
+
+[LC0222.py]: Solutions/LC0222.py
+[Leaf-Similar Trees]:https://leetcode.com/problems/leaf-similar-trees/
+
+[LC0223.py]: Solutions/LC0223.py
+[Amount of Time for Binary Tree to Be Infected]:https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/
