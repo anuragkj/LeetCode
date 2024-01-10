@@ -232,7 +232,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0217.py]     | [Number of Laser Beams in a Bank]                                                                     | Medium     |
 | [LC0217.py]     | [Minimum Number of Operations to Make Array Empty]                                                    | Medium     |
 | [LC0219.py]     | [Maximum Profit in Job Scheduling]                                                                    | Hard       |
-| [LC0220.py]     | [MArithmetic Slices II - Subsequence]                                                                 | Hard       |
+| [LC0220.py]     | [Arithmetic Slices II - Subsequence]                                                                  | Hard       |
 | [LC0221.py]     | [Range Sum of BST]                                                                                    | Easy       |
 | [LC0222.py]     | [Leaf-Similar Trees]                                                                                  | Easy       |
 | [LC0223.py]     | [Amount of Time for Binary Tree to Be Infected]                                                       | Medium     |
