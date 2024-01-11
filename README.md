@@ -236,6 +236,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0221.py]     | [Range Sum of BST]                                                                                    | Easy       |
 | [LC0222.py]     | [Leaf-Similar Trees]                                                                                  | Easy       |
 | [LC0223.py]     | [Amount of Time for Binary Tree to Be Infected]                                                       | Medium     |
+| [LC0224.py]     | [Maximum Difference Between Node and Ancestor]                                                        | Medium     |
 
 [//]: # (Solutions)
 
@@ -913,3 +914,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0223.py]: Solutions/LC0223.py
 [Amount of Time for Binary Tree to Be Infected]:https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/
+
+[LC0224.py]: Solutions/LC0224.py
+[Maximum Difference Between Node and Ancestor]:https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
