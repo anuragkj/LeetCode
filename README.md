@@ -238,6 +238,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0223.py]     | [Amount of Time for Binary Tree to Be Infected]                                                       | Medium     |
 | [LC0224.py]     | [Maximum Difference Between Node and Ancestor]                                                        | Medium     |
 | [LC0225.py]     | [Determine if String Halves Are Alike]                                                                | Easy       |
+| [LC0226.py]     | [Minimum Number of Steps to Make Two Strings Anagram]                                                 | Medium     |
 
 [//]: # (Solutions)
 
@@ -921,3 +922,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0225.py]: Solutions/LC0225.py
 [Determine if String Halves Are Alike]:https://leetcode.com/problems/determine-if-string-halves-are-alike/
+
+[LC0226.py]: Solutions/LC0226.py
+[Minimum Number of Steps to Make Two Strings Anagram]:https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
