@@ -239,6 +239,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0224.py]     | [Maximum Difference Between Node and Ancestor]                                                        | Medium     |
 | [LC0225.py]     | [Determine if String Halves Are Alike]                                                                | Easy       |
 | [LC0226.py]     | [Minimum Number of Steps to Make Two Strings Anagram]                                                 | Medium     |
+| [LC0227.py]     | [Determine if Two Strings Are Close]                                                                  | Medium     |
 
 [//]: # (Solutions)
 
@@ -925,3 +926,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0226.py]: Solutions/LC0226.py
 [Minimum Number of Steps to Make Two Strings Anagram]:https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
+
+[LC0227.py]: Solutions/LC0227.py
+[Determine if Two Strings Are Close]:https://leetcode.com/problems/determine-if-two-strings-are-close/
