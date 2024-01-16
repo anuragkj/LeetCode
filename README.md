@@ -241,6 +241,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0226.py]     | [Minimum Number of Steps to Make Two Strings Anagram]                                                 | Medium     |
 | [LC0227.py]     | [Determine if Two Strings Are Close]                                                                  | Medium     |
 | [LC0228.py]     | [Find Players With Zero or One Losses]                                                                | Medium     |
+| [LC0229.py]     | [Insert Delete GetRandom O(1)]                                                                        | Medium     |
 
 [//]: # (Solutions)
 
@@ -933,3 +934,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0228.py]: Solutions/LC0228.py
 [Find Players With Zero or One Losses]:https://leetcode.com/problems/find-players-with-zero-or-one-losses/
+
+[LC0229.py]: Solutions/LC0229.py
+[Insert Delete GetRandom O(1)]:https://leetcode.com/problems/insert-delete-getrandom-o1/
