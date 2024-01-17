@@ -242,6 +242,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0227.py]     | [Determine if Two Strings Are Close]                                                                  | Medium     |
 | [LC0228.py]     | [Find Players With Zero or One Losses]                                                                | Medium     |
 | [LC0229.py]     | [Insert Delete GetRandom O(1)]                                                                        | Medium     |
+| [LC0230.py]     | [Unique Number of Occurrences]                                                                        | Easy       |
 
 [//]: # (Solutions)
 
@@ -937,3 +938,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0229.py]: Solutions/LC0229.py
 [Insert Delete GetRandom O(1)]:https://leetcode.com/problems/insert-delete-getrandom-o1/
+
+[LC0230.py]: Solutions/LC0230.py
+[Unique Number of Occurrences]:https://leetcode.com/problems/unique-number-of-occurrences/
