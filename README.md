@@ -243,6 +243,10 @@ The questions are divided into 3 levels of difficulty:
 | [LC0228.py]     | [Find Players With Zero or One Losses]                                                                | Medium     |
 | [LC0229.py]     | [Insert Delete GetRandom O(1)]                                                                        | Medium     |
 | [LC0230.py]     | [Unique Number of Occurrences]                                                                        | Easy       |
+| [LC0231.py]     | [Climbing Stairs]                                                                                     | Easy       |
+| [LC0232.py]     | [Minimum Falling Path Sum]                                                                            | Medium     |
+| [LC0233.py]     | [Sum of Subarray Minimums]                                                                            | Medium     |
+| [LC0234.py]     | [House Robber]                                                                                        | Medium     |
 
 [//]: # (Solutions)
 
@@ -941,3 +945,15 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0230.py]: Solutions/LC0230.py
 [Unique Number of Occurrences]:https://leetcode.com/problems/unique-number-of-occurrences/
+
+[LC0231.py]: Solutions/LC0231.py
+[Climbing Stairs]:https://leetcode.com/problems/climbing-stairs/
+
+[LC0232.py]: Solutions/LC0232.py
+[Minimum Falling Path Sum]:https://leetcode.com/problems/minimum-falling-path-sum/
+
+[LC0233.py]: Solutions/LC0233.py
+[Sum of Subarray Minimums]:https://leetcode.com/problems/sum-of-subarray-minimums/
+
+[LC0234.py]: Solutions/LC0234.py
+[House Robber]:https://leetcode.com/problems/house-robber/
