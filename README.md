@@ -247,6 +247,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0232.py]     | [Minimum Falling Path Sum]                                                                            | Medium     |
 | [LC0233.py]     | [Sum of Subarray Minimums]                                                                            | Medium     |
 | [LC0234.py]     | [House Robber]                                                                                        | Medium     |
+| [LC0235.py]     | [Set Mismatch]                                                                                        | Easy       |
+| [LC0236.py]     | [Maximum Length of a Concatenated String with Unique Characters]                                      | Medium     |
 
 [//]: # (Solutions)
 
@@ -957,3 +959,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0234.py]: Solutions/LC0234.py
 [House Robber]:https://leetcode.com/problems/house-robber/
+
+[LC0235.py]: Solutions/LC0235.py
+[Set Mismatch]:https://leetcode.com/problems/set-mismatch/
+
+[LC0236.py]: Solutions/LC0236.py
+[Maximum Length of a Concatenated String with Unique Characters]:https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
