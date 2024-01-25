@@ -249,6 +249,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0234.py]     | [House Robber]                                                                                        | Medium     |
 | [LC0235.py]     | [Set Mismatch]                                                                                        | Easy       |
 | [LC0236.py]     | [Maximum Length of a Concatenated String with Unique Characters]                                      | Medium     |
+| [LC0237.py]     | [Pseudo-Palindromic Paths in a Binary Tree]                                                           | Medium     |
+| [LC0238.py]     | [Longest Common Subsequence]                                                                          | Medium     |
 
 [//]: # (Solutions)
 
@@ -965,3 +967,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0236.py]: Solutions/LC0236.py
 [Maximum Length of a Concatenated String with Unique Characters]:https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
+
+[LC0237.py]: Solutions/LC0237.py
+[Pseudo-Palindromic Paths in a Binary Tree]:https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
+
+[LC0238.py]: Solutions/LC0238.py
+[Longest Common Subsequence]:https://leetcode.com/problems/longest-common-subsequence/
