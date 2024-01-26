@@ -251,6 +251,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0236.py]     | [Maximum Length of a Concatenated String with Unique Characters]                                      | Medium     |
 | [LC0237.py]     | [Pseudo-Palindromic Paths in a Binary Tree]                                                           | Medium     |
 | [LC0238.py]     | [Longest Common Subsequence]                                                                          | Medium     |
+| [LC0239.py]     | [Out of Boundary Paths]                                                                               | Medium     |
 
 [//]: # (Solutions)
 
@@ -973,3 +974,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0238.py]: Solutions/LC0238.py
 [Longest Common Subsequence]:https://leetcode.com/problems/longest-common-subsequence/
+
+[LC0239.py]: Solutions/LC0239.py
+[Out of Boundary Paths]:https://leetcode.com/problems/out-of-boundary-paths/
