@@ -252,6 +252,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0237.py]     | [Pseudo-Palindromic Paths in a Binary Tree]                                                           | Medium     |
 | [LC0238.py]     | [Longest Common Subsequence]                                                                          | Medium     |
 | [LC0239.py]     | [Out of Boundary Paths]                                                                               | Medium     |
+| [LC0240.py]     | [K Inverse Pairs Array]                                                                               | HArd       |
 
 [//]: # (Solutions)
 
@@ -977,3 +978,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0239.py]: Solutions/LC0239.py
 [Out of Boundary Paths]:https://leetcode.com/problems/out-of-boundary-paths/
+
+[LC0240.py]: Solutions/LC0240.py
+[K Inverse Pairs Array]:https://leetcode.com/problems/k-inverse-pairs-array/
