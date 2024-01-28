@@ -252,7 +252,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0237.py]     | [Pseudo-Palindromic Paths in a Binary Tree]                                                           | Medium     |
 | [LC0238.py]     | [Longest Common Subsequence]                                                                          | Medium     |
 | [LC0239.py]     | [Out of Boundary Paths]                                                                               | Medium     |
-| [LC0240.py]     | [K Inverse Pairs Array]                                                                               | HArd       |
+| [LC0240.py]     | [K Inverse Pairs Array]                                                                               | Hard       |
+| [LC0241.py]     | [Number of Submatrices That Sum to Target]                                                            | Hard       |
 
 [//]: # (Solutions)
 
@@ -981,3 +982,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0240.py]: Solutions/LC0240.py
 [K Inverse Pairs Array]:https://leetcode.com/problems/k-inverse-pairs-array/
+
+[LC0241.py]: Solutions/LC0241.py
+[Number of Submatrices That Sum to Target]:https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
