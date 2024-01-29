@@ -254,6 +254,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0239.py]     | [Out of Boundary Paths]                                                                               | Medium     |
 | [LC0240.py]     | [K Inverse Pairs Array]                                                                               | Hard       |
 | [LC0241.py]     | [Number of Submatrices That Sum to Target]                                                            | Hard       |
+| [LC0242.py]     | [Implement Queue using Stacks]                                                                        | Hard       |
 
 [//]: # (Solutions)
 
@@ -985,3 +986,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0241.py]: Solutions/LC0241.py
 [Number of Submatrices That Sum to Target]:https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
+
+[LC0242.py]: Solutions/LC0242.py
+[Implement Queue using Stacks]:https://leetcode.com/problems/implement-queue-using-stacks/
