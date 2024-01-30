@@ -255,6 +255,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0240.py]     | [K Inverse Pairs Array]                                                                               | Hard       |
 | [LC0241.py]     | [Number of Submatrices That Sum to Target]                                                            | Hard       |
 | [LC0242.py]     | [Implement Queue using Stacks]                                                                        | Hard       |
+| [LC0243.py]     | [Evaluate Reverse Polish Notation]                                                                    | Medium     |
 
 [//]: # (Solutions)
 
@@ -989,3 +990,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0242.py]: Solutions/LC0242.py
 [Implement Queue using Stacks]:https://leetcode.com/problems/implement-queue-using-stacks/
+
+[LC0243.py]: Solutions/LC0243.py
+[Evaluate Reverse Polish Notation]:https://leetcode.com/problems/evaluate-reverse-polish-notation/
