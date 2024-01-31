@@ -256,6 +256,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0241.py]     | [Number of Submatrices That Sum to Target]                                                            | Hard       |
 | [LC0242.py]     | [Implement Queue using Stacks]                                                                        | Hard       |
 | [LC0243.py]     | [Evaluate Reverse Polish Notation]                                                                    | Medium     |
+| [LC0244.py]     | [Daily Temperatures]                                                                                  | Medium     |
 
 [//]: # (Solutions)
 
@@ -993,3 +994,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0243.py]: Solutions/LC0243.py
 [Evaluate Reverse Polish Notation]:https://leetcode.com/problems/evaluate-reverse-polish-notation/
+
+[LC0244.py]: Solutions/LC0244.py
+[Daily Temperatures]:https://leetcode.com/problems/daily-temperatures/
