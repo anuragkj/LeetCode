@@ -257,6 +257,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0242.py]     | [Implement Queue using Stacks]                                                                        | Hard       |
 | [LC0243.py]     | [Evaluate Reverse Polish Notation]                                                                    | Medium     |
 | [LC0244.py]     | [Daily Temperatures]                                                                                  | Medium     |
+| [LC0245.py]     | [Divide Array Into Arrays With Max Difference]                                                        | Medium     |
 
 [//]: # (Solutions)
 
@@ -997,3 +998,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0244.py]: Solutions/LC0244.py
 [Daily Temperatures]:https://leetcode.com/problems/daily-temperatures/
+
+[LC0245.py]: Solutions/LC0245.py
+[Divide Array Into Arrays With Max Difference]:https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/
