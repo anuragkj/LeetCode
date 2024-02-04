@@ -259,6 +259,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0244.py]     | [Daily Temperatures]                                                                                  | Medium     |
 | [LC0245.py]     | [Divide Array Into Arrays With Max Difference]                                                        | Medium     |
 | [LC0246.py]     | [Sequential Digits]                                                                                   | Medium     |
+| [LC0247.py]     | [Partition Array for Maximum Sum]                                                                     | Medium     |
+| [LC0248.py]     | [Minimum Window Substring]                                                                            | Hard       |
 
 [//]: # (Solutions)
 
@@ -1005,3 +1007,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0246.py]: Solutions/LC0246.py
 [Sequential Digits]:https://leetcode.com/problems/sequential-digits/
+
+[LC0247.py]: Solutions/LC0247.py
+[Partition Array for Maximum Sum]:https://leetcode.com/problems/partition-array-for-maximum-sum/
+
+[LC0248.py]: Solutions/LC0248.py
+[Minimum Window Substring]:https://leetcode.com/problems/minimum-window-substring/
