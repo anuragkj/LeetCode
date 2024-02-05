@@ -261,6 +261,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0246.py]     | [Sequential Digits]                                                                                   | Medium     |
 | [LC0247.py]     | [Partition Array for Maximum Sum]                                                                     | Medium     |
 | [LC0248.py]     | [Minimum Window Substring]                                                                            | Hard       |
+| [LC0249.py]     | [First Unique Character in a String]                                                                  | Easy       |
 
 [//]: # (Solutions)
 
@@ -1013,3 +1014,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0248.py]: Solutions/LC0248.py
 [Minimum Window Substring]:https://leetcode.com/problems/minimum-window-substring/
+
+[LC0249.py]: Solutions/LC0249.py
+[First Unique Character in a String]:https://leetcode.com/problems/first-unique-character-in-a-string/
