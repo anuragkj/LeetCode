@@ -262,6 +262,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0247.py]     | [Partition Array for Maximum Sum]                                                                     | Medium     |
 | [LC0248.py]     | [Minimum Window Substring]                                                                            | Hard       |
 | [LC0249.py]     | [First Unique Character in a String]                                                                  | Easy       |
+| [LC0249.py]     | [Group Anagrams]                                                                                      | Medium     |
 
 [//]: # (Solutions)
 
@@ -1017,3 +1018,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0249.py]: Solutions/LC0249.py
 [First Unique Character in a String]:https://leetcode.com/problems/first-unique-character-in-a-string/
+
+[LC0250.py]: Solutions/LC0250.py
+[Group Anagrams]:https://leetcode.com/problems/group-anagrams/
