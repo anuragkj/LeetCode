@@ -262,7 +262,9 @@ The questions are divided into 3 levels of difficulty:
 | [LC0247.py]     | [Partition Array for Maximum Sum]                                                                     | Medium     |
 | [LC0248.py]     | [Minimum Window Substring]                                                                            | Hard       |
 | [LC0249.py]     | [First Unique Character in a String]                                                                  | Easy       |
-| [LC0249.py]     | [Group Anagrams]                                                                                      | Medium     |
+| [LC0250.py]     | [Group Anagrams]                                                                                      | Medium     |
+| [LC0251.py]     | [Sort Characters By Frequency]                                                                        | Medium     |
+| [LC0252.py]     | [Perfect Squares]                                                                                     | Medium     |
 
 [//]: # (Solutions)
 
@@ -1021,3 +1023,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0250.py]: Solutions/LC0250.py
 [Group Anagrams]:https://leetcode.com/problems/group-anagrams/
+
+[LC0251.py]: Solutions/LC0251.py
+[Sort Characters By Frequency]:https://leetcode.com/problems/sort-characters-by-frequency/
+
+[LC0251.py]: Solutions/LC0251.py
+[Perfect Squares]:https://leetcode.com/problems/perfect-squares/
