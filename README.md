@@ -265,6 +265,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0250.py]     | [Group Anagrams]                                                                                      | Medium     |
 | [LC0251.py]     | [Sort Characters By Frequency]                                                                        | Medium     |
 | [LC0252.py]     | [Perfect Squares]                                                                                     | Medium     |
+| [LC0253.py]     | [Largest Divisible Subset]                                                                            | Medium     |
 
 [//]: # (Solutions)
 
@@ -1027,5 +1028,8 @@ The questions are divided into 3 levels of difficulty:
 [LC0251.py]: Solutions/LC0251.py
 [Sort Characters By Frequency]:https://leetcode.com/problems/sort-characters-by-frequency/
 
-[LC0251.py]: Solutions/LC0251.py
+[LC0252.py]: Solutions/LC0252.py
 [Perfect Squares]:https://leetcode.com/problems/perfect-squares/
+
+[LC0253.py]: Solutions/LC0253.py
+[Largest Divisible Subset]:https://leetcode.com/problems/largest-divisible-subset/
