@@ -266,6 +266,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0251.py]     | [Sort Characters By Frequency]                                                                        | Medium     |
 | [LC0252.py]     | [Perfect Squares]                                                                                     | Medium     |
 | [LC0253.py]     | [Largest Divisible Subset]                                                                            | Medium     |
+| [LC0254.py]     | [Palindromic Substrings]                                                                              | Medium     |
 
 [//]: # (Solutions)
 
@@ -1033,3 +1034,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0253.py]: Solutions/LC0253.py
 [Largest Divisible Subset]:https://leetcode.com/problems/largest-divisible-subset/
+
+[LC0254.py]: Solutions/LC0254.py
+[Palindromic Substrings]:https://leetcode.com/problems/palindromic-substrings/
