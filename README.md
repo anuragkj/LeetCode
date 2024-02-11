@@ -267,7 +267,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0252.py]     | [Perfect Squares]                                                                                     | Medium     |
 | [LC0253.py]     | [Largest Divisible Subset]                                                                            | Medium     |
 | [LC0254.py]     | [Palindromic Substrings]                                                                              | Medium     |
-
+| [LC0255.py]     | [Cherry Pickup II]                                                                                    | Hard       |
 [//]: # (Solutions)
 
 [LC0001.py]: Solutions/LC0001.py
@@ -1037,3 +1037,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0254.py]: Solutions/LC0254.py
 [Palindromic Substrings]:https://leetcode.com/problems/palindromic-substrings/
+
+[LC0255.py]: Solutions/LC0255.py
+[Cherry Pickup II]:https://leetcode.com/problems/cherry-pickup-ii/
