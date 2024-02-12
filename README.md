@@ -268,6 +268,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0253.py]     | [Largest Divisible Subset]                                                                            | Medium     |
 | [LC0254.py]     | [Palindromic Substrings]                                                                              | Medium     |
 | [LC0255.py]     | [Cherry Pickup II]                                                                                    | Hard       |
+| [LC0256.py]     | [Majority Element]                                                                                    | Easy       |
 
 [//]: # (Solutions)
 
@@ -1041,3 +1042,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0255.py]: Solutions/LC0255.py
 [Cherry Pickup II]:https://leetcode.com/problems/cherry-pickup-ii/
+
+[LC0256.py]: Solutions/LC0256.py
+[Majority Element]:https://leetcode.com/problems/majority-element/
