@@ -269,6 +269,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0254.py]     | [Palindromic Substrings]                                                                              | Medium     |
 | [LC0255.py]     | [Cherry Pickup II]                                                                                    | Hard       |
 | [LC0256.py]     | [Majority Element]                                                                                    | Easy       |
+| [LC0257.py]     | [Find First Palindromic String in the Array]                                                          | Easy       |
 
 [//]: # (Solutions)
 
@@ -1045,3 +1046,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0256.py]: Solutions/LC0256.py
 [Majority Element]:https://leetcode.com/problems/majority-element/
+
+[LC0257.py]: Solutions/LC0257.py
+[Find First Palindromic String in the Array]:https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
