@@ -270,6 +270,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0255.py]     | [Cherry Pickup II]                                                                                    | Hard       |
 | [LC0256.py]     | [Majority Element]                                                                                    | Easy       |
 | [LC0257.py]     | [Find First Palindromic String in the Array]                                                          | Easy       |
+| [LC0258.py]     | [Rearrange Array Elements by Sign]                                                                    | Medium     |
 
 [//]: # (Solutions)
 
@@ -1049,3 +1050,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0257.py]: Solutions/LC0257.py
 [Find First Palindromic String in the Array]:https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
+
+[LC0258.py]: Solutions/LC0258.py
+[Rearrange Array Elements by Sign]:https://leetcode.com/problems/rearrange-array-elements-by-sign/
