@@ -271,6 +271,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0256.py]     | [Majority Element]                                                                                    | Easy       |
 | [LC0257.py]     | [Find First Palindromic String in the Array]                                                          | Easy       |
 | [LC0258.py]     | [Rearrange Array Elements by Sign]                                                                    | Medium     |
+| [LC0259.py]     | [Find Polygon With the Largest Perimeter]                                                             | Medium     |
 
 [//]: # (Solutions)
 
@@ -1053,3 +1054,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0258.py]: Solutions/LC0258.py
 [Rearrange Array Elements by Sign]:https://leetcode.com/problems/rearrange-array-elements-by-sign/
+
+[LC0259.py]: Solutions/LC0259.py
+[Find Polygon With the Largest Perimeter]:https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/
