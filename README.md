@@ -272,6 +272,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0257.py]     | [Find First Palindromic String in the Array]                                                          | Easy       |
 | [LC0258.py]     | [Rearrange Array Elements by Sign]                                                                    | Medium     |
 | [LC0259.py]     | [Find Polygon With the Largest Perimeter]                                                             | Medium     |
+| [LC0260.py]     | [Least Number of Unique Integers after K Removals]                                                    | Medium     |
 
 [//]: # (Solutions)
 
@@ -1057,3 +1058,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0259.py]: Solutions/LC0259.py
 [Find Polygon With the Largest Perimeter]:https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/
+
+[LC0260.py]: Solutions/LC0260.py
+[Least Number of Unique Integers after K Removals]:https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
