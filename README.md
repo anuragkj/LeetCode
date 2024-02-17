@@ -273,6 +273,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0258.py]     | [Rearrange Array Elements by Sign]                                                                    | Medium     |
 | [LC0259.py]     | [Find Polygon With the Largest Perimeter]                                                             | Medium     |
 | [LC0260.py]     | [Least Number of Unique Integers after K Removals]                                                    | Medium     |
+| [LC0261.py]     | [Furthest Building You Can Reach]                                                                     | Medium     |
 
 [//]: # (Solutions)
 
@@ -1061,3 +1062,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0260.py]: Solutions/LC0260.py
 [Least Number of Unique Integers after K Removals]:https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
+
+[LC0261.py]: Solutions/LC0261.py
+[Furthest Building You Can Reach]:https://leetcode.com/problems/furthest-building-you-can-reach/
