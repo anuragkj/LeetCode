@@ -274,6 +274,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0259.py]     | [Find Polygon With the Largest Perimeter]                                                             | Medium     |
 | [LC0260.py]     | [Least Number of Unique Integers after K Removals]                                                    | Medium     |
 | [LC0261.py]     | [Furthest Building You Can Reach]                                                                     | Medium     |
+| [LC0262.py]     | [Meeting Rooms III]                                                                                   | Hard       |
 
 [//]: # (Solutions)
 
@@ -1065,3 +1066,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0261.py]: Solutions/LC0261.py
 [Furthest Building You Can Reach]:https://leetcode.com/problems/furthest-building-you-can-reach/
+
+[LC0262.py]: Solutions/LC0262.py
+[Meeting Rooms III]:https://leetcode.com/problems/meeting-rooms-iii/
