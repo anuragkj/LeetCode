@@ -275,6 +275,9 @@ The questions are divided into 3 levels of difficulty:
 | [LC0260.py]     | [Least Number of Unique Integers after K Removals]                                                    | Medium     |
 | [LC0261.py]     | [Furthest Building You Can Reach]                                                                     | Medium     |
 | [LC0262.py]     | [Meeting Rooms III]                                                                                   | Hard       |
+| [LC0263.py]     | [Missing Number]                                                                                      | Easy       |
+| [LC0264.py]     | [Power of Two]                                                                                        | Easy       |
+| [LC0265.py]     | [Bitwise AND of Numbers Range]                                                                        | Medium     |
 
 [//]: # (Solutions)
 
@@ -1069,3 +1072,12 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0262.py]: Solutions/LC0262.py
 [Meeting Rooms III]:https://leetcode.com/problems/meeting-rooms-iii/
+
+[LC0263.py]: Solutions/LC0263.py
+[Missing Number]:https://leetcode.com/problems/missing-number/
+
+[LC0264.py]: Solutions/LC0264.py
+[Power of Two]:https://leetcode.com/problems/power-of-two/
+
+[LC0265.py]: Solutions/LC0265.py
+[Bitwise AND of Numbers Range]:https://leetcode.com/problems/bitwise-and-of-numbers-range/
