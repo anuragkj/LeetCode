@@ -278,6 +278,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0263.py]     | [Missing Number]                                                                                      | Easy       |
 | [LC0264.py]     | [Power of Two]                                                                                        | Easy       |
 | [LC0265.py]     | [Bitwise AND of Numbers Range]                                                                        | Medium     |
+| [LC0266.py]     | [Find the Town Judge]                                                                                 | Easy       |
 
 [//]: # (Solutions)
 
@@ -1081,3 +1082,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0265.py]: Solutions/LC0265.py
 [Bitwise AND of Numbers Range]:https://leetcode.com/problems/bitwise-and-of-numbers-range/
+
+[LC0266.py]: Solutions/LC0266.py
+[Find the Town Judge]:https://leetcode.com/problems/find-the-town-judge/
