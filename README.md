@@ -279,6 +279,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0264.py]     | [Power of Two]                                                                                        | Easy       |
 | [LC0265.py]     | [Bitwise AND of Numbers Range]                                                                        | Medium     |
 | [LC0266.py]     | [Find the Town Judge]                                                                                 | Easy       |
+| [LC0267.py]     | [Cheapest Flights Within K Stops]                                                                     | Medium     |
 
 [//]: # (Solutions)
 
@@ -1085,3 +1086,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0266.py]: Solutions/LC0266.py
 [Find the Town Judge]:https://leetcode.com/problems/find-the-town-judge/
+
+[LC0267.py]: Solutions/LC0267.py
+[Cheapest Flights Within K Stops]:https://leetcode.com/problems/cheapest-flights-within-k-stops/
