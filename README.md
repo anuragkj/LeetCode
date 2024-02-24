@@ -280,6 +280,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0265.py]     | [Bitwise AND of Numbers Range]                                                                        | Medium     |
 | [LC0266.py]     | [Find the Town Judge]                                                                                 | Easy       |
 | [LC0267.py]     | [Cheapest Flights Within K Stops]                                                                     | Medium     |
+| [LC0268.py]     | [Find All People With Secret]                                                                         | Hard       |
 
 [//]: # (Solutions)
 
@@ -1089,3 +1090,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0267.py]: Solutions/LC0267.py
 [Cheapest Flights Within K Stops]:https://leetcode.com/problems/cheapest-flights-within-k-stops/
+
+[LC0268.py]: Solutions/LC0268.py
+[Find All People With Secret]:https://leetcode.com/problems/find-all-people-with-secret/
