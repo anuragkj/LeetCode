@@ -281,6 +281,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0266.py]     | [Find the Town Judge]                                                                                 | Easy       |
 | [LC0267.py]     | [Cheapest Flights Within K Stops]                                                                     | Medium     |
 | [LC0268.py]     | [Find All People With Secret]                                                                         | Hard       |
+| [LC0269.py]     | [Greatest Common Divisor Traversal]                                                                   | Hard       |
 
 [//]: # (Solutions)
 
@@ -1093,3 +1094,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0268.py]: Solutions/LC0268.py
 [Find All People With Secret]:https://leetcode.com/problems/find-all-people-with-secret/
+
+[LC0269.py]: Solutions/LC0269.py
+[Greatest Common Divisor Traversal]:https://leetcode.com/problems/greatest-common-divisor-traversal/
