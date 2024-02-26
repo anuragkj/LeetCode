@@ -282,6 +282,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0267.py]     | [Cheapest Flights Within K Stops]                                                                     | Medium     |
 | [LC0268.py]     | [Find All People With Secret]                                                                         | Hard       |
 | [LC0269.py]     | [Greatest Common Divisor Traversal]                                                                   | Hard       |
+| [LC0270.py]     | [Same Tree]                                                                                           | Easy       |
 
 [//]: # (Solutions)
 
@@ -1097,3 +1098,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0269.py]: Solutions/LC0269.py
 [Greatest Common Divisor Traversal]:https://leetcode.com/problems/greatest-common-divisor-traversal/
+
+[LC0270.py]: Solutions/LC0270.py
+[Same Tree]:https://leetcode.com/problems/same-tree/
