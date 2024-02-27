@@ -283,6 +283,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0268.py]     | [Find All People With Secret]                                                                         | Hard       |
 | [LC0269.py]     | [Greatest Common Divisor Traversal]                                                                   | Hard       |
 | [LC0270.py]     | [Same Tree]                                                                                           | Easy       |
+| [LC027q.py]     | [Diameter of Binary Tree]                                                                             | Easy       |
 
 [//]: # (Solutions)
 
@@ -1101,3 +1102,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0270.py]: Solutions/LC0270.py
 [Same Tree]:https://leetcode.com/problems/same-tree/
+
+[LC0271.py]: Solutions/LC0271.py
+[Diameter of Binary Tree]:https://leetcode.com/problems/diameter-of-binary-tree/
