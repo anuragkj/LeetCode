@@ -286,6 +286,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0271.py]     | [Diameter of Binary Tree]                                                                             | Easy       |
 | [LC0272.py]     | [Find Bottom Left Tree Value]                                                                         | Medium     |
 | [LC0273.py]     | [Even Odd Tree]                                                                                       | Medium     |
+| [LC0274.py]     | [Maximum Odd Binary Number]                                                                           | Easy       |
 
 [//]: # (Solutions)
 
@@ -1113,3 +1114,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0273.py]: Solutions/LC0273.py
 [Even Odd Tree]:https://leetcode.com/problems/diameter-of-binary-tree/
+
+[LC0274.py]: Solutions/LC0274.py
+[Maximum Odd Binary Number]:https://leetcode.com/problems/maximum-odd-binary-number/
