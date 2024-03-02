@@ -287,6 +287,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0272.py]     | [Find Bottom Left Tree Value]                                                                         | Medium     |
 | [LC0273.py]     | [Even Odd Tree]                                                                                       | Medium     |
 | [LC0274.py]     | [Maximum Odd Binary Number]                                                                           | Easy       |
+| [LC0275.py]     | [Squares of a Sorted Array]                                                                           | Easy       |
 
 [//]: # (Solutions)
 
@@ -1117,3 +1118,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0274.py]: Solutions/LC0274.py
 [Maximum Odd Binary Number]:https://leetcode.com/problems/maximum-odd-binary-number/
+
+[LC0275.py]: Solutions/LC0275.py
+[Squares of a Sorted Array]:https://leetcode.com/problems/squares-of-a-sorted-array/
