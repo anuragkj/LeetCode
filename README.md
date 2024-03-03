@@ -288,6 +288,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0273.py]     | [Even Odd Tree]                                                                                       | Medium     |
 | [LC0274.py]     | [Maximum Odd Binary Number]                                                                           | Easy       |
 | [LC0275.py]     | [Squares of a Sorted Array]                                                                           | Easy       |
+| [LC0276.py]     | [Remove Nth Node From End of List]                                                                    | Medium     |
 
 [//]: # (Solutions)
 
@@ -1121,3 +1122,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0275.py]: Solutions/LC0275.py
 [Squares of a Sorted Array]:https://leetcode.com/problems/squares-of-a-sorted-array/
+
+[LC0276.py]: Solutions/LC0276.py
+[Remove Nth Node From End of List]:https://leetcode.com/problems/remove-nth-node-from-end-of-list/
