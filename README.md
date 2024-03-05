@@ -290,6 +290,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0275.py]     | [Squares of a Sorted Array]                                                                           | Easy       |
 | [LC0276.py]     | [Remove Nth Node From End of List]                                                                    | Medium     |
 | [LC0277.py]     | [Bag of Tokens]                                                                                       | Medium     |
+| [LC0278.py]     | [Minimum Length of String After Deleting Similar Ends]                                                | Medium     |
 
 [//]: # (Solutions)
 
@@ -1129,3 +1130,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0277.py]: Solutions/LC0277.py
 [Bag of Tokens]:https://leetcode.com/problems/bag-of-tokens/
+
+[LC0278.py]: Solutions/LC0278.py
+[Minimum Length of String After Deleting Similar Ends]:https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/
