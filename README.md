@@ -291,6 +291,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0276.py]     | [Remove Nth Node From End of List]                                                                    | Medium     |
 | [LC0277.py]     | [Bag of Tokens]                                                                                       | Medium     |
 | [LC0278.py]     | [Minimum Length of String After Deleting Similar Ends]                                                | Medium     |
+| [LC0279.py]     | [Linked List Cycle]                                                                                   | Easy       |
+| [LC0280.py]     | [Middle of the Linked List]                                                                           | Easy       |
 
 [//]: # (Solutions)
 
@@ -1133,3 +1135,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0278.py]: Solutions/LC0278.py
 [Minimum Length of String After Deleting Similar Ends]:https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/
+
+[LC0279.py]: Solutions/LC0279.py
+[Linked List Cycle]:https://leetcode.com/problems/linked-list-cycle/
+
+[LC0280.py]: Solutions/LC0280.py
+[Middle of the Linked List]:https://leetcode.com/problems/middle-of-the-linked-list/
