@@ -293,6 +293,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0278.py]     | [Minimum Length of String After Deleting Similar Ends]                                                | Medium     |
 | [LC0279.py]     | [Linked List Cycle]                                                                                   | Easy       |
 | [LC0280.py]     | [Middle of the Linked List]                                                                           | Easy       |
+| [LC0281.py]     | [Count Elements With Maximum Frequency]                                                               | Easy       |
 
 [//]: # (Solutions)
 
@@ -1141,3 +1142,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0280.py]: Solutions/LC0280.py
 [Middle of the Linked List]:https://leetcode.com/problems/middle-of-the-linked-list/
+
+[LC0281.py]: Solutions/LC0281.py
+[Count Elements With Maximum Frequency]:https://leetcode.com/problems/count-elements-with-maximum-frequency/
