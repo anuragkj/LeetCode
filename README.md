@@ -295,6 +295,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0280.py]     | [Middle of the Linked List]                                                                           | Easy       |
 | [LC0281.py]     | [Count Elements With Maximum Frequency]                                                               | Easy       |
 | [LC0282.py]     | [Minimum Common Value]                                                                                | Easy       |
+| [LC0283.py]     | [Intersection of Two Arrays]                                                                          | Easy       |
 
 [//]: # (Solutions)
 
@@ -1149,3 +1150,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0282.py]: Solutions/LC0282.py
 [Minimum Common Value]:https://leetcode.com/problems/minimum-common-value/
+
+[LC0283.py]: Solutions/LC0283.py
+[Intersection of Two Arrays]:https://leetcode.com/problems/intersection-of-two-arrays/
