@@ -296,6 +296,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0281.py]     | [Count Elements With Maximum Frequency]                                                               | Easy       |
 | [LC0282.py]     | [Minimum Common Value]                                                                                | Easy       |
 | [LC0283.py]     | [Intersection of Two Arrays]                                                                          | Easy       |
+| [LC0284.py]     | [Custom Sort String]                                                                                  | Medium     |
 
 [//]: # (Solutions)
 
@@ -1153,3 +1154,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0283.py]: Solutions/LC0283.py
 [Intersection of Two Arrays]:https://leetcode.com/problems/intersection-of-two-arrays/
+
+[LC0284.py]: Solutions/LC0284.py
+[Custom Sort String]:https://leetcode.com/problems/custom-sort-string/
