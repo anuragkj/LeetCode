@@ -297,6 +297,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0282.py]     | [Minimum Common Value]                                                                                | Easy       |
 | [LC0283.py]     | [Intersection of Two Arrays]                                                                          | Easy       |
 | [LC0284.py]     | [Custom Sort String]                                                                                  | Medium     |
+| [LC0285.py]     | [Remove Zero Sum Consecutive Nodes from Linked List]                                                  | Medium     |
 
 [//]: # (Solutions)
 
@@ -1157,3 +1158,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0284.py]: Solutions/LC0284.py
 [Custom Sort String]:https://leetcode.com/problems/custom-sort-string/
+
+[LC0285.py]: Solutions/LC0285.py
+[Remove Zero Sum Consecutive Nodes from Linked List]:https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/
