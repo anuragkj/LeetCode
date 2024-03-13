@@ -298,6 +298,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0283.py]     | [Intersection of Two Arrays]                                                                          | Easy       |
 | [LC0284.py]     | [Custom Sort String]                                                                                  | Medium     |
 | [LC0285.py]     | [Remove Zero Sum Consecutive Nodes from Linked List]                                                  | Medium     |
+| [LC0286.py]     | [Find the Pivot Integer]                                                                              | Easy       |
 
 [//]: # (Solutions)
 
@@ -1161,3 +1162,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0285.py]: Solutions/LC0285.py
 [Remove Zero Sum Consecutive Nodes from Linked List]:https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/
+
+[LC0286.py]: Solutions/LC0286.py
+[Find the Pivot Integer]:https://leetcode.com/problems/find-the-pivot-integer/
