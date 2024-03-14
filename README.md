@@ -299,6 +299,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0284.py]     | [Custom Sort String]                                                                                  | Medium     |
 | [LC0285.py]     | [Remove Zero Sum Consecutive Nodes from Linked List]                                                  | Medium     |
 | [LC0286.py]     | [Find the Pivot Integer]                                                                              | Easy       |
+| [LC0287.py]     | [Binary Subarrays With Sum]                                                                           | Medium     |
 
 [//]: # (Solutions)
 
@@ -1165,3 +1166,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0286.py]: Solutions/LC0286.py
 [Find the Pivot Integer]:https://leetcode.com/problems/find-the-pivot-integer/
+
+[LC0287.py]: Solutions/LC0287.py
+[Binary Subarrays With Sum]:https://leetcode.com/problems/binary-subarrays-with-sum/
