@@ -300,6 +300,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0285.py]     | [Remove Zero Sum Consecutive Nodes from Linked List]                                                  | Medium     |
 | [LC0286.py]     | [Find the Pivot Integer]                                                                              | Easy       |
 | [LC0287.py]     | [Binary Subarrays With Sum]                                                                           | Medium     |
+| [LC0288.py]     | [Product of Array Except Self]                                                                        | Medium     |
+| [LC0289.py]     | [Contiguous Array]                                                                                    | Medium     |
 
 [//]: # (Solutions)
 
@@ -1169,3 +1171,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0287.py]: Solutions/LC0287.py
 [Binary Subarrays With Sum]:https://leetcode.com/problems/binary-subarrays-with-sum/
+
+[LC0288.py]: Solutions/LC0288.py
+[Product of Array Except Self]:https://leetcode.com/problems/product-of-array-except-self/
+
+[LC0289.py]: Solutions/LC0289.py
+[Contiguous Array]:https://leetcode.com/problems/contiguous-array/
