@@ -302,6 +302,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0287.py]     | [Binary Subarrays With Sum]                                                                           | Medium     |
 | [LC0288.py]     | [Product of Array Except Self]                                                                        | Medium     |
 | [LC0289.py]     | [Contiguous Array]                                                                                    | Medium     |
+| [LC0290.py]     | [Insert Interval]                                                                                     | Medium     |
 
 [//]: # (Solutions)
 
@@ -1177,3 +1178,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0289.py]: Solutions/LC0289.py
 [Contiguous Array]:https://leetcode.com/problems/contiguous-array/
+
+[LC0290.py]: Solutions/LC0290.py
+[Insert Interval]:https://leetcode.com/problems/insert-interval/
