@@ -303,6 +303,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0288.py]     | [Product of Array Except Self]                                                                        | Medium     |
 | [LC0289.py]     | [Contiguous Array]                                                                                    | Medium     |
 | [LC0290.py]     | [Insert Interval]                                                                                     | Medium     |
+| [LC0291.py]     | [Minimum Number of Arrows to Burst Balloons]                                                          | Medium     |
 
 [//]: # (Solutions)
 
@@ -1181,3 +1182,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0290.py]: Solutions/LC0290.py
 [Insert Interval]:https://leetcode.com/problems/insert-interval/
+
+[LC0291.py]: Solutions/LC0291.py
+[Minimum Number of Arrows to Burst Balloons]:https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
