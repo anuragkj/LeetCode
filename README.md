@@ -304,6 +304,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0289.py]     | [Contiguous Array]                                                                                    | Medium     |
 | [LC0290.py]     | [Insert Interval]                                                                                     | Medium     |
 | [LC0291.py]     | [Minimum Number of Arrows to Burst Balloons]                                                          | Medium     |
+| [LC0292.py]     | [Task Scheduler]                                                                                      | Medium     |
 
 [//]: # (Solutions)
 
@@ -1185,3 +1186,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0291.py]: Solutions/LC0291.py
 [Minimum Number of Arrows to Burst Balloons]:https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+
+[LC0292.py]: Solutions/LC0292.py
+[Task Scheduler]:https://leetcode.com/problems/task-scheduler/
