@@ -306,6 +306,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0291.py]     | [Minimum Number of Arrows to Burst Balloons]                                                          | Medium     |
 | [LC0292.py]     | [Task Scheduler]                                                                                      | Medium     |
 | [LC0293.py]     | [Merge In Between Linked Lists]                                                                       | Medium     |
+| [LC0294.py]     | [Reverse Linked List]                                                                                 | Easy       |
 
 [//]: # (Solutions)
 
@@ -1193,3 +1194,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0293.py]: Solutions/LC0293.py
 [Merge In Between Linked Lists]:https://leetcode.com/problems/merge-in-between-linked-lists/
+
+[LC0294.py]: Solutions/LC0294.py
+[Reverse Linked List]:https://leetcode.com/problems/reverse-linked-list/
