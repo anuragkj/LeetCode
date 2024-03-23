@@ -308,6 +308,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0293.py]     | [Merge In Between Linked Lists]                                                                       | Medium     |
 | [LC0294.py]     | [Reverse Linked List]                                                                                 | Easy       |
 | [LC0295.py]     | [Palindrome Linked List]                                                                              | Easy       |
+| [LC0296.py]     | [Reorder List]                                                                                        | Medium     |
 
 [//]: # (Solutions)
 
@@ -1201,3 +1202,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0295.py]: Solutions/LC0295.py
 [Palindrome Linked List]:https://leetcode.com/problems/palindrome-linked-list/
+
+[LC0296.py]: Solutions/LC0296.py
+[Reorder List]:https://leetcode.com/problems/reorder-list/
