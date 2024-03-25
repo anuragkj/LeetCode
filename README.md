@@ -309,6 +309,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0294.py]     | [Reverse Linked List]                                                                                 | Easy       |
 | [LC0295.py]     | [Palindrome Linked List]                                                                              | Easy       |
 | [LC0296.py]     | [Reorder List]                                                                                        | Medium     |
+| [LC0297.py]     | [Find All Duplicates in an Array]                                                                     | Medium     |
 
 [//]: # (Solutions)
 
@@ -1205,3 +1206,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0296.py]: Solutions/LC0296.py
 [Reorder List]:https://leetcode.com/problems/reorder-list/
+
+[LC0297.py]: Solutions/LC0297.py
+[Find All Duplicates in an Array]:https://leetcode.com/problems/find-all-duplicates-in-an-array/
