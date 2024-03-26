@@ -310,6 +310,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0295.py]     | [Palindrome Linked List]                                                                              | Easy       |
 | [LC0296.py]     | [Reorder List]                                                                                        | Medium     |
 | [LC0297.py]     | [Find All Duplicates in an Array]                                                                     | Medium     |
+| [LC0298.py]     | [First Missing Positive]                                                                              | Hard       |
 
 [//]: # (Solutions)
 
@@ -1209,3 +1210,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0297.py]: Solutions/LC0297.py
 [Find All Duplicates in an Array]:https://leetcode.com/problems/find-all-duplicates-in-an-array/
+
+[LC0298.py]: Solutions/LC0298.py
+[First Missing Positive]:https://leetcode.com/problems/first-missing-positive/
