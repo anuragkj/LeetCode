@@ -311,6 +311,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0296.py]     | [Reorder List]                                                                                        | Medium     |
 | [LC0297.py]     | [Find All Duplicates in an Array]                                                                     | Medium     |
 | [LC0298.py]     | [First Missing Positive]                                                                              | Hard       |
+| [LC0299.py]     | [Subarray Product Less Than K]                                                                        | Medium     |
 
 [//]: # (Solutions)
 
@@ -1213,3 +1214,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0298.py]: Solutions/LC0298.py
 [First Missing Positive]:https://leetcode.com/problems/first-missing-positive/
+
+[LC0299.py]: Solutions/LC0299.py
+[Subarray Product Less Than K]:https://leetcode.com/problems/subarray-product-less-than-k/
