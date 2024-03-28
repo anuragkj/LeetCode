@@ -312,6 +312,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0297.py]     | [Find All Duplicates in an Array]                                                                     | Medium     |
 | [LC0298.py]     | [First Missing Positive]                                                                              | Hard       |
 | [LC0299.py]     | [Subarray Product Less Than K]                                                                        | Medium     |
+| [LC0300.py]     | [Length of Longest Subarray With at Most K Frequency]                                                 | Medium     |
 
 [//]: # (Solutions)
 
@@ -1217,3 +1218,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0299.py]: Solutions/LC0299.py
 [Subarray Product Less Than K]:https://leetcode.com/problems/subarray-product-less-than-k/
+
+[LC0300.py]: Solutions/LC0300.py
+[Length of Longest Subarray With at Most K Frequency]:https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/
