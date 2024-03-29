@@ -313,6 +313,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0298.py]     | [First Missing Positive]                                                                              | Hard       |
 | [LC0299.py]     | [Subarray Product Less Than K]                                                                        | Medium     |
 | [LC0300.py]     | [Length of Longest Subarray With at Most K Frequency]                                                 | Medium     |
+| [LC0301.py]     | [Count Subarrays Where Max Element Appears at Least K Times]                                          | Medium     |
 
 [//]: # (Solutions)
 
@@ -1221,3 +1222,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0300.py]: Solutions/LC0300.py
 [Length of Longest Subarray With at Most K Frequency]:https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/
+
+[LC0301.py]: Solutions/LC0301.py
+[Count Subarrays Where Max Element Appears at Least K Times]:https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/
