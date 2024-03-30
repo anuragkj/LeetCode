@@ -314,6 +314,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0299.py]     | [Subarray Product Less Than K]                                                                        | Medium     |
 | [LC0300.py]     | [Length of Longest Subarray With at Most K Frequency]                                                 | Medium     |
 | [LC0301.py]     | [Count Subarrays Where Max Element Appears at Least K Times]                                          | Medium     |
+| [LC0302.py]     | [Subarrays with K Different Integers]                                                                 | Hard       |
 
 [//]: # (Solutions)
 
@@ -1225,3 +1226,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0301.py]: Solutions/LC0301.py
 [Count Subarrays Where Max Element Appears at Least K Times]:https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/
+
+[LC0302.py]: Solutions/LC0302.py
+[Subarrays with K Different Integers]:https://leetcode.com/problems/subarrays-with-k-different-integers/
