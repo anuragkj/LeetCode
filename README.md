@@ -315,6 +315,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0300.py]     | [Length of Longest Subarray With at Most K Frequency]                                                 | Medium     |
 | [LC0301.py]     | [Count Subarrays Where Max Element Appears at Least K Times]                                          | Medium     |
 | [LC0302.py]     | [Subarrays with K Different Integers]                                                                 | Hard       |
+| [LC0303.py]     | [Count Subarrays With Fixed Bounds]                                                                   | Hard       |
 
 [//]: # (Solutions)
 
@@ -1229,3 +1230,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0302.py]: Solutions/LC0302.py
 [Subarrays with K Different Integers]:https://leetcode.com/problems/subarrays-with-k-different-integers/
+
+[LC0303.py]: Solutions/LC0303.py
+[Count Subarrays With Fixed Bounds]:https://leetcode.com/problems/count-subarrays-with-fixed-bounds/
