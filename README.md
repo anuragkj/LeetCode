@@ -316,6 +316,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0301.py]     | [Count Subarrays Where Max Element Appears at Least K Times]                                          | Medium     |
 | [LC0302.py]     | [Subarrays with K Different Integers]                                                                 | Hard       |
 | [LC0303.py]     | [Count Subarrays With Fixed Bounds]                                                                   | Hard       |
+| [LC0304.py]     | [Length of Last Word]                                                                                 | Easy       |
 
 [//]: # (Solutions)
 
@@ -1233,3 +1234,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0303.py]: Solutions/LC0303.py
 [Count Subarrays With Fixed Bounds]:https://leetcode.com/problems/count-subarrays-with-fixed-bounds/
+
+[LC0304.py]: Solutions/LC0304.py
+[Length of Last Word]:https://leetcode.com/problems/length-of-last-word/
