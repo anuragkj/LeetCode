@@ -317,6 +317,9 @@ The questions are divided into 3 levels of difficulty:
 | [LC0302.py]     | [Subarrays with K Different Integers]                                                                 | Hard       |
 | [LC0303.py]     | [Count Subarrays With Fixed Bounds]                                                                   | Hard       |
 | [LC0304.py]     | [Length of Last Word]                                                                                 | Easy       |
+| [LC0305.py]     | [Isomorphic Strings]                                                                                  | Easy       |
+| [LC0306.py]     | [Word Search]                                                                                         | Medium     |
+| [LC0307.py]     | [Maximum Nesting Depth of the Parentheses]                                                            | Easy       |
 
 [//]: # (Solutions)
 
@@ -1237,3 +1240,12 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0304.py]: Solutions/LC0304.py
 [Length of Last Word]:https://leetcode.com/problems/length-of-last-word/
+
+[LC0305.py]: Solutions/LC0305.py
+[Isomorphic Strings]:https://leetcode.com/problems/isomorphic-strings/
+
+[LC0306.py]: Solutions/LC0306.py
+[Word Search]:https://leetcode.com/problems/word-search/
+
+[LC0307.py]: Solutions/LC0307.py
+[Maximum Nesting Depth of the Parentheses]:https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
