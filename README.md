@@ -320,6 +320,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0305.py]     | [Isomorphic Strings]                                                                                  | Easy       |
 | [LC0306.py]     | [Word Search]                                                                                         | Medium     |
 | [LC0307.py]     | [Maximum Nesting Depth of the Parentheses]                                                            | Easy       |
+| [LC0308.py]     | [Make The String Great]                                                                               | Easy       |
 
 [//]: # (Solutions)
 
@@ -1249,3 +1250,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0307.py]: Solutions/LC0307.py
 [Maximum Nesting Depth of the Parentheses]:https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+
+[LC0308.py]: Solutions/LC0308.py
+[Make The String Great]:https://leetcode.com/problems/make-the-string-great/
