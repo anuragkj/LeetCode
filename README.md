@@ -321,6 +321,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0306.py]     | [Word Search]                                                                                         | Medium     |
 | [LC0307.py]     | [Maximum Nesting Depth of the Parentheses]                                                            | Easy       |
 | [LC0308.py]     | [Make The String Great]                                                                               | Easy       |
+| [LC0309.py]     | [Minimum Remove to Make Valid Parentheses]                                                            | Medium     |
 
 [//]: # (Solutions)
 
@@ -1253,3 +1254,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0308.py]: Solutions/LC0308.py
 [Make The String Great]:https://leetcode.com/problems/make-the-string-great/
+
+[LC0309.py]: Solutions/LC0309.py
+[Minimum Remove to Make Valid Parentheses]:https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
