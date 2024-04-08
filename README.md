@@ -323,6 +323,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0308.py]     | [Make The String Great]                                                                               | Easy       |
 | [LC0309.py]     | [Minimum Remove to Make Valid Parentheses]                                                            | Medium     |
 | [LC0310.py]     | [Valid Parenthesis String]                                                                            | Medium     |
+| [LC0311.py]     | [Number of Students Unable to Eat Lunch]                                                              | Easy       |
 
 [//]: # (Solutions)
 
@@ -1261,3 +1262,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0310.py]: Solutions/LC0310.py
 [Valid Parenthesis String]:https://leetcode.com/problems/valid-parenthesis-string/
+
+[LC0311.py]: Solutions/LC0311.py
+[Number of Students Unable to Eat Lunch]:https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
