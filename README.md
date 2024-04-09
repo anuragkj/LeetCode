@@ -324,6 +324,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0309.py]     | [Minimum Remove to Make Valid Parentheses]                                                            | Medium     |
 | [LC0310.py]     | [Valid Parenthesis String]                                                                            | Medium     |
 | [LC0311.py]     | [Number of Students Unable to Eat Lunch]                                                              | Easy       |
+| [LC0312.py]     | [Time Needed to Buy Tickets]                                                                          | Easy       |
 
 [//]: # (Solutions)
 
@@ -1265,3 +1266,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0311.py]: Solutions/LC0311.py
 [Number of Students Unable to Eat Lunch]:https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
+
+[LC0312.py]: Solutions/LC0312.py
+[Time Needed to Buy Tickets]:https://leetcode.com/problems/time-needed-to-buy-tickets/
