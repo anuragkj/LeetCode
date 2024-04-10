@@ -325,6 +325,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0310.py]     | [Valid Parenthesis String]                                                                            | Medium     |
 | [LC0311.py]     | [Number of Students Unable to Eat Lunch]                                                              | Easy       |
 | [LC0312.py]     | [Time Needed to Buy Tickets]                                                                          | Easy       |
+| [LC0313.py]     | [Reveal Cards In Increasing Order]                                                                    | Medium     |
 
 [//]: # (Solutions)
 
@@ -1269,3 +1270,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0312.py]: Solutions/LC0312.py
 [Time Needed to Buy Tickets]:https://leetcode.com/problems/time-needed-to-buy-tickets/
+
+[LC0313.py]: Solutions/LC0313.py
+[Reveal Cards In Increasing Order]:https://leetcode.com/problems/reveal-cards-in-increasing-order/
