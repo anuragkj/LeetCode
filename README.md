@@ -326,6 +326,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0311.py]     | [Number of Students Unable to Eat Lunch]                                                              | Easy       |
 | [LC0312.py]     | [Time Needed to Buy Tickets]                                                                          | Easy       |
 | [LC0313.py]     | [Reveal Cards In Increasing Order]                                                                    | Medium     |
+| [LC0314.py]     | [Remove K Digits]                                                                                     | Medium     |
 
 [//]: # (Solutions)
 
@@ -1273,3 +1274,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0313.py]: Solutions/LC0313.py
 [Reveal Cards In Increasing Order]:https://leetcode.com/problems/reveal-cards-in-increasing-order/
+
+[LC0314.py]: Solutions/LC03134.py
+[Remove K Digits]:https://leetcode.com/problems/remove-k-digits/
