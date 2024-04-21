@@ -327,6 +327,16 @@ The questions are divided into 3 levels of difficulty:
 | [LC0312.py]     | [Time Needed to Buy Tickets]                                                                          | Easy       |
 | [LC0313.py]     | [Reveal Cards In Increasing Order]                                                                    | Medium     |
 | [LC0314.py]     | [Remove K Digits]                                                                                     | Medium     |
+| [LC0315.py]     | [Trapping Rain Water]                                                                                 | Hard       |
+| [LC0316.py]     | [Maximal Rectangle]                                                                                   | Hard       |
+| [LC0317.py]     | [Sum of Left Leaves]                                                                                  | Easy       |
+| [LC0318.py]     | [Sum Root to Leaf Numbers]                                                                            | Medium     |
+| [LC0319.py]     | [Add One Row to Tree]                                                                                 | Medium     |
+| [LC0320.py]     | [Smallest String Starting From Leaf]                                                                  | Medium     |
+| [LC0321.py]     | [Island Perimeter]                                                                                    | Medium     |
+| [LC0322.py]     | [Number of Islands]                                                                                   | Medium     |
+| [LC0323.py]     | [Find All Groups of Farmland]                                                                         | Medium     |
+| [LC0324.py]     | [Find if Path Exists in Graph]                                                                        | Easy       |
 
 [//]: # (Solutions)
 
@@ -1275,5 +1285,35 @@ The questions are divided into 3 levels of difficulty:
 [LC0313.py]: Solutions/LC0313.py
 [Reveal Cards In Increasing Order]:https://leetcode.com/problems/reveal-cards-in-increasing-order/
 
-[LC0314.py]: Solutions/LC03134.py
+[LC0314.py]: Solutions/LC0314.py
 [Remove K Digits]:https://leetcode.com/problems/remove-k-digits/
+
+[LC0315.py]: Solutions/LC0315.py
+[Trapping Rain Water]:https://leetcode.com/problems/trapping-rain-water/
+
+[LC0316.py]: Solutions/LC0316.py
+[Maximal Rectangle]:https://leetcode.com/problems/maximal-rectangle/
+
+[LC0317.py]: Solutions/LC0317.py
+[Sum of Left Leaves]:https://leetcode.com/problems/sum-of-left-leaves/
+
+[LC0318.py]: Solutions/LC0318.py
+[Sum Root to Leaf Numbers]:https://leetcode.com/problems/sum-root-to-leaf-numbers/
+
+[LC0319.py]: Solutions/LC0319.py
+[Add One Row to Tree]:https://leetcode.com/problems/add-one-row-to-tree/
+
+[LC0320.py]: Solutions/LC0320.py
+[Smallest String Starting From Leaf]:https://leetcode.com/problems/smallest-string-starting-from-leaf/
+
+[LC0321.py]: Solutions/LC0321.py
+[Island Perimeter]:https://leetcode.com/problems/island-perimeter/
+
+[LC0322.py]: Solutions/LC0322.py
+[Number of Islands]:https://leetcode.com/problems/number-of-islands/
+
+[LC0323.py]: Solutions/LC0323.py
+[Find All Groups of Farmland]:https://leetcode.com/problems/find-all-groups-of-farmland/
+
+[LC0323.py]: Solutions/LC0324.py
+[Find if Path Exists in Graph]:https://leetcode.com/problems/find-if-path-exists-in-graph/
