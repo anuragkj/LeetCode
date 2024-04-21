@@ -1315,5 +1315,5 @@ The questions are divided into 3 levels of difficulty:
 [LC0323.py]: Solutions/LC0323.py
 [Find All Groups of Farmland]:https://leetcode.com/problems/find-all-groups-of-farmland/
 
-[LC0323.py]: Solutions/LC0324.py
+[LC0324.py]: Solutions/LC0324.py
 [Find if Path Exists in Graph]:https://leetcode.com/problems/find-if-path-exists-in-graph/
