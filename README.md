@@ -337,6 +337,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0322.py]     | [Number of Islands]                                                                                   | Medium     |
 | [LC0323.py]     | [Find All Groups of Farmland]                                                                         | Medium     |
 | [LC0324.py]     | [Find if Path Exists in Graph]                                                                        | Easy       |
+| [LC0325.py]     | [Open the Lock]                                                                                       | Medium     |
 
 [//]: # (Solutions)
 
@@ -1317,3 +1318,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0324.py]: Solutions/LC0324.py
 [Find if Path Exists in Graph]:https://leetcode.com/problems/find-if-path-exists-in-graph/
+
+[LC0325.py]: Solutions/LC0325.py
+[Open the Lock]:https://leetcode.com/problems/open-the-lock/
