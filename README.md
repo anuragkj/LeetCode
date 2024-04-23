@@ -338,6 +338,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0323.py]     | [Find All Groups of Farmland]                                                                         | Medium     |
 | [LC0324.py]     | [Find if Path Exists in Graph]                                                                        | Easy       |
 | [LC0325.py]     | [Open the Lock]                                                                                       | Medium     |
+| [LC0326.py]     | [Minimum Height Trees]                                                                                | Medium     |
 
 [//]: # (Solutions)
 
@@ -1321,3 +1322,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0325.py]: Solutions/LC0325.py
 [Open the Lock]:https://leetcode.com/problems/open-the-lock/
+
+[LC0326.py]: Solutions/LC0326.py
+[Minimum Height Trees]:https://leetcode.com/problems/minimum-height-trees/
