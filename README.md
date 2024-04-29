@@ -340,6 +340,11 @@ The questions are divided into 3 levels of difficulty:
 | [LC0325.py]     | [Open the Lock]                                                                                       | Medium     |
 | [LC0326.py]     | [Minimum Height Trees]                                                                                | Medium     |
 | [LC0327.py]     | [N-th Tribonacci Number]                                                                              | Easy       |
+| [LC0328.py]     | [Longest Ideal Subsequence]                                                                           | Medium     |
+| [LC0329.py]     | [Minimum Falling Path Sum II]                                                                         | Hard       |
+| [LC0330.py]     | [Freedom Trail]                                                                                       | Hard       |
+| [LC0331.py]     | [Sum of Distances in Tree]                                                                            | Hard       |
+| [LC0332.py]     | [Minimum Number of Operations to Make Array XOR Equal to K]                                           | Medium     |
 
 [//]: # (Solutions)
 
@@ -1329,3 +1334,18 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0327.py]: Solutions/LC0327.py
 [N-th Tribonacci Number]:https://leetcode.com/problems/n-th-tribonacci-number/
+
+[LC0328.py]: Solutions/LC0328.py
+[Longest Ideal Subsequence]:https://leetcode.com/problems/longest-ideal-subsequence/description/
+
+[LC0329.py]: Solutions/LC0329.py
+[Minimum Falling Path Sum II]:https://leetcode.com/problems/minimum-falling-path-sum-ii/description/
+
+[LC0330.py]: Solutions/LC0330.py
+[Freedom Trail]:https://leetcode.com/problems/freedom-trail/description/
+
+[LC0331.py]: Solutions/LC0331.py
+[Sum of Distances in Tree]:https://leetcode.com/problems/sum-of-distances-in-tree/
+
+[LC0332.py]: Solutions/LC0332.py
+[Minimum Number of Operations to Make Array XOR Equal to K]:https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/
