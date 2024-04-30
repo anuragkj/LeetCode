@@ -345,6 +345,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0330.py]     | [Freedom Trail]                                                                                       | Hard       |
 | [LC0331.py]     | [Sum of Distances in Tree]                                                                            | Hard       |
 | [LC0332.py]     | [Minimum Number of Operations to Make Array XOR Equal to K]                                           | Medium     |
+| [LC0333.py]     | [Number of Wonderful Substrings]                                                                      | Medium     |
 
 [//]: # (Solutions)
 
@@ -1349,3 +1350,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0332.py]: Solutions/LC0332.py
 [Minimum Number of Operations to Make Array XOR Equal to K]:https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/
+
+[LC0333.py]: Solutions/LC0333.py
+[Number of Wonderful Substrings]:https://leetcode.com/problems/number-of-wonderful-substrings/description/
