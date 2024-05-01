@@ -346,6 +346,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0331.py]     | [Sum of Distances in Tree]                                                                            | Hard       |
 | [LC0332.py]     | [Minimum Number of Operations to Make Array XOR Equal to K]                                           | Medium     |
 | [LC0333.py]     | [Number of Wonderful Substrings]                                                                      | Medium     |
+| [LC0334.py]     | [Reverse Prefix of Word]                                                                              | Easy       |
 
 [//]: # (Solutions)
 
@@ -1353,3 +1354,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0333.py]: Solutions/LC0333.py
 [Number of Wonderful Substrings]:https://leetcode.com/problems/number-of-wonderful-substrings/description/
+
+[LC0334.py]: Solutions/LC0334.py
+[Reverse Prefix of Word]:https://leetcode.com/problems/reverse-prefix-of-word/description/
