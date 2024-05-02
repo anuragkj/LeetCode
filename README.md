@@ -347,6 +347,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0332.py]     | [Minimum Number of Operations to Make Array XOR Equal to K]                                           | Medium     |
 | [LC0333.py]     | [Number of Wonderful Substrings]                                                                      | Medium     |
 | [LC0334.py]     | [Reverse Prefix of Word]                                                                              | Easy       |
+| [LC0335.py]     | [Largest Positive Integer That Exists With Its Negative]                                              | Easy       |
 
 [//]: # (Solutions)
 
@@ -1357,3 +1358,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0334.py]: Solutions/LC0334.py
 [Reverse Prefix of Word]:https://leetcode.com/problems/reverse-prefix-of-word/description/
+
+[LC0335.py]: Solutions/LC0335.py
+[Largest Positive Integer That Exists With Its Negative]:https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/
