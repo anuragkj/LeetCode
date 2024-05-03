@@ -348,6 +348,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0333.py]     | [Number of Wonderful Substrings]                                                                      | Medium     |
 | [LC0334.py]     | [Reverse Prefix of Word]                                                                              | Easy       |
 | [LC0335.py]     | [Largest Positive Integer That Exists With Its Negative]                                              | Easy       |
+| [LC0336.py]     | [Compare Version Numbers]                                                                             | Medium     |
 
 [//]: # (Solutions)
 
@@ -1361,3 +1362,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0335.py]: Solutions/LC0335.py
 [Largest Positive Integer That Exists With Its Negative]:https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/
+
+[LC0336.py]: Solutions/LC0336.py
+[Compare Version Numbers]:https://leetcode.com/problems/compare-version-numbers/description/
