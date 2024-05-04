@@ -349,6 +349,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0334.py]     | [Reverse Prefix of Word]                                                                              | Easy       |
 | [LC0335.py]     | [Largest Positive Integer That Exists With Its Negative]                                              | Easy       |
 | [LC0336.py]     | [Compare Version Numbers]                                                                             | Medium     |
+| [LC0337.py]     | [Boats to Save People]                                                                                | Medium     |
 
 [//]: # (Solutions)
 
@@ -1365,3 +1366,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0336.py]: Solutions/LC0336.py
 [Compare Version Numbers]:https://leetcode.com/problems/compare-version-numbers/description/
+
+[LC0337.py]: Solutions/LC0337.py
+[Boats to Save People]:https://leetcode.com/problems/boats-to-save-people/description/
