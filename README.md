@@ -350,6 +350,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0335.py]     | [Largest Positive Integer That Exists With Its Negative]                                              | Easy       |
 | [LC0336.py]     | [Compare Version Numbers]                                                                             | Medium     |
 | [LC0337.py]     | [Boats to Save People]                                                                                | Medium     |
+| [LC0338.py]     | [Delete Node in a Linked List]                                                                        | Medium     |
 
 [//]: # (Solutions)
 
@@ -1369,3 +1370,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0337.py]: Solutions/LC0337.py
 [Boats to Save People]:https://leetcode.com/problems/boats-to-save-people/description/
+
+[LC0338.py]: Solutions/LC0338.py
+[Delete Node in a Linked List]:https://leetcode.com/problems/delete-node-in-a-linked-list/description/
