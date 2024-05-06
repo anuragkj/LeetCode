@@ -351,6 +351,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0336.py]     | [Compare Version Numbers]                                                                             | Medium     |
 | [LC0337.py]     | [Boats to Save People]                                                                                | Medium     |
 | [LC0338.py]     | [Delete Node in a Linked List]                                                                        | Medium     |
+| [LC0339.py]     | [Remove Nodes From Linked List]                                                                       | Medium     |
 
 [//]: # (Solutions)
 
@@ -1373,3 +1374,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0338.py]: Solutions/LC0338.py
 [Delete Node in a Linked List]:https://leetcode.com/problems/delete-node-in-a-linked-list/description/
+
+[LC0339.py]: Solutions/LC0339.py
+[Remove Nodes From Linked List]:https://leetcode.com/problems/remove-nodes-from-linked-list/description/
