@@ -352,6 +352,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0337.py]     | [Boats to Save People]                                                                                | Medium     |
 | [LC0338.py]     | [Delete Node in a Linked List]                                                                        | Medium     |
 | [LC0339.py]     | [Remove Nodes From Linked List]                                                                       | Medium     |
+| [LC0340.py]     | [Double a Number Represented as a Linked List]                                                        | Medium     |
+| [LC0341.py]     | [Relative Ranks]                                                                                      | Easy       |
 
 [//]: # (Solutions)
 
@@ -1377,3 +1379,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0339.py]: Solutions/LC0339.py
 [Remove Nodes From Linked List]:https://leetcode.com/problems/remove-nodes-from-linked-list/description/
+
+[LC0340.py]: Solutions/LC0340.py
+[Double a Number Represented as a Linked List]:https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/
+
+[LC0341.py]: Solutions/LC0341.py
+[Relative Ranks]:https://leetcode.com/problems/relative-ranks/description/
