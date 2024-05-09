@@ -354,6 +354,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0339.py]     | [Remove Nodes From Linked List]                                                                       | Medium     |
 | [LC0340.py]     | [Double a Number Represented as a Linked List]                                                        | Medium     |
 | [LC0341.py]     | [Relative Ranks]                                                                                      | Easy       |
+| [LC0342.py]     | [Maximize Happiness of Selected Children]                                                             | Medium     |
 
 [//]: # (Solutions)
 
@@ -1385,3 +1386,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0341.py]: Solutions/LC0341.py
 [Relative Ranks]:https://leetcode.com/problems/relative-ranks/description/
+
+[LC0342.py]: Solutions/LC0342.py
+[Maximize Happiness of Selected Children]:https://leetcode.com/problems/maximize-happiness-of-selected-children/description/
