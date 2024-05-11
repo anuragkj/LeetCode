@@ -355,6 +355,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0340.py]     | [Double a Number Represented as a Linked List]                                                        | Medium     |
 | [LC0341.py]     | [Relative Ranks]                                                                                      | Easy       |
 | [LC0342.py]     | [Maximize Happiness of Selected Children]                                                             | Medium     |
+| [LC0343.py]     | [K-th Smallest Prime Fraction]                                                                        | Medium     |
+| [LC0344.py]     | [Minimum Cost to Hire K Workers]                                                                      | Hard       |
 
 [//]: # (Solutions)
 
@@ -1389,3 +1391,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0342.py]: Solutions/LC0342.py
 [Maximize Happiness of Selected Children]:https://leetcode.com/problems/maximize-happiness-of-selected-children/description/
+
+[LC0343.py]: Solutions/LC0343.py
+[K-th Smallest Prime Fraction]:https://leetcode.com/problems/k-th-smallest-prime-fraction/description/
+
+[LC0344.py]: Solutions/LC0344.py
+[Minimum Cost to Hire K Workers]:https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/
