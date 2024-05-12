@@ -357,6 +357,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0342.py]     | [Maximize Happiness of Selected Children]                                                             | Medium     |
 | [LC0343.py]     | [K-th Smallest Prime Fraction]                                                                        | Medium     |
 | [LC0344.py]     | [Minimum Cost to Hire K Workers]                                                                      | Hard       |
+| [LC0345.py]     | [Largest Local Values in a Matrix]                                                                    | Easy       |
 
 [//]: # (Solutions)
 
@@ -1397,3 +1398,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0344.py]: Solutions/LC0344.py
 [Minimum Cost to Hire K Workers]:https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/
+
+[LC0345.py]: Solutions/LC0345.py
+[Largest Local Values in a Matrix]:https://leetcode.com/problems/largest-local-values-in-a-matrix/descr
