@@ -358,6 +358,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0343.py]     | [K-th Smallest Prime Fraction]                                                                        | Medium     |
 | [LC0344.py]     | [Minimum Cost to Hire K Workers]                                                                      | Hard       |
 | [LC0345.py]     | [Largest Local Values in a Matrix]                                                                    | Easy       |
+| [LC0346.py]     | [Score After Flipping Matrix]                                                                         | Medium     |
 
 [//]: # (Solutions)
 
@@ -1400,4 +1401,7 @@ The questions are divided into 3 levels of difficulty:
 [Minimum Cost to Hire K Workers]:https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/
 
 [LC0345.py]: Solutions/LC0345.py
-[Largest Local Values in a Matrix]:https://leetcode.com/problems/largest-local-values-in-a-matrix/descr
+[Largest Local Values in a Matrix]:https://leetcode.com/problems/largest-local-values-in-a-matrix/
+
+[LC0346.py]: Solutions/LC0346.py
+[Score After Flipping Matrix]:https://leetcode.com/problems/score-after-flipping-matrix/description/
