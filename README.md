@@ -359,6 +359,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0344.py]     | [Minimum Cost to Hire K Workers]                                                                      | Hard       |
 | [LC0345.py]     | [Largest Local Values in a Matrix]                                                                    | Easy       |
 | [LC0346.py]     | [Score After Flipping Matrix]                                                                         | Medium     |
+| [LC0347.py]     | [Path with Maximum Gold]                                                                              | Medium     |
+| [LC0348.py]     | [Find the Safest Path in a Grid]                                                                      | Medium     |
 
 [//]: # (Solutions)
 
@@ -1405,3 +1407,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0346.py]: Solutions/LC0346.py
 [Score After Flipping Matrix]:https://leetcode.com/problems/score-after-flipping-matrix/description/
+
+[LC0347.py]: Solutions/LC0347.py
+[Path with Maximum Gold]:https://leetcode.com/problems/path-with-maximum-gold/description/
+
+[LC0348.py]: Solutions/LC0348.py
+[Find the Safest Path in a Grid]:https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/
