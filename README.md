@@ -361,6 +361,9 @@ The questions are divided into 3 levels of difficulty:
 | [LC0346.py]     | [Score After Flipping Matrix]                                                                         | Medium     |
 | [LC0347.py]     | [Path with Maximum Gold]                                                                              | Medium     |
 | [LC0348.py]     | [Find the Safest Path in a Grid]                                                                      | Medium     |
+| [LC0349.py]     | [Delete Leaves With a Given Value]                                                                    | Medium     |
+| [LC0350.py]     | [Evaluate Boolean Binary Tree]                                                                        | Easy       |
+| [LC0351.py]     | [Distribute Coins in Binary Tree]                                                                     | Medium     |
 
 [//]: # (Solutions)
 
@@ -1413,3 +1416,12 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0348.py]: Solutions/LC0348.py
 [Find the Safest Path in a Grid]:https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/
+
+[LC0349.py]: Solutions/LC0349.py
+[Delete Leaves With a Given Value]:https://leetcode.com/problems/delete-leaves-with-a-given-value/description/
+
+[LC0350.py]: Solutions/LC0350.py
+[Evaluate Boolean Binary Tree]:https://leetcode.com/problems/evaluate-boolean-binary-tree/description/
+
+[LC0351.py]: Solutions/LC0351.py
+[Distribute Coins in Binary Tree]:https://leetcode.com/problems/distribute-coins-in-binary-tree/description/
