@@ -364,7 +364,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0349.py]     | [Delete Leaves With a Given Value]                                                                    | Medium     |
 | [LC0350.py]     | [Evaluate Boolean Binary Tree]                                                                        | Easy       |
 | [LC0351.py]     | [Distribute Coins in Binary Tree]                                                                     | Medium     |
-| [LC0350.py]     | [Find the Maximum Sum of Node Values]                                                                 | Hard       |
+| [LC0352.py]     | [Sum of All Subset XOR Totals]                                                                        | Easy       |
 
 [//]: # (Solutions)
 
@@ -1429,3 +1429,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0352.py]: Solutions/LC0352.py
 [Find the Maximum Sum of Node Values]:https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/
+
+[LC0353.py]: Solutions/LC0353.py
+[Sum of All Subset XOR Totals]:https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/
