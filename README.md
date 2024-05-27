@@ -366,12 +366,13 @@ The questions are divided into 3 levels of difficulty:
 | [LC0351.py]     | [Distribute Coins in Binary Tree]                                                                     | Medium     |
 | [LC0352.py]     | [Find the Maximum Sum of Node Values]                                                                 | Hard       |
 | [LC0353.py]     | [Sum of All Subset XOR Totals]                                                                        | Easy       |
-| [LC0351.py]     | [Subsets]                                                                                             | Medium     |
-| [LC0351.py]     | [Palindrome Partitioning]                                                                             | Medium     |
-| [LC0351.py]     | [The Number of Beautiful Subsets]                                                                     | Medium     |
-| [LC0352.py]     | [Maximum Score Words Formed by Letters]                                                               | Hard       |
-| [LC0352.py]     | [Word Break II]                                                                                       | Hard       |
-| [LC0352.py]     | [Student Attendance Record II]                                                                        | Hard       |
+| [LC0354.py]     | [Subsets]                                                                                             | Medium     |
+| [LC0355.py]     | [Palindrome Partitioning]                                                                             | Medium     |
+| [LC0356.py]     | [The Number of Beautiful Subsets]                                                                     | Medium     |
+| [LC0357.py]     | [Maximum Score Words Formed by Letters]                                                               | Hard       |
+| [LC0358.py]     | [Word Break II]                                                                                       | Hard       |
+| [LC0359.py]     | [Student Attendance Record II]                                                                        | Hard       |
+| [LC0360.py]     | [Special Array With X Elements Greater Than or Equal X]                                               | Easy       |
 
 [//]: # (Solutions)
 
@@ -1457,3 +1458,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0359.py]: Solutions/LC0359.py
 [Student Attendance Record II]:https://leetcode.com/problems/student-attendance-record-ii/description/
+
+[LC0360.py]: Solutions/LC0360.py
+[Special Array With X Elements Greater Than or Equal X]:https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/
