@@ -373,6 +373,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0358.py]     | [Word Break II]                                                                                       | Hard       |
 | [LC0359.py]     | [Student Attendance Record II]                                                                        | Hard       |
 | [LC0360.py]     | [Special Array With X Elements Greater Than or Equal X]                                               | Easy       |
+| [LC0361.py]     | [Get Equal Substrings Within Budget]                                                                  | Medium     |
 
 [//]: # (Solutions)
 
@@ -1461,3 +1462,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0360.py]: Solutions/LC0360.py
 [Special Array With X Elements Greater Than or Equal X]:https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/
+
+[LC0361.py]: Solutions/LC0361.py
+[Get Equal Substrings Within Budget]:https://leetcode.com/problems/get-equal-substrings-within-budget/description/
