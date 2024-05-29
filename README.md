@@ -374,6 +374,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0359.py]     | [Student Attendance Record II]                                                                        | Hard       |
 | [LC0360.py]     | [Special Array With X Elements Greater Than or Equal X]                                               | Easy       |
 | [LC0361.py]     | [Get Equal Substrings Within Budget]                                                                  | Medium     |
+| [LC0362.py]     | [Number of Steps to Reduce a Number in Binary Representation to One]                                  | Medium     |
 
 [//]: # (Solutions)
 
@@ -1465,3 +1466,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0361.py]: Solutions/LC0361.py
 [Get Equal Substrings Within Budget]:https://leetcode.com/problems/get-equal-substrings-within-budget/description/
+
+[LC0362.py]: Solutions/LC0362.py
+[Number of Steps to Reduce a Number in Binary Representation to One]:https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/
