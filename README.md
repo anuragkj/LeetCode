@@ -375,6 +375,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0360.py]     | [Special Array With X Elements Greater Than or Equal X]                                               | Easy       |
 | [LC0361.py]     | [Get Equal Substrings Within Budget]                                                                  | Medium     |
 | [LC0362.py]     | [Number of Steps to Reduce a Number in Binary Representation to One]                                  | Medium     |
+| [LC0363.py]     | [Count Triplets That Can Form Two Arrays of Equal XOR]                                                | Medium     |
 
 [//]: # (Solutions)
 
@@ -1469,3 +1470,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0362.py]: Solutions/LC0362.py
 [Number of Steps to Reduce a Number in Binary Representation to One]:https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/
+
+[LC0363.py]: Solutions/LC0363.py
+[Count Triplets That Can Form Two Arrays of Equal XOR]:https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/
