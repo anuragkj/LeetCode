@@ -377,6 +377,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0362.py]     | [Number of Steps to Reduce a Number in Binary Representation to One]                                  | Medium     |
 | [LC0363.py]     | [Count Triplets That Can Form Two Arrays of Equal XOR]                                                | Medium     |
 | [LC0364.py]     | [Single Number III]                                                                                   | Medium     |
+| [LC0365.py]     | [Score of a String]                                                                                   | Easy       |
 
 [//]: # (Solutions)
 
@@ -1477,3 +1478,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0364.py]: Solutions/LC0364.py
 [Single Number III]:https://leetcode.com/problems/single-number-iii/description/
+
+[LC0365.py]: Solutions/LC0365.py
+[Score of a String]:https://leetcode.com/problems/score-of-a-string/description/
