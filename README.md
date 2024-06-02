@@ -378,6 +378,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0363.py]     | [Count Triplets That Can Form Two Arrays of Equal XOR]                                                | Medium     |
 | [LC0364.py]     | [Single Number III]                                                                                   | Medium     |
 | [LC0365.py]     | [Score of a String]                                                                                   | Easy       |
+| [LC0366.py]     | [Reverse String]                                                                                      | Easy       |
 
 [//]: # (Solutions)
 
@@ -1481,3 +1482,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0365.py]: Solutions/LC0365.py
 [Score of a String]:https://leetcode.com/problems/score-of-a-string/description/
+
+[LC0366.py]: Solutions/LC0366.py
+[Reverse String]:https://leetcode.com/problems/reverse-string/description/
