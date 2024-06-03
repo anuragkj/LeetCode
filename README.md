@@ -379,6 +379,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0364.py]     | [Single Number III]                                                                                   | Medium     |
 | [LC0365.py]     | [Score of a String]                                                                                   | Easy       |
 | [LC0366.py]     | [Reverse String]                                                                                      | Easy       |
+| [LC0367.py]     | [Append Characters to String to Make Subsequence]                                                     | Medium     |
 
 [//]: # (Solutions)
 
@@ -1485,3 +1486,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0366.py]: Solutions/LC0366.py
 [Reverse String]:https://leetcode.com/problems/reverse-string/description/
+
+[LC0367.py]: Solutions/LC0367.py
+[Append Characters to String to Make Subsequence]:https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/
