@@ -380,6 +380,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0365.py]     | [Score of a String]                                                                                   | Easy       |
 | [LC0366.py]     | [Reverse String]                                                                                      | Easy       |
 | [LC0367.py]     | [Append Characters to String to Make Subsequence]                                                     | Medium     |
+| [LC0368.py]     | [Longest Palindrome]                                                                                  | Easy       |
 
 [//]: # (Solutions)
 
@@ -1489,3 +1490,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0367.py]: Solutions/LC0367.py
 [Append Characters to String to Make Subsequence]:https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/
+
+[LC0368.py]: Solutions/LC0368.py
+[Longest Palindrome]:https://leetcode.com/problems/longest-palindrome/description/
