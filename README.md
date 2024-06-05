@@ -381,6 +381,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0366.py]     | [Reverse String]                                                                                      | Easy       |
 | [LC0367.py]     | [Append Characters to String to Make Subsequence]                                                     | Medium     |
 | [LC0368.py]     | [Longest Palindrome]                                                                                  | Easy       |
+| [LC0369.py]     | [Find Common Characters]                                                                              | Easy       |
 
 [//]: # (Solutions)
 
@@ -1493,3 +1494,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0368.py]: Solutions/LC0368.py
 [Longest Palindrome]:https://leetcode.com/problems/longest-palindrome/description/
+
+[LC0369.py]: Solutions/LC0369.py
+[Find Common Characters]:https://leetcode.com/problems/find-common-characters/description/
