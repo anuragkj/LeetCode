@@ -382,6 +382,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0367.py]     | [Append Characters to String to Make Subsequence]                                                     | Medium     |
 | [LC0368.py]     | [Longest Palindrome]                                                                                  | Easy       |
 | [LC0369.py]     | [Find Common Characters]                                                                              | Easy       |
+| [LC0370.py]     | [Hand of Straights]                                                                                   | Medium     |
 
 [//]: # (Solutions)
 
@@ -1497,3 +1498,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0369.py]: Solutions/LC0369.py
 [Find Common Characters]:https://leetcode.com/problems/find-common-characters/description/
+
+[LC0369.py]: Solutions/LC0369.py
+[Find Common Characters]:https://leetcode.com/problems/find-common-characters/description/
+
+[LC0370.py]: Solutions/LC0370.py
+[Hand of Straights]:https://leetcode.com/problems/hand-of-straights/description/
