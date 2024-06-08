@@ -383,6 +383,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0368.py]     | [Longest Palindrome]                                                                                  | Easy       |
 | [LC0369.py]     | [Find Common Characters]                                                                              | Easy       |
 | [LC0370.py]     | [Hand of Straights]                                                                                   | Medium     |
+| [LC0371.py]     | [Replace Words]                                                                                       | Medium     |
+| [LC0372.py]     | [Continuous Subarray Sum]                                                                             | Medium     |
 
 [//]: # (Solutions)
 
@@ -1504,3 +1506,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0370.py]: Solutions/LC0370.py
 [Hand of Straights]:https://leetcode.com/problems/hand-of-straights/description/
+
+[LC0371.py]: Solutions/LC0371.py
+[Replace Words]:https://leetcode.com/problems/replace-words/description/
+
+[LC0372.py]: Solutions/LC0372.py
+[Continuous Subarray Sum]:https://leetcode.com/problems/continuous-subarray-sum/description/
