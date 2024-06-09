@@ -385,6 +385,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0370.py]     | [Hand of Straights]                                                                                   | Medium     |
 | [LC0371.py]     | [Replace Words]                                                                                       | Medium     |
 | [LC0372.py]     | [Continuous Subarray Sum]                                                                             | Medium     |
+| [LC0373.py]     | [Subarray Sums Divisible by K]                                                                        | Medium     |
 
 [//]: # (Solutions)
 
@@ -1512,3 +1513,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0372.py]: Solutions/LC0372.py
 [Continuous Subarray Sum]:https://leetcode.com/problems/continuous-subarray-sum/description/
+
+[LC0373.py]: Solutions/LC0373.py
+[Subarray Sums Divisible by K]:https://leetcode.com/problems/subarray-sums-divisible-by-k/description/
