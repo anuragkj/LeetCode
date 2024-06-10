@@ -386,6 +386,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0371.py]     | [Replace Words]                                                                                       | Medium     |
 | [LC0372.py]     | [Continuous Subarray Sum]                                                                             | Medium     |
 | [LC0373.py]     | [Subarray Sums Divisible by K]                                                                        | Medium     |
+| [LC0374.py]     | [Subarray Sums Divisible by K]                                                                        | Medium     |
 
 [//]: # (Solutions)
 
@@ -1516,3 +1517,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0373.py]: Solutions/LC0373.py
 [Subarray Sums Divisible by K]:https://leetcode.com/problems/subarray-sums-divisible-by-k/description/
+
+[LC0374.py]: Solutions/LC0374.py
+[Height Checker]:https://leetcode.com/problems/height-checker/description/
