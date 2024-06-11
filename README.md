@@ -387,6 +387,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0372.py]     | [Continuous Subarray Sum]                                                                             | Medium     |
 | [LC0373.py]     | [Subarray Sums Divisible by K]                                                                        | Medium     |
 | [LC0374.py]     | [Subarray Sums Divisible by K]                                                                        | Medium     |
+| [LC0375.py]     | [Relative Sort Array]                                                                                 | Easy       |
 
 [//]: # (Solutions)
 
@@ -1520,3 +1521,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0374.py]: Solutions/LC0374.py
 [Height Checker]:https://leetcode.com/problems/height-checker/description/
+
+[LC0375.py]: Solutions/LC0375.py
+[Relative Sort Array]:https://leetcode.com/problems/relative-sort-array/description/
