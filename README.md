@@ -388,6 +388,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0373.py]     | [Subarray Sums Divisible by K]                                                                        | Medium     |
 | [LC0374.py]     | [Subarray Sums Divisible by K]                                                                        | Medium     |
 | [LC0375.py]     | [Relative Sort Array]                                                                                 | Easy       |
+| [LC0376.py]     | [Sort Colors]                                                                                         | Medium     |
 
 [//]: # (Solutions)
 
@@ -1524,3 +1525,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0375.py]: Solutions/LC0375.py
 [Relative Sort Array]:https://leetcode.com/problems/relative-sort-array/description/
+
+[LC0376.py]: Solutions/LC0376.py
+[Sort Colors]:https://leetcode.com/problems/sort-colors/description/
