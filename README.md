@@ -389,6 +389,10 @@ The questions are divided into 3 levels of difficulty:
 | [LC0374.py]     | [Subarray Sums Divisible by K]                                                                        | Medium     |
 | [LC0375.py]     | [Relative Sort Array]                                                                                 | Easy       |
 | [LC0376.py]     | [Sort Colors]                                                                                         | Medium     |
+| [LC0377.py]     | [Minimum Number of Moves to Seat Everyone]                                                            | Easy       |
+| [LC0378.py]     | [Minimum Increment to Make Array Unique]                                                              | Medium     |
+| [LC0379.py]     | [IPO]                                                                                                 | Hard       |
+| [LC0380.py]     | [Patching Array]                                                                                      | Hard       |
 
 [//]: # (Solutions)
 
@@ -1528,3 +1532,15 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0376.py]: Solutions/LC0376.py
 [Sort Colors]:https://leetcode.com/problems/sort-colors/description/
+
+[LC0377.py]: Solutions/LC0377.py
+[Minimum Number of Moves to Seat Everyone]:https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/
+
+[LC0378.py]: Solutions/LC0378.py
+[Minimum Increment to Make Array Unique]:https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/
+
+[LC0379.py]: Solutions/LC0379.py
+[IPO]:https://leetcode.com/problems/ipo/description/
+
+[LC0380.py]: Solutions/LC0380.py
+[Patching Array]:https://leetcode.com/problems/patching-array/description/
