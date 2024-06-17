@@ -393,6 +393,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0378.py]     | [Minimum Increment to Make Array Unique]                                                              | Medium     |
 | [LC0379.py]     | [IPO]                                                                                                 | Hard       |
 | [LC0380.py]     | [Patching Array]                                                                                      | Hard       |
+| [LC0381.py]     | [Sum of Square Numbers]                                                                               | Medium     |
 
 [//]: # (Solutions)
 
@@ -1544,3 +1545,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0380.py]: Solutions/LC0380.py
 [Patching Array]:https://leetcode.com/problems/patching-array/description/
+
+[LC0381.py]: Solutions/LC0381.py
+[Sum of Square Numbers]:hhttps://leetcode.com/problems/sum-of-square-numbers/description/
