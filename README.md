@@ -394,6 +394,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0379.py]     | [IPO]                                                                                                 | Hard       |
 | [LC0380.py]     | [Patching Array]                                                                                      | Hard       |
 | [LC0381.py]     | [Sum of Square Numbers]                                                                               | Medium     |
+| [LC0382.py]     | [Most Profit Assigning Work]                                                                          | Medium     |
 
 [//]: # (Solutions)
 
@@ -1548,3 +1549,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0381.py]: Solutions/LC0381.py
 [Sum of Square Numbers]:hhttps://leetcode.com/problems/sum-of-square-numbers/description/
+
+[LC0382.py]: Solutions/LC0382.py
+[Most Profit Assigning Work]:https://leetcode.com/problems/most-profit-assigning-work/description/
