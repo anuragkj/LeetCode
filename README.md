@@ -395,6 +395,10 @@ The questions are divided into 3 levels of difficulty:
 | [LC0380.py]     | [Patching Array]                                                                                      | Hard       |
 | [LC0381.py]     | [Sum of Square Numbers]                                                                               | Medium     |
 | [LC0382.py]     | [Most Profit Assigning Work]                                                                          | Medium     |
+| [LC0383.py]     | [Minimum Number of Days to Make m Bouquets]                                                           | Medium     |
+| [LC0384.py]     | [Palindromic Substrings]                                                                              | Medium     |
+| [LC0385.py]     | [Magnetic Force Between Two Balls]                                                                    | Medium     |
+| [LC0386.py]     | [Grumpy Bookstore Owner]                                                                              | Medium     |
 
 [//]: # (Solutions)
 
@@ -1552,3 +1556,15 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0382.py]: Solutions/LC0382.py
 [Most Profit Assigning Work]:https://leetcode.com/problems/most-profit-assigning-work/description/
+
+[LC0383.py]: Solutions/LC0383.py
+[Minimum Number of Days to Make m Bouquets]:https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/
+
+[LC0384.py]: Solutions/LC0384.py
+[Palindromic Substrings]:https://leetcode.com/problems/palindromic-substrings/description/
+
+[LC0385.py]: Solutions/LC0385.py
+[Magnetic Force Between Two Balls]:https://leetcode.com/problems/magnetic-force-between-two-balls/description/
+
+[LC0386.py]: Solutions/LC0386.py
+[Grumpy Bookstore Owner]:https://leetcode.com/problems/grumpy-bookstore-owner/description/
