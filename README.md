@@ -399,6 +399,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0384.py]     | [Palindromic Substrings]                                                                              | Medium     |
 | [LC0385.py]     | [Magnetic Force Between Two Balls]                                                                    | Medium     |
 | [LC0386.py]     | [Grumpy Bookstore Owner]                                                                              | Medium     |
+| [LC0387.py]     | [Count Number of Nice Subarrays]                                                                      | Medium     |
 
 [//]: # (Solutions)
 
@@ -1568,3 +1569,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0386.py]: Solutions/LC0386.py
 [Grumpy Bookstore Owner]:https://leetcode.com/problems/grumpy-bookstore-owner/description/
+
+[LC0387.py]: Solutions/LC0387.py
+[Count Number of Nice Subarrays]:https://leetcode.com/problems/count-number-of-nice-subarrays/description/
