@@ -400,6 +400,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0385.py]     | [Magnetic Force Between Two Balls]                                                                    | Medium     |
 | [LC0386.py]     | [Grumpy Bookstore Owner]                                                                              | Medium     |
 | [LC0387.py]     | [Count Number of Nice Subarrays]                                                                      | Medium     |
+| [LC0388.py]     | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit]                          | Medium     |
 
 [//]: # (Solutions)
 
@@ -1572,3 +1573,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0387.py]: Solutions/LC0387.py
 [Count Number of Nice Subarrays]:https://leetcode.com/problems/count-number-of-nice-subarrays/description/
+
+[LC0388.py]: Solutions/LC0388.py
+[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit]:https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/
