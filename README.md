@@ -401,6 +401,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0386.py]     | [Grumpy Bookstore Owner]                                                                              | Medium     |
 | [LC0387.py]     | [Count Number of Nice Subarrays]                                                                      | Medium     |
 | [LC0388.py]     | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit]                          | Medium     |
+| [LC0389.py]     | [Minimum Number of K Consecutive Bit Flips]                                                           | Hard       |
 
 [//]: # (Solutions)
 
@@ -1576,3 +1577,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0388.py]: Solutions/LC0388.py
 [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit]:https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/
+
+[LC0389.py]: Solutions/LC0389.py
+[Minimum Number of K Consecutive Bit Flips]:https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/
