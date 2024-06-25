@@ -402,6 +402,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0387.py]     | [Count Number of Nice Subarrays]                                                                      | Medium     |
 | [LC0388.py]     | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit]                          | Medium     |
 | [LC0389.py]     | [Minimum Number of K Consecutive Bit Flips]                                                           | Hard       |
+| [LC0390.py]     | [Binary Search Tree to Greater Sum Tree]                                                              | Medium     |
 
 [//]: # (Solutions)
 
@@ -1580,3 +1581,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0389.py]: Solutions/LC0389.py
 [Minimum Number of K Consecutive Bit Flips]:https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/
+
+[LC0390.py]: Solutions/LC0390.py
+[Binary Search Tree to Greater Sum Tree]:https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/
