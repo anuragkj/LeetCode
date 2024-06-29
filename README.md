@@ -403,6 +403,10 @@ The questions are divided into 3 levels of difficulty:
 | [LC0388.py]     | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit]                          | Medium     |
 | [LC0389.py]     | [Minimum Number of K Consecutive Bit Flips]                                                           | Hard       |
 | [LC0390.py]     | [Binary Search Tree to Greater Sum Tree]                                                              | Medium     |
+| [LC0391.py]     | [Balance a Binary Search Tree]                                                                        | Medium     |
+| [LC0392.py]     | [Find Center of Star Graph]                                                                           | Easy       |
+| [LC0393.py]     | [Maximum Total Importance of Roads]                                                                   | Medium     |
+| [LC0394.py]     | [All Ancestors of a Node in a Directed Acyclic Graph]                                                 | Medium     |
 
 [//]: # (Solutions)
 
@@ -1584,3 +1588,15 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0390.py]: Solutions/LC0390.py
 [Binary Search Tree to Greater Sum Tree]:https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/
+
+[LC0391.py]: Solutions/LC0391.py
+[Balance a Binary Search Tree]:https://leetcode.com/problems/balance-a-binary-search-tree/description/
+
+[LC0392.py]: Solutions/LC0392.py
+[Find Center of Star Graph]:https://leetcode.com/problems/find-center-of-star-graph/description/
+
+[LC0393.py]: Solutions/LC0393.py
+[Maximum Total Importance of Roads]:https://leetcode.com/problems/maximum-total-importance-of-roads/description/
+
+[LC0394.py]: Solutions/LC0394.py
+[All Ancestors of a Node in a Directed Acyclic Graph]:https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/
