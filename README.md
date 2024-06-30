@@ -407,6 +407,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0392.py]     | [Find Center of Star Graph]                                                                           | Easy       |
 | [LC0393.py]     | [Maximum Total Importance of Roads]                                                                   | Medium     |
 | [LC0394.py]     | [All Ancestors of a Node in a Directed Acyclic Graph]                                                 | Medium     |
+| [LC0395.py]     | [Remove Max Number of Edges to Keep Graph Fully Traversable]                                          | Hard       |
 
 [//]: # (Solutions)
 
@@ -1600,3 +1601,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0394.py]: Solutions/LC0394.py
 [All Ancestors of a Node in a Directed Acyclic Graph]:https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/
+
+[LC0395.py]: Solutions/LC0395.py
+[Remove Max Number of Edges to Keep Graph Fully Traversable]:https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/
