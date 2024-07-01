@@ -408,6 +408,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0393.py]     | [Maximum Total Importance of Roads]                                                                   | Medium     |
 | [LC0394.py]     | [All Ancestors of a Node in a Directed Acyclic Graph]                                                 | Medium     |
 | [LC0395.py]     | [Remove Max Number of Edges to Keep Graph Fully Traversable]                                          | Hard       |
+| [LC0396.py]     | [Three Consecutive Odds]                                                                              | Easy       |
 
 [//]: # (Solutions)
 
@@ -1604,3 +1605,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0395.py]: Solutions/LC0395.py
 [Remove Max Number of Edges to Keep Graph Fully Traversable]:https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/
+
+[LC0396.py]: Solutions/LC0396.py
+[Three Consecutive Odds]:https://leetcode.com/problems/three-consecutive-odds/description/
