@@ -410,6 +410,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0395.py]     | [Remove Max Number of Edges to Keep Graph Fully Traversable]                                          | Hard       |
 | [LC0396.py]     | [Three Consecutive Odds]                                                                              | Easy       |
 | [LC0397.py]     | [Intersection of Two Arrays II]                                                                       | Easy       |
+| [LC0398.py]     | [Minimum Difference Between Largest and Smallest Value in Three Moves]                                | Medium     |
 
 [//]: # (Solutions)
 
@@ -1612,3 +1613,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0397.py]: Solutions/LC0397.py
 [Intersection of Two Arrays II]:https://leetcode.com/problems/intersection-of-two-arrays-ii/description/
+
+[LC0398.py]: Solutions/LC0398.py
+[Minimum Difference Between Largest and Smallest Value in Three Moves]:https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/
