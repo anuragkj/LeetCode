@@ -411,6 +411,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0396.py]     | [Three Consecutive Odds]                                                                              | Easy       |
 | [LC0397.py]     | [Intersection of Two Arrays II]                                                                       | Easy       |
 | [LC0398.py]     | [Minimum Difference Between Largest and Smallest Value in Three Moves]                                | Medium     |
+| [LC0399.py]     | [Merge Nodes in Between Zeros]                                                                        | Medium     |
 
 [//]: # (Solutions)
 
@@ -1616,3 +1617,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0398.py]: Solutions/LC0398.py
 [Minimum Difference Between Largest and Smallest Value in Three Moves]:https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/
+
+[LC0399.py]: Solutions/LC0399.py
+[Merge Nodes in Between Zeros]:https://leetcode.com/problems/merge-nodes-in-between-zeros/description/
