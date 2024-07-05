@@ -412,6 +412,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0397.py]     | [Intersection of Two Arrays II]                                                                       | Easy       |
 | [LC0398.py]     | [Minimum Difference Between Largest and Smallest Value in Three Moves]                                | Medium     |
 | [LC0399.py]     | [Merge Nodes in Between Zeros]                                                                        | Medium     |
+| [LC0400.py]     | [Find the Minimum and Maximum Number of Nodes Between Critical Points]                                | Medium     |
 
 [//]: # (Solutions)
 
@@ -1620,3 +1621,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0399.py]: Solutions/LC0399.py
 [Merge Nodes in Between Zeros]:https://leetcode.com/problems/merge-nodes-in-between-zeros/description/
+
+[LC0400.py]: Solutions/LC0400.py
+[Find the Minimum and Maximum Number of Nodes Between Critical Points]:https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/
