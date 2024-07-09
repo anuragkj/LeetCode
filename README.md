@@ -413,6 +413,10 @@ The questions are divided into 3 levels of difficulty:
 | [LC0398.py]     | [Minimum Difference Between Largest and Smallest Value in Three Moves]                                | Medium     |
 | [LC0399.py]     | [Merge Nodes in Between Zeros]                                                                        | Medium     |
 | [LC0400.py]     | [Find the Minimum and Maximum Number of Nodes Between Critical Points]                                | Medium     |
+| [LC0401.py]     | [Pass the Pillow]                                                                                     | Easy       |
+| [LC0402.py]     | [Water Bottles]                                                                                       | Easy       |
+| [LC0403.py]     | [Find the Winner of the Circular Game]                                                                | Medium     |
+| [LC0404.py]     | [Average Waiting Time]                                                                                | Medium     |
 
 [//]: # (Solutions)
 
@@ -1624,3 +1628,15 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0400.py]: Solutions/LC0400.py
 [Find the Minimum and Maximum Number of Nodes Between Critical Points]:https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/
+
+[LC0401.py]: Solutions/LC0401.py
+[Pass the Pillow]:https://leetcode.com/problems/pass-the-pillow/description/
+
+[LC0402.py]: Solutions/LC0402.py
+[Water Bottles]:https://leetcode.com/problems/water-bottles/description/
+
+[LC0403.py]: Solutions/LC0403.py
+[Find the Winner of the Circular Game]:https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/
+
+[LC0404.py]: Solutions/LC0404.py
+[Average Waiting Time]:https://leetcode.com/problems/average-waiting-time/description/
