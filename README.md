@@ -417,6 +417,20 @@ The questions are divided into 3 levels of difficulty:
 | [LC0402.py]     | [Water Bottles]                                                                                       | Easy       |
 | [LC0403.py]     | [Find the Winner of the Circular Game]                                                                | Medium     |
 | [LC0404.py]     | [Average Waiting Time]                                                                                | Medium     |
+| [LC0405.py]     | [Crawler Log Folder]                                                                                  | Easy       |
+| [LC0406.py]     | [Reverse Substrings Between Each Pair of Parentheses]                                                 | Medium     |
+| [LC0407.py]     | [Robot Collisions]                                                                                    | Hard       |
+| [LC0408.py]     | [Maximum Score From Removing Substrings]                                                              | Medium     |
+| [LC0409.py]     | [Number of Atoms]                                                                                     | Hard       |
+| [LC0410.py]     | [Create Binary Tree From Descriptions]                                                                | Medium     |
+| [LC0411.py]     | [Step-By-Step Directions From a Binary Tree Node to Another]                                          | Medium     |
+| [LC0412.py]     | [Delete Nodes And Return Forest]                                                                      | Medium     |
+| [LC0413.py]     | [Number of Good Leaf Nodes Pairs]                                                                     | Medium     |
+| [LC0414.py]     | [ALucky Numbers in a Matrix]                                                                          | Easy       |
+| [LC0415.py]     | [Find Valid Matrix Given Row and Column Sums]                                                         | Medium     |
+| [LC0416.py]     | [Build a Matrix With Conditions]                                                                      | Medium     |
+| [LC0417.py]     | [Sort the People]                                                                                     | Easy       |
+| [LC0418.py]     | [Sort Array by Increasing Frequency]                                                                  | Easy     |
 
 [//]: # (Solutions)
 
@@ -1640,3 +1654,45 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0404.py]: Solutions/LC0404.py
 [Average Waiting Time]:https://leetcode.com/problems/average-waiting-time/description/
+
+[LC0405.py]: Solutions/LC0405.py
+[Crawler Log Folder]:https://leetcode.com/problems/crawler-log-folder/description/
+
+[LC0406.py]: Solutions/LC0406.py
+[Reverse Substrings Between Each Pair of Parentheses]:https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/
+
+[LC0407.py]: Solutions/LC0407.py
+[Robot Collisions]:https://leetcode.com/problems/robot-collisions/description/
+
+[LC0408.py]: Solutions/LC0408.py
+[Maximum Score From Removing Substrings]:https://leetcode.com/problems/maximum-score-from-removing-substrings/description/
+
+[LC0409.py]: Solutions/LC0409.py
+[Number of Atoms]:https://leetcode.com/problems/number-of-atoms/description/
+
+[LC0410.py]: Solutions/LC0410.py
+[Create Binary Tree From Descriptions]:https://leetcode.com/problems/create-binary-tree-from-descriptions/description/
+
+[LC0411.py]: Solutions/LC0411.py
+[Step-By-Step Directions From a Binary Tree Node to Another]:https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/
+
+[LC0412.py]: Solutions/LC0412.py
+[Delete Nodes And Return Forest]:https://leetcode.com/problems/delete-nodes-and-return-forest/description/
+
+[LC0413.py]: Solutions/LC0413.py
+[Number of Good Leaf Nodes Pairs]:https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/
+
+[LC0414.py]: Solutions/LC0414.py
+[Lucky Numbers in a Matrix]:https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/
+
+[LC0415.py]: Solutions/LC0415.py
+[Find Valid Matrix Given Row and Column Sums]:https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/
+
+[LC0416.py]: Solutions/LC0416.py
+[Build a Matrix With Conditions]:https://leetcode.com/problems/build-a-matrix-with-conditions/description/
+
+[LC0417.py]: Solutions/LC0417.py
+[Sort the People]:https://leetcode.com/problems/sort-the-people/description/
+
+[LC0418.py]: Solutions/LC0418.py
+[Sort Array by Increasing Frequency]:https://leetcode.com/problems/sort-array-by-increasing-frequency/description/
