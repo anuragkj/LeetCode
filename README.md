@@ -430,7 +430,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0415.py]     | [Find Valid Matrix Given Row and Column Sums]                                                         | Medium     |
 | [LC0416.py]     | [Build a Matrix With Conditions]                                                                      | Medium     |
 | [LC0417.py]     | [Sort the People]                                                                                     | Easy       |
-| [LC0418.py]     | [Sort Array by Increasing Frequency]                                                                  | Easy     |
+| [LC0418.py]     | [Sort Array by Increasing Frequency]                                                                  | Easy       |
+| [LC0419.py]     | [Sort the Jumbled Numbers]                                                                            | Medium     |
 
 [//]: # (Solutions)
 
@@ -1696,3 +1697,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0418.py]: Solutions/LC0418.py
 [Sort Array by Increasing Frequency]:https://leetcode.com/problems/sort-array-by-increasing-frequency/description/
+
+[LC0419.py]: Solutions/LC0419.py
+[Sort the Jumbled Numbers]:https://leetcode.com/problems/sort-the-jumbled-numbers/description/
