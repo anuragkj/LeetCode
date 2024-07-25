@@ -432,6 +432,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0417.py]     | [Sort the People]                                                                                     | Easy       |
 | [LC0418.py]     | [Sort Array by Increasing Frequency]                                                                  | Easy       |
 | [LC0419.py]     | [Sort the Jumbled Numbers]                                                                            | Medium     |
+| [LC0420.py]     | [Sort an Array]                                                                                       | Medium     |
 
 [//]: # (Solutions)
 
@@ -1700,3 +1701,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0419.py]: Solutions/LC0419.py
 [Sort the Jumbled Numbers]:https://leetcode.com/problems/sort-the-jumbled-numbers/description/
+
+[LC0420.py]: Solutions/LC0420.py
+[Sort an Array]:https://leetcode.com/problems/sort-an-array/description/
