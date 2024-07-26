@@ -433,6 +433,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0418.py]     | [Sort Array by Increasing Frequency]                                                                  | Easy       |
 | [LC0419.py]     | [Sort the Jumbled Numbers]                                                                            | Medium     |
 | [LC0420.py]     | [Sort an Array]                                                                                       | Medium     |
+| [LC0421.py]     | [Find the City With the Smallest Number of Neighbors at a Threshold Distance]                         | Medium     |
 
 [//]: # (Solutions)
 
@@ -1704,3 +1705,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0420.py]: Solutions/LC0420.py
 [Sort an Array]:https://leetcode.com/problems/sort-an-array/description/
+
+[LC0421.py]: Solutions/LC0421.py
+[Find the City With the Smallest Number of Neighbors at a Threshold Distance]:https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/
