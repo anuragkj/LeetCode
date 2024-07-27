@@ -1588,7 +1588,7 @@ The questions are divided into 3 levels of difficulty:
 [Patching Array]:https://leetcode.com/problems/patching-array/description/
 
 [LC0381.py]: Solutions/LC0381.py
-[Sum of Square Numbers]:hhttps://leetcode.com/problems/sum-of-square-numbers/description/
+[Sum of Square Numbers]:https://leetcode.com/problems/sum-of-square-numbers/description/
 
 [LC0382.py]: Solutions/LC0382.py
 [Most Profit Assigning Work]:https://leetcode.com/problems/most-profit-assigning-work/description/
