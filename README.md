@@ -434,6 +434,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0419.py]     | [Sort the Jumbled Numbers]                                                                            | Medium     |
 | [LC0420.py]     | [Sort an Array]                                                                                       | Medium     |
 | [LC0421.py]     | [Find the City With the Smallest Number of Neighbors at a Threshold Distance]                         | Medium     |
+| [LC0422.py]     | [Minimum Cost to Convert String I]                                                                    | Medium     |
 
 [//]: # (Solutions)
 
@@ -1708,3 +1709,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0421.py]: Solutions/LC0421.py
 [Find the City With the Smallest Number of Neighbors at a Threshold Distance]:https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/
+
+[LC0422.py]: Solutions/LC0422.py
+[Minimum Cost to Convert String I]:https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/
