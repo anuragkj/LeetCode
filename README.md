@@ -426,7 +426,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0411.py]     | [Step-By-Step Directions From a Binary Tree Node to Another]                                          | Medium     |
 | [LC0412.py]     | [Delete Nodes And Return Forest]                                                                      | Medium     |
 | [LC0413.py]     | [Number of Good Leaf Nodes Pairs]                                                                     | Medium     |
-| [LC0414.py]     | [ALucky Numbers in a Matrix]                                                                          | Easy       |
+| [LC0414.py]     | [Lucky Numbers in a Matrix]                                                                           | Easy       |
 | [LC0415.py]     | [Find Valid Matrix Given Row and Column Sums]                                                         | Medium     |
 | [LC0416.py]     | [Build a Matrix With Conditions]                                                                      | Medium     |
 | [LC0417.py]     | [Sort the People]                                                                                     | Easy       |
