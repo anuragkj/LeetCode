@@ -436,6 +436,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0421.py]     | [Find the City With the Smallest Number of Neighbors at a Threshold Distance]                         | Medium     |
 | [LC0422.py]     | [Minimum Cost to Convert String I]                                                                    | Medium     |
 | [LC0423.py]     | [Second Minimum Time to Reach Destination]                                                            | Hard       |
+| [LC0424.py]     | [Count Number of Teams]                                                                               | Medium     |
 
 [//]: # (Solutions)
 
@@ -1716,3 +1717,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0423.py]: Solutions/LC0423.py
 [Second Minimum Time to Reach Destination]:https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/
+
+[LC0424.py]: Solutions/LC0424.py
+[Count Number of Teams]:https://leetcode.com/problems/count-number-of-teams/description/
