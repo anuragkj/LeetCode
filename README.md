@@ -437,6 +437,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0422.py]     | [Minimum Cost to Convert String I]                                                                    | Medium     |
 | [LC0423.py]     | [Second Minimum Time to Reach Destination]                                                            | Hard       |
 | [LC0424.py]     | [Count Number of Teams]                                                                               | Medium     |
+| [LC0425.py]     | [Minimum Deletions to Make String Balanced]                                                           | Medium     |
 
 [//]: # (Solutions)
 
@@ -1720,3 +1721,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0424.py]: Solutions/LC0424.py
 [Count Number of Teams]:https://leetcode.com/problems/count-number-of-teams/description/
+
+[LC0425.py]: Solutions/LC0425.py
+[Minimum Deletions to Make String Balanced]:https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/
