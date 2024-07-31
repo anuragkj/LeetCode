@@ -438,6 +438,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0423.py]     | [Second Minimum Time to Reach Destination]                                                            | Hard       |
 | [LC0424.py]     | [Count Number of Teams]                                                                               | Medium     |
 | [LC0425.py]     | [Minimum Deletions to Make String Balanced]                                                           | Medium     |
+| [LC0426.py]     | [Filling Bookcase Shelves]                                                                            | Medium     |
 
 [//]: # (Solutions)
 
@@ -1724,3 +1725,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0425.py]: Solutions/LC0425.py
 [Minimum Deletions to Make String Balanced]:https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/
+
+[LC0426.py]: Solutions/LC0426.py
+[Filling Bookcase Shelves]:https://leetcode.com/problems/filling-bookcase-shelves/description/
