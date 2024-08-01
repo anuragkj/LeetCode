@@ -439,6 +439,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0424.py]     | [Count Number of Teams]                                                                               | Medium     |
 | [LC0425.py]     | [Minimum Deletions to Make String Balanced]                                                           | Medium     |
 | [LC0426.py]     | [Filling Bookcase Shelves]                                                                            | Medium     |
+| [LC0427.py]     | [Number of Senior Citizens]                                                                           | Easy       |
 
 [//]: # (Solutions)
 
@@ -1728,3 +1729,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0426.py]: Solutions/LC0426.py
 [Filling Bookcase Shelves]:https://leetcode.com/problems/filling-bookcase-shelves/description/
+
+[LC0427.py]: Solutions/LC0427.py
+[Number of Senior Citizens]:https://leetcode.com/problems/number-of-senior-citizens/description/
