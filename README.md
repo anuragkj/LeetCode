@@ -440,6 +440,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0425.py]     | [Minimum Deletions to Make String Balanced]                                                           | Medium     |
 | [LC0426.py]     | [Filling Bookcase Shelves]                                                                            | Medium     |
 | [LC0427.py]     | [Number of Senior Citizens]                                                                           | Easy       |
+| [LC0428.py]     | [Minimum Swaps to Group All 1's Together II]                                                          | Medium     |
 
 [//]: # (Solutions)
 
@@ -1732,3 +1733,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0427.py]: Solutions/LC0427.py
 [Number of Senior Citizens]:https://leetcode.com/problems/number-of-senior-citizens/description/
+
+[LC0428.py]: Solutions/LC0428.py
+[Minimum Swaps to Group All 1's Together II]:https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/
