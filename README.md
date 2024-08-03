@@ -1738,5 +1738,5 @@ The questions are divided into 3 levels of difficulty:
 [LC0428.py]: Solutions/LC0428.py
 [Minimum Swaps to Group All 1's Together II]:https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/
 
-[LC0429py]: Solutions/LC0429.py
+[LC0429.py]: Solutions/LC0429.py
 [Make Two Arrays Equal by Reversing Subarrays]:https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/
