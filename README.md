@@ -442,6 +442,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0427.py]     | [Number of Senior Citizens]                                                                           | Easy       |
 | [LC0428.py]     | [Minimum Swaps to Group All 1's Together II]                                                          | Medium     |
 | [LC0429.py]     | [Make Two Arrays Equal by Reversing Subarrays]                                                        | Easy       |
+| [LC0430.py]     | [Range Sum of Sorted Subarray Sums]                                                                   | Medium     |
 
 [//]: # (Solutions)
 
@@ -1740,3 +1741,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0429.py]: Solutions/LC0429.py
 [Make Two Arrays Equal by Reversing Subarrays]:https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/
+
+[LC0430.py]: Solutions/LC0430.py
+[Range Sum of Sorted Subarray Sums]:https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/description/
