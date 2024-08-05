@@ -443,6 +443,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0428.py]     | [Minimum Swaps to Group All 1's Together II]                                                          | Medium     |
 | [LC0429.py]     | [Make Two Arrays Equal by Reversing Subarrays]                                                        | Easy       |
 | [LC0430.py]     | [Range Sum of Sorted Subarray Sums]                                                                   | Medium     |
+| [LC0431.py]     | [Kth Distinct String in an Array]                                                                     | Easy       |
 
 [//]: # (Solutions)
 
@@ -1744,3 +1745,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0430.py]: Solutions/LC0430.py
 [Range Sum of Sorted Subarray Sums]:https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/description/
+
+[LC0431.py]: Solutions/LC0431.py
+[Kth Distinct String in an Array]:https://leetcode.com/problems/kth-distinct-string-in-an-array/description/
