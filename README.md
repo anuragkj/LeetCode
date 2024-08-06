@@ -444,6 +444,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0429.py]     | [Make Two Arrays Equal by Reversing Subarrays]                                                        | Easy       |
 | [LC0430.py]     | [Range Sum of Sorted Subarray Sums]                                                                   | Medium     |
 | [LC0431.py]     | [Kth Distinct String in an Array]                                                                     | Easy       |
+| [LC0432.py]     | [Minimum Number of Pushes to Type Word II]                                                            | Medium     |
 
 [//]: # (Solutions)
 
@@ -1748,3 +1749,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0431.py]: Solutions/LC0431.py
 [Kth Distinct String in an Array]:https://leetcode.com/problems/kth-distinct-string-in-an-array/description/
+
+[LC0432.py]: Solutions/LC0432.py
+[Minimum Number of Pushes to Type Word II]:https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/
