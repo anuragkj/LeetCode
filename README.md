@@ -446,6 +446,10 @@ The questions are divided into 3 levels of difficulty:
 | [LC0431.py]     | [Kth Distinct String in an Array]                                                                     | Easy       |
 | [LC0432.py]     | [Minimum Number of Pushes to Type Word II]                                                            | Medium     |
 | [LC0433.py]     | [Integer to English Words]                                                                            | Hard       |
+| [LC0434.py]     | [Spiral Matrix III]                                                                                   | Medium     |
+| [LC0435.py]     | [Magic Squares In Grid]                                                                               | Medium     |
+| [LC0436.py]     | [Regions Cut By Slashes]                                                                              | Medium     |
+| [LC0437.py]     | [Minimum Number of Days to Disconnect Island]                                                         | Hard       |
 
 [//]: # (Solutions)
 
@@ -1756,3 +1760,15 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0433.py]: Solutions/LC0433.py
 [Integer to English Words]:https://leetcode.com/problems/integer-to-english-words/submissions/1347992863/
+
+[LC0434.py]: Solutions/LC0434.py
+[Spiral Matrix III]:https://leetcode.com/problems/spiral-matrix-iii/description/
+
+[LC0435.py]: Solutions/LC0435.py
+[Magic Squares In Grid]:https://leetcode.com/problems/magic-squares-in-grid/description/
+
+[LC0436.py]: Solutions/LC0436.py
+[Regions Cut By Slashes]:https://leetcode.com/problems/regions-cut-by-slashes/description/
+
+[LC0437.py]: Solutions/LC0437.py
+[Minimum Number of Days to Disconnect Island]:https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/
