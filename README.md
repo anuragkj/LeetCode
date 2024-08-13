@@ -450,6 +450,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0435.py]     | [Magic Squares In Grid]                                                                               | Medium     |
 | [LC0436.py]     | [Regions Cut By Slashes]                                                                              | Medium     |
 | [LC0437.py]     | [Minimum Number of Days to Disconnect Island]                                                         | Hard       |
+| [LC0438.py]     | [Kth Largest Element in a Stream]                                                                     | Easy       |
+| [LC0439.py]     | [Combination Sum II]                                                                                  | Medium     |
 
 [//]: # (Solutions)
 
@@ -1772,3 +1774,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0437.py]: Solutions/LC0437.py
 [Minimum Number of Days to Disconnect Island]:https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/
+
+[LC0438.py]: Solutions/LC0438.py
+[Kth Largest Element in a Stream]:https://leetcode.com/problems/kth-largest-element-in-a-stream/description/
+
+[LC0439.py]: Solutions/LC0439.py
+[Combination Sum II]:https://leetcode.com/problems/combination-sum-ii/description/
