@@ -452,6 +452,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0437.py]     | [Minimum Number of Days to Disconnect Island]                                                         | Hard       |
 | [LC0438.py]     | [Kth Largest Element in a Stream]                                                                     | Easy       |
 | [LC0439.py]     | [Combination Sum II]                                                                                  | Medium     |
+| [LC0440.py]     | [Find K-th Smallest Pair Distance]                                                                    | Hard       |
 
 [//]: # (Solutions)
 
@@ -1780,3 +1781,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0439.py]: Solutions/LC0439.py
 [Combination Sum II]:https://leetcode.com/problems/combination-sum-ii/description/
+
+[LC0440.py]: Solutions/LC0440.py
+[Find K-th Smallest Pair Distance]:https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/
