@@ -453,6 +453,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0438.py]     | [Kth Largest Element in a Stream]                                                                     | Easy       |
 | [LC0439.py]     | [Combination Sum II]                                                                                  | Medium     |
 | [LC0440.py]     | [Find K-th Smallest Pair Distance]                                                                    | Hard       |
+| [LC0441.py]     | [Lemonade Change]                                                                                     | Easy       |
 
 [//]: # (Solutions)
 
@@ -1784,3 +1785,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0440.py]: Solutions/LC0440.py
 [Find K-th Smallest Pair Distance]:https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/
+
+[LC0441.py]: Solutions/LC0441.py
+[Lemonade Change]:https://leetcode.com/problems/lemonade-change/description/
