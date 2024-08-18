@@ -454,6 +454,9 @@ The questions are divided into 3 levels of difficulty:
 | [LC0439.py]     | [Combination Sum II]                                                                                  | Medium     |
 | [LC0440.py]     | [Find K-th Smallest Pair Distance]                                                                    | Hard       |
 | [LC0441.py]     | [Lemonade Change]                                                                                     | Easy       |
+| [LC0442.py]     | [Maximum Distance in Arrays]                                                                          | Medium     |
+| [LC0443.py]     | [Maximum Number of Points with Cost]                                                                  | Medium     |
+| [LC0444.py]     | [Ugly Number II]                                                                                      | Medium     |
 
 [//]: # (Solutions)
 
@@ -1788,3 +1791,12 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0441.py]: Solutions/LC0441.py
 [Lemonade Change]:https://leetcode.com/problems/lemonade-change/description/
+
+[LC0442.py]: Solutions/LC0442.py
+[Maximum Distance in Arrays]:https://leetcode.com/problems/maximum-distance-in-arrays/description/
+
+[LC0443.py]: Solutions/LC0443.py
+[Maximum Number of Points with Cost]:https://leetcode.com/problems/maximum-number-of-points-with-cost/description/
+
+[LC0444.py]: Solutions/LC0444.py
+[Ugly Number II]:https://leetcode.com/problems/ugly-number-ii/description/
