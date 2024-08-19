@@ -457,6 +457,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0442.py]     | [Maximum Distance in Arrays]                                                                          | Medium     |
 | [LC0443.py]     | [Maximum Number of Points with Cost]                                                                  | Medium     |
 | [LC0444.py]     | [Ugly Number II]                                                                                      | Medium     |
+| [LC0445.py]     | [2 Keys Keyboard]                                                                                     | Medium     |
 
 [//]: # (Solutions)
 
@@ -1800,3 +1801,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0444.py]: Solutions/LC0444.py
 [Ugly Number II]:https://leetcode.com/problems/ugly-number-ii/description/
+
+[LC0445.py]: Solutions/LC0445.py
+[2 Keys Keyboard]:https://leetcode.com/problems/2-keys-keyboard/description/
