@@ -459,6 +459,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0444.py]     | [Ugly Number II]                                                                                      | Medium     |
 | [LC0445.py]     | [2 Keys Keyboard]                                                                                     | Medium     |
 | [LC0446.py]     | [Stone Game II]                                                                                       | Medium     |
+| [LC0447.py]     | [Strange Printer]                                                                                     | Hard       |
 
 [//]: # (Solutions)
 
@@ -1808,3 +1809,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0446.py]: Solutions/LC0446.py
 [Stone Game II]:https://leetcode.com/problems/stone-game-ii/description/
+
+[LC0447.py]: Solutions/LC0447.py
+[Strange Printer]:https://leetcode.com/problems/strange-printer/description/
