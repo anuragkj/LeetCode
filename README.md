@@ -460,6 +460,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0445.py]     | [2 Keys Keyboard]                                                                                     | Medium     |
 | [LC0446.py]     | [Stone Game II]                                                                                       | Medium     |
 | [LC0447.py]     | [Strange Printer]                                                                                     | Hard       |
+| [LC0448.py]     | [Number Complement]                                                                                   | Easy       |
 
 [//]: # (Solutions)
 
@@ -1812,3 +1813,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0447.py]: Solutions/LC0447.py
 [Strange Printer]:https://leetcode.com/problems/strange-printer/description/
+
+[LC0448.py]: Solutions/LC0448.py
+[Number Complement]:https://leetcode.com/problems/number-complement/description/
