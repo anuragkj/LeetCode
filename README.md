@@ -461,6 +461,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0446.py]     | [Stone Game II]                                                                                       | Medium     |
 | [LC0447.py]     | [Strange Printer]                                                                                     | Hard       |
 | [LC0448.py]     | [Number Complement]                                                                                   | Easy       |
+| [LC0449.py]     | [Fraction Addition and Subtraction]                                                                   | Medium     |
 
 [//]: # (Solutions)
 
@@ -1816,3 +1817,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0448.py]: Solutions/LC0448.py
 [Number Complement]:https://leetcode.com/problems/number-complement/description/
+
+[LC0449.py]: Solutions/LC0449.py
+[Fraction Addition and Subtraction]:https://leetcode.com/problems/fraction-addition-and-subtraction/description/
