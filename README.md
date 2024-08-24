@@ -462,6 +462,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0447.py]     | [Strange Printer]                                                                                     | Hard       |
 | [LC0448.py]     | [Number Complement]                                                                                   | Easy       |
 | [LC0449.py]     | [Fraction Addition and Subtraction]                                                                   | Medium     |
+| [LC0450.py]     | [Find the Closest Palindrome]                                                                         | Hard       |
 
 [//]: # (Solutions)
 
@@ -1820,3 +1821,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0449.py]: Solutions/LC0449.py
 [Fraction Addition and Subtraction]:https://leetcode.com/problems/fraction-addition-and-subtraction/description/
+
+[LC0450.py]: Solutions/LC0450.py
+[Find the Closest Palindrome]:https://leetcode.com/problems/find-the-closest-palindrome/description/
