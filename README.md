@@ -464,6 +464,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0449.py]     | [Fraction Addition and Subtraction]                                                                   | Medium     |
 | [LC0450.py]     | [Find the Closest Palindrome]                                                                         | Hard       |
 | [LC0451.py]     | [Binary Tree Postorder Traversal]                                                                     | Easy       |
+| [LC0452.py]     | [N-ary Tree Postorder Traversal]                                                                      | Easy       |
 
 [//]: # (Solutions)
 
@@ -1828,3 +1829,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0451.py]: Solutions/LC0451.py
 [Binary Tree Postorder Traversal]:https://leetcode.com/problems/binary-tree-postorder-traversal/description/
+
+[LC0452.py]: Solutions/LC0452.py
+[N-ary Tree Postorder Traversal]:https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/
