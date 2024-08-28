@@ -466,6 +466,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0451.py]     | [Binary Tree Postorder Traversal]                                                                     | Easy       |
 | [LC0452.py]     | [N-ary Tree Postorder Traversal]                                                                      | Easy       |
 | [LC0453.py]     | [Path with Maximum Probability]                                                                       | Medium     |
+| [LC0454.py]     | [Count Sub Islands]                                                                                   | Medium     |
 
 [//]: # (Solutions)
 
@@ -1836,3 +1837,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0453.py]: Solutions/LC0453.py
 [Path with Maximum Probability]:https://leetcode.com/problems/path-with-maximum-probability/submissions/1370339149/
+
+[LC0454.py]: Solutions/LC0454.py
+[Count Sub Islands]:https://leetcode.com/problems/count-sub-islands/description/
