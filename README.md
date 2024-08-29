@@ -467,6 +467,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0452.py]     | [N-ary Tree Postorder Traversal]                                                                      | Easy       |
 | [LC0453.py]     | [Path with Maximum Probability]                                                                       | Medium     |
 | [LC0454.py]     | [Count Sub Islands]                                                                                   | Medium     |
+| [LC0455.py]     | [Most Stones Removed with Same Row or Column]                                                         | Medium     |
 
 [//]: # (Solutions)
 
@@ -1840,3 +1841,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0454.py]: Solutions/LC0454.py
 [Count Sub Islands]:https://leetcode.com/problems/count-sub-islands/description/
+
+[LC0455.py]: Solutions/LC0455.py
+[Most Stones Removed with Same Row or Column]:https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/
