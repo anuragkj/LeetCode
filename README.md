@@ -468,6 +468,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0453.py]     | [Path with Maximum Probability]                                                                       | Medium     |
 | [LC0454.py]     | [Count Sub Islands]                                                                                   | Medium     |
 | [LC0455.py]     | [Most Stones Removed with Same Row or Column]                                                         | Medium     |
+| [LC0456.py]     | [Modify Graph Edge Weights]                                                                           | Hard       |
 
 [//]: # (Solutions)
 
@@ -1844,3 +1845,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0455.py]: Solutions/LC0455.py
 [Most Stones Removed with Same Row or Column]:https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/
+
+[LC0456.py]: Solutions/LC0456.py
+[Modify Graph Edge Weights]:https://leetcode.com/problems/modify-graph-edge-weights/description/
