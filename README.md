@@ -469,6 +469,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0454.py]     | [Count Sub Islands]                                                                                   | Medium     |
 | [LC0455.py]     | [Most Stones Removed with Same Row or Column]                                                         | Medium     |
 | [LC0456.py]     | [Modify Graph Edge Weights]                                                                           | Hard       |
+| [LC0457.py]     | [Convert 1D Array Into 2D Array]                                                                      | Easy       |
 
 [//]: # (Solutions)
 
@@ -1848,3 +1849,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0456.py]: Solutions/LC0456.py
 [Modify Graph Edge Weights]:https://leetcode.com/problems/modify-graph-edge-weights/description/
+
+[LC0457.py]: Solutions/LC0457.py
+[Convert 1D Array Into 2D Array]:https://leetcode.com/problems/convert-1d-array-into-2d-array/description/
