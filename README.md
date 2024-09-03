@@ -471,6 +471,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0456.py]     | [Modify Graph Edge Weights]                                                                           | Hard       |
 | [LC0457.py]     | [Convert 1D Array Into 2D Array]                                                                      | Easy       |
 | [LC0458.py]     | [Find the Student that Will Replace the Chalk]                                                        | Medium     |
+| [LC0459.py]     | [Sum of Digits of String After Convert]                                                               | Easy       |
 
 [//]: # (Solutions)
 
@@ -1856,3 +1857,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0458.py]: Solutions/LC0458.py
 [Find the Student that Will Replace the Chalk]:https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/
+
+[LC0459.py]: Solutions/LC0459.py
+[Sum of Digits of String After Convert]:https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/
