@@ -472,6 +472,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0457.py]     | [Convert 1D Array Into 2D Array]                                                                      | Easy       |
 | [LC0458.py]     | [Find the Student that Will Replace the Chalk]                                                        | Medium     |
 | [LC0459.py]     | [Sum of Digits of String After Convert]                                                               | Easy       |
+| [LC0460.py]     | [Walking Robot Simulation]                                                                            | Medium     |
 
 [//]: # (Solutions)
 
@@ -1860,3 +1861,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0459.py]: Solutions/LC0459.py
 [Sum of Digits of String After Convert]:https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/
+
+[LC046-.py]: Solutions/LC0460.py
+[Walking Robot Simulation]:https://leetcode.com/problems/walking-robot-simulation/description/
