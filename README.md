@@ -473,6 +473,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0458.py]     | [Find the Student that Will Replace the Chalk]                                                        | Medium     |
 | [LC0459.py]     | [Sum of Digits of String After Convert]                                                               | Easy       |
 | [LC0460.py]     | [Walking Robot Simulation]                                                                            | Medium     |
+| [LC0461.py]     | [Find Missing Observations]                                                                           | Medium     |
 
 [//]: # (Solutions)
 
@@ -1862,5 +1863,8 @@ The questions are divided into 3 levels of difficulty:
 [LC0459.py]: Solutions/LC0459.py
 [Sum of Digits of String After Convert]:https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/
 
-[LC046-.py]: Solutions/LC0460.py
+[LC0460.py]: Solutions/LC0460.py
 [Walking Robot Simulation]:https://leetcode.com/problems/walking-robot-simulation/description/
+
+[LC0461.py]: Solutions/LC0461.py
+[Find Missing Observations]:https://leetcode.com/problems/find-missing-observations/description/
