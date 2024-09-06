@@ -474,6 +474,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0459.py]     | [Sum of Digits of String After Convert]                                                               | Easy       |
 | [LC0460.py]     | [Walking Robot Simulation]                                                                            | Medium     |
 | [LC0461.py]     | [Find Missing Observations]                                                                           | Medium     |
+| [LC0462.py]     | [Delete Nodes From Linked List Present in Array]                                                      | Medium     |
 
 [//]: # (Solutions)
 
@@ -1868,3 +1869,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0461.py]: Solutions/LC0461.py
 [Find Missing Observations]:https://leetcode.com/problems/find-missing-observations/description/
+
+[LC0462.py]: Solutions/LC0462.py
+[Delete Nodes From Linked List Present in Array]:https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/
