@@ -479,6 +479,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0464.py]     | [Split Linked List in Parts]                                                                          | Medium     |
 | [LC0465.py]     | [Spiral Matrix IV]                                                                                    | Medium     |
 | [LC0466.py]     | [Insert Greatest Common Divisors in Linked List]                                                      | Medium     |
+| [LC0467.py]     | [Minimum Bit Flips to Convert Number]                                                                 | Easy       |
 
 [//]: # (Solutions)
 
@@ -1888,3 +1889,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0466.py]: Solutions/LC0466.py
 [Insert Greatest Common Divisors in Linked List]:https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/
+
+[LC0467.py]: Solutions/LC0467.py
+[Minimum Bit Flips to Convert Number]:https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/
