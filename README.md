@@ -480,6 +480,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0465.py]     | [Spiral Matrix IV]                                                                                    | Medium     |
 | [LC0466.py]     | [Insert Greatest Common Divisors in Linked List]                                                      | Medium     |
 | [LC0467.py]     | [Minimum Bit Flips to Convert Number]                                                                 | Easy       |
+| [LC0468.py]     | [Count the Number of Consistent Strings]                                                              | Easy       |
 
 [//]: # (Solutions)
 
@@ -1892,3 +1893,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0467.py]: Solutions/LC0467.py
 [Minimum Bit Flips to Convert Number]:https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/
+
+[LC0468.py]: Solutions/LC0468.py
+[Count the Number of Consistent Strings]:https://leetcode.com/problems/count-the-number-of-consistent-strings/description/
