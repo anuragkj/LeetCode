@@ -482,6 +482,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0467.py]     | [Minimum Bit Flips to Convert Number]                                                                 | Easy       |
 | [LC0468.py]     | [Count the Number of Consistent Strings]                                                              | Easy       |
 | [LC0469.py]     | [XOR Queries of a Subarray]                                                                           | Medium     |
+| [LC0470.py]     | [Longest Subarray With Maximum Bitwise AND]                                                           | Medium     |
 
 [//]: # (Solutions)
 
@@ -1900,3 +1901,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0469.py]: Solutions/LC0469.py
 [XOR Queries of a Subarray]:https://leetcode.com/problems/xor-queries-of-a-subarray/description/
+
+[LC0470.py]: Solutions/LC0470.py
+[Longest Subarray With Maximum Bitwise AND]:https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/
