@@ -483,6 +483,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0468.py]     | [Count the Number of Consistent Strings]                                                              | Easy       |
 | [LC0469.py]     | [XOR Queries of a Subarray]                                                                           | Medium     |
 | [LC0470.py]     | [Longest Subarray With Maximum Bitwise AND]                                                           | Medium     |
+| [LC0471.py]     | [Find the Longest Substring Containing Vowels in Even Counts]                                         | Medium     |
 
 [//]: # (Solutions)
 
@@ -1904,3 +1905,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0470.py]: Solutions/LC0470.py
 [Longest Subarray With Maximum Bitwise AND]:https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/
+
+[LC0471.py]: Solutions/LC0471.py
+[Find the Longest Substring Containing Vowels in Even Counts]:https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/
