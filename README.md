@@ -484,6 +484,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0469.py]     | [XOR Queries of a Subarray]                                                                           | Medium     |
 | [LC0470.py]     | [Longest Subarray With Maximum Bitwise AND]                                                           | Medium     |
 | [LC0471.py]     | [Find the Longest Substring Containing Vowels in Even Counts]                                         | Medium     |
+| [LC0472.py]     | [Minimum Time Difference]                                                                             | Medium     |
 
 [//]: # (Solutions)
 
@@ -1908,3 +1909,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0471.py]: Solutions/LC0471.py
 [Find the Longest Substring Containing Vowels in Even Counts]:https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/
+
+[LC0472.py]: Solutions/LC0472.py
+[Minimum Time Difference]:https://leetcode.com/problems/minimum-time-difference/description/
