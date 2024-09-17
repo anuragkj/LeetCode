@@ -485,6 +485,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0470.py]     | [Longest Subarray With Maximum Bitwise AND]                                                           | Medium     |
 | [LC0471.py]     | [Find the Longest Substring Containing Vowels in Even Counts]                                         | Medium     |
 | [LC0472.py]     | [Minimum Time Difference]                                                                             | Medium     |
+| [LC0473.py]     | [Uncommon Words from Two Sentences]                                                                   | Easy       |
 
 [//]: # (Solutions)
 
@@ -1912,3 +1913,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0472.py]: Solutions/LC0472.py
 [Minimum Time Difference]:https://leetcode.com/problems/minimum-time-difference/description/
+
+[LC0473.py]: Solutions/LC0473.py
+[Uncommon Words from Two Sentences]:https://leetcode.com/problems/uncommon-words-from-two-sentences/description/
