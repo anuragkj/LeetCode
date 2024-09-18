@@ -486,6 +486,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0471.py]     | [Find the Longest Substring Containing Vowels in Even Counts]                                         | Medium     |
 | [LC0472.py]     | [Minimum Time Difference]                                                                             | Medium     |
 | [LC0473.py]     | [Uncommon Words from Two Sentences]                                                                   | Easy       |
+| [LC0474.py]     | [Largest Number]                                                                                      | Medium     |
 
 [//]: # (Solutions)
 
@@ -1916,3 +1917,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0473.py]: Solutions/LC0473.py
 [Uncommon Words from Two Sentences]:https://leetcode.com/problems/uncommon-words-from-two-sentences/description/
+
+[LC0474.py]: Solutions/LC0474.py
+[Largest Number]:https://leetcode.com/problems/largest-number/description/
