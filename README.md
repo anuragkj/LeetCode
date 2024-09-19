@@ -487,6 +487,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0472.py]     | [Minimum Time Difference]                                                                             | Medium     |
 | [LC0473.py]     | [Uncommon Words from Two Sentences]                                                                   | Easy       |
 | [LC0474.py]     | [Largest Number]                                                                                      | Medium     |
+| [LC0475.py]     | [Different Ways to Add Parentheses]                                                                   | Medium     |
 
 [//]: # (Solutions)
 
@@ -1920,3 +1921,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0474.py]: Solutions/LC0474.py
 [Largest Number]:https://leetcode.com/problems/largest-number/description/
+
+[LC0475.py]: Solutions/LC0475.py
+[Different Ways to Add Parentheses]:https://leetcode.com/problems/different-ways-to-add-parentheses/description/
