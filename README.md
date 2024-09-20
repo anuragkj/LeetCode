@@ -488,6 +488,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0473.py]     | [Uncommon Words from Two Sentences]                                                                   | Easy       |
 | [LC0474.py]     | [Largest Number]                                                                                      | Medium     |
 | [LC0475.py]     | [Different Ways to Add Parentheses]                                                                   | Medium     |
+| [LC0476.py]     | [Shortest Palindrome]                                                                                 | Hard       |
 
 [//]: # (Solutions)
 
@@ -1924,3 +1925,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0475.py]: Solutions/LC0475.py
 [Different Ways to Add Parentheses]:https://leetcode.com/problems/different-ways-to-add-parentheses/description/
+
+[LC0476.py]: Solutions/LC0476.py
+[Shortest Palindrome]:https://leetcode.com/problems/shortest-palindrome/description/
