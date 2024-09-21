@@ -489,6 +489,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0474.py]     | [Largest Number]                                                                                      | Medium     |
 | [LC0475.py]     | [Different Ways to Add Parentheses]                                                                   | Medium     |
 | [LC0476.py]     | [Shortest Palindrome]                                                                                 | Hard       |
+| [LC0477.py]     | [Lexicographical Numbers]                                                                             | Medium     |
 
 [//]: # (Solutions)
 
@@ -1928,3 +1929,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0476.py]: Solutions/LC0476.py
 [Shortest Palindrome]:https://leetcode.com/problems/shortest-palindrome/description/
+
+[LC0477.py]: Solutions/LC0477.py
+[Lexicographical Numbers]:https://leetcode.com/problems/lexicographical-numbers/description/
