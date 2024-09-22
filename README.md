@@ -490,6 +490,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0475.py]     | [Different Ways to Add Parentheses]                                                                   | Medium     |
 | [LC0476.py]     | [Shortest Palindrome]                                                                                 | Hard       |
 | [LC0477.py]     | [Lexicographical Numbers]                                                                             | Medium     |
+| [LC0478.py]     | [K-th Smallest in Lexicographical Order]                                                              | Hard       |
 
 [//]: # (Solutions)
 
@@ -1932,3 +1933,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0477.py]: Solutions/LC0477.py
 [Lexicographical Numbers]:https://leetcode.com/problems/lexicographical-numbers/description/
+
+[LC0478.py]: Solutions/LC0478.py
+[K-th Smallest in Lexicographical Order]:https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/
