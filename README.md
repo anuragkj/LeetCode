@@ -491,6 +491,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0476.py]     | [Shortest Palindrome]                                                                                 | Hard       |
 | [LC0477.py]     | [Lexicographical Numbers]                                                                             | Medium     |
 | [LC0478.py]     | [K-th Smallest in Lexicographical Order]                                                              | Hard       |
+| [LC0479.py]     | [Extra Characters in a String]                                                                        | Medium     |
 
 [//]: # (Solutions)
 
@@ -1936,3 +1937,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0478.py]: Solutions/LC0478.py
 [K-th Smallest in Lexicographical Order]:https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/
+
+[LC0479.py]: Solutions/LC0479.py
+[Extra Characters in a String]:https://leetcode.com/problems/extra-characters-in-a-string/description/
