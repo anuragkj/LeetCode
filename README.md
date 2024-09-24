@@ -492,6 +492,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0477.py]     | [Lexicographical Numbers]                                                                             | Medium     |
 | [LC0478.py]     | [K-th Smallest in Lexicographical Order]                                                              | Hard       |
 | [LC0479.py]     | [Extra Characters in a String]                                                                        | Medium     |
+| [LC0480.py]     | [Find the Length of the Longest Common Prefix]                                                        | Medium     |
 
 [//]: # (Solutions)
 
@@ -1940,3 +1941,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0479.py]: Solutions/LC0479.py
 [Extra Characters in a String]:https://leetcode.com/problems/extra-characters-in-a-string/description/
+
+[LC0480.py]: Solutions/LC0480.py
+[Find the Length of the Longest Common Prefix]:https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/
