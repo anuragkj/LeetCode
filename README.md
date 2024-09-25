@@ -493,6 +493,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0478.py]     | [K-th Smallest in Lexicographical Order]                                                              | Hard       |
 | [LC0479.py]     | [Extra Characters in a String]                                                                        | Medium     |
 | [LC0480.py]     | [Find the Length of the Longest Common Prefix]                                                        | Medium     |
+| [LC0481.py]     | [Sum of Prefix Scores of Strings]                                                                     | Hard       |
 
 [//]: # (Solutions)
 
@@ -1944,3 +1945,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0480.py]: Solutions/LC0480.py
 [Find the Length of the Longest Common Prefix]:https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/
+
+[LC0481.py]: Solutions/LC0481.py
+[Sum of Prefix Scores of Strings]:https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/
