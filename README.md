@@ -494,6 +494,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0479.py]     | [Extra Characters in a String]                                                                        | Medium     |
 | [LC0480.py]     | [Find the Length of the Longest Common Prefix]                                                        | Medium     |
 | [LC0481.py]     | [Sum of Prefix Scores of Strings]                                                                     | Hard       |
+| [LC0482.py]     | [My Calendar I]                                                                                       | Medium     |
 
 [//]: # (Solutions)
 
@@ -1948,3 +1949,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0481.py]: Solutions/LC0481.py
 [Sum of Prefix Scores of Strings]:https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/
+
+[LC0482.py]: Solutions/LC0482.py
+[My Calendar I]:https://leetcode.com/problems/my-calendar-i/description/
