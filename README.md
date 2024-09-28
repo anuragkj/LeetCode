@@ -496,6 +496,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0481.py]     | [Sum of Prefix Scores of Strings]                                                                     | Hard       |
 | [LC0482.py]     | [My Calendar I]                                                                                       | Medium     |
 | [LC0483.py]     | [My Calendar II]                                                                                      | Medium     |
+| [LC0484.py]     | [Design Circular Deque]                                                                               | Medium     |
 
 [//]: # (Solutions)
 
@@ -1956,3 +1957,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0483.py]: Solutions/LC0483.py
 [My Calendar II]:https://leetcode.com/problems/my-calendar-ii/description/
+
+[LC0484.py]: Solutions/LC0484.py
+[Design Circular Deque]:https://leetcode.com/problems/design-circular-deque/description/
