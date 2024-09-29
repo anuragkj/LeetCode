@@ -497,6 +497,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0482.py]     | [My Calendar I]                                                                                       | Medium     |
 | [LC0483.py]     | [My Calendar II]                                                                                      | Medium     |
 | [LC0484.py]     | [Design Circular Deque]                                                                               | Medium     |
+| [LC0485.py]     | [All O`one Data Structure]                                                                            | Hard       |
 
 [//]: # (Solutions)
 
@@ -1960,3 +1961,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0484.py]: Solutions/LC0484.py
 [Design Circular Deque]:https://leetcode.com/problems/design-circular-deque/description/
+
+[LC0485.py]: Solutions/LC0485.py
+[All O`one Data Structure]:https://leetcode.com/problems/all-oone-data-structure/description/
