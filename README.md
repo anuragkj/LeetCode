@@ -499,6 +499,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0484.py]     | [Design Circular Deque]                                                                               | Medium     |
 | [LC0485.py]     | [All O`one Data Structure]                                                                            | Hard       |
 | [LC0486.py]     | [Design a Stack With Increment Operation]                                                             | Medium     |
+| [LC0487.py]     | [Check If Array Pairs Are Divisible by k]                                                             | Medium     |
 
 [//]: # (Solutions)
 
@@ -1968,3 +1969,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0486.py]: Solutions/LC0486.py
 [Design a Stack With Increment Operation]:https://leetcode.com/problems/design-a-stack-with-increment-operation/description/
+
+[LC04847.py]: Solutions/LC0487.py
+[Check If Array Pairs Are Divisible by k]:https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/description/
