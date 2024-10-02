@@ -500,6 +500,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0485.py]     | [All O`one Data Structure]                                                                            | Hard       |
 | [LC0486.py]     | [Design a Stack With Increment Operation]                                                             | Medium     |
 | [LC0487.py]     | [Check If Array Pairs Are Divisible by k]                                                             | Medium     |
+| [LC0488.py]     | [Rank Transform of an Array]                                                                          | Easy       |
 
 [//]: # (Solutions)
 
@@ -1970,5 +1971,8 @@ The questions are divided into 3 levels of difficulty:
 [LC0486.py]: Solutions/LC0486.py
 [Design a Stack With Increment Operation]:https://leetcode.com/problems/design-a-stack-with-increment-operation/description/
 
-[LC04847.py]: Solutions/LC0487.py
+[LC0487.py]: Solutions/LC0487.py
 [Check If Array Pairs Are Divisible by k]:https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/description/
+
+[LC0488.py]: Solutions/LC0488.py
+[Rank Transform of an Array]:https://leetcode.com/problems/rank-transform-of-an-array/description/
