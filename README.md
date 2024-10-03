@@ -501,6 +501,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0486.py]     | [Design a Stack With Increment Operation]                                                             | Medium     |
 | [LC0487.py]     | [Check If Array Pairs Are Divisible by k]                                                             | Medium     |
 | [LC0488.py]     | [Rank Transform of an Array]                                                                          | Easy       |
+| [LC0489.py]     | [Make Sum Divisible by P]                                                                             | Medium     |
 
 [//]: # (Solutions)
 
@@ -1976,3 +1977,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0488.py]: Solutions/LC0488.py
 [Rank Transform of an Array]:https://leetcode.com/problems/rank-transform-of-an-array/description/
+
+[LC0489.py]: Solutions/LC0489.py
+[Make Sum Divisible by P]:https://leetcode.com/problems/make-sum-divisible-by-p/description/
