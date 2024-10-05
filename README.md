@@ -503,6 +503,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0488.py]     | [Rank Transform of an Array]                                                                          | Easy       |
 | [LC0489.py]     | [Make Sum Divisible by P]                                                                             | Medium     |
 | [LC0490.py]     | [Divide Players Into Teams of Equal Skill]                                                            | Medium     |
+| [LC0491.py]     | [Permutation in String]                                                                               | Medium     |
 
 [//]: # (Solutions)
 
@@ -1984,3 +1985,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0490.py]: Solutions/LC0490.py
 [Divide Players Into Teams of Equal Skill]:https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/
+
+[LC0491.py]: Solutions/LC0491.py
+[Permutation in String]:https://leetcode.com/problems/permutation-in-string/description/
