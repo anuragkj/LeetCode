@@ -504,6 +504,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0489.py]     | [Make Sum Divisible by P]                                                                             | Medium     |
 | [LC0490.py]     | [Divide Players Into Teams of Equal Skill]                                                            | Medium     |
 | [LC0491.py]     | [Permutation in String]                                                                               | Medium     |
+| [LC0492.py]     | [Sentence Similarity III]                                                                             | Medium     |
 
 [//]: # (Solutions)
 
@@ -1988,3 +1989,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0491.py]: Solutions/LC0491.py
 [Permutation in String]:https://leetcode.com/problems/permutation-in-string/description/
+
+[LC0492.py]: Solutions/LC0492.py
+[Sentence Similarity III]:https://leetcode.com/problems/sentence-similarity-iii/description/
