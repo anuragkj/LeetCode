@@ -505,6 +505,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0490.py]     | [Divide Players Into Teams of Equal Skill]                                                            | Medium     |
 | [LC0491.py]     | [Permutation in String]                                                                               | Medium     |
 | [LC0492.py]     | [Sentence Similarity III]                                                                             | Medium     |
+| [LC0493.py]     | [Minimum String Length After Removing Substrings]                                                     | Easy       |
 
 [//]: # (Solutions)
 
@@ -1992,3 +1993,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0492.py]: Solutions/LC0492.py
 [Sentence Similarity III]:https://leetcode.com/problems/sentence-similarity-iii/description/
+
+[LC0493.py]: Solutions/LC0493.py
+[Minimum String Length After Removing Substrings]:https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/
