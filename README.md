@@ -506,6 +506,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0491.py]     | [Permutation in String]                                                                               | Medium     |
 | [LC0492.py]     | [Sentence Similarity III]                                                                             | Medium     |
 | [LC0493.py]     | [Minimum String Length After Removing Substrings]                                                     | Easy       |
+| [LC0494.py]     | [Minimum Number of Swaps to Make the String Balanced]                                                 | Medium     |
 
 [//]: # (Solutions)
 
@@ -1996,3 +1997,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0493.py]: Solutions/LC0493.py
 [Minimum String Length After Removing Substrings]:https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/
+
+[LC0494.py]: Solutions/LC0494.py
+[Minimum Number of Swaps to Make the String Balanced]:https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/
