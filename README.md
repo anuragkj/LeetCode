@@ -507,6 +507,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0492.py]     | [Sentence Similarity III]                                                                             | Medium     |
 | [LC0493.py]     | [Minimum String Length After Removing Substrings]                                                     | Easy       |
 | [LC0494.py]     | [Minimum Number of Swaps to Make the String Balanced]                                                 | Medium     |
+| [LC0495.py]     | [Minimum Add to Make Parentheses Valid]                                                               | Medium     |
 
 [//]: # (Solutions)
 
@@ -2000,3 +2001,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0494.py]: Solutions/LC0494.py
 [Minimum Number of Swaps to Make the String Balanced]:https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/
+
+[LC0495.py]: Solutions/LC0495.py
+[Minimum Add to Make Parentheses Valid]:https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/
