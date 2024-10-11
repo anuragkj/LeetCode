@@ -509,6 +509,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0494.py]     | [Minimum Number of Swaps to Make the String Balanced]                                                 | Medium     |
 | [LC0495.py]     | [Minimum Add to Make Parentheses Valid]                                                               | Medium     |
 | [LC0496.py]     | [Maximum Width Ramp]                                                                                  | Medium     |
+| [LC0497.py]     | [The Number of the Smallest Unoccupied Chair]                                                         | Medium     |
 
 [//]: # (Solutions)
 
@@ -2008,3 +2009,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0496.py]: Solutions/LC0496.py
 [Maximum Width Ramp]:https://leetcode.com/problems/maximum-width-ramp/description/
+
+[LC0497.py]: Solutions/LC0497.py
+[The Number of the Smallest Unoccupied Chair]:https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/
