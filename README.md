@@ -510,6 +510,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0495.py]     | [Minimum Add to Make Parentheses Valid]                                                               | Medium     |
 | [LC0496.py]     | [Maximum Width Ramp]                                                                                  | Medium     |
 | [LC0497.py]     | [The Number of the Smallest Unoccupied Chair]                                                         | Medium     |
+| [LC0498.py]     | [Divide Intervals Into Minimum Number of Groups]                                                      | Medium     |
 
 [//]: # (Solutions)
 
@@ -2012,3 +2013,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0497.py]: Solutions/LC0497.py
 [The Number of the Smallest Unoccupied Chair]:https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/
+
+[LC0498.py]: Solutions/LC0498.py
+[Divide Intervals Into Minimum Number of Groups]:https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/
