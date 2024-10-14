@@ -512,6 +512,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0497.py]     | [The Number of the Smallest Unoccupied Chair]                                                         | Medium     |
 | [LC0498.py]     | [Divide Intervals Into Minimum Number of Groups]                                                      | Medium     |
 | [LC0499.py]     | [Smallest Range Covering Elements from K Lists]                                                       | Hard       |
+| [LC0500.py]     | [Maximal Score After Applying K Operations]                                                           | Medium     |
 
 [//]: # (Solutions)
 
@@ -2020,3 +2021,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0499.py]: Solutions/LC0499.py
 [Smallest Range Covering Elements from K Lists]:https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/
+
+[LC0500.py]: Solutions/LC0500.py
+[Maximal Score After Applying K Operations]:https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/
