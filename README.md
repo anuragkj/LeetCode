@@ -513,6 +513,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0498.py]     | [Divide Intervals Into Minimum Number of Groups]                                                      | Medium     |
 | [LC0499.py]     | [Smallest Range Covering Elements from K Lists]                                                       | Hard       |
 | [LC0500.py]     | [Maximal Score After Applying K Operations]                                                           | Medium     |
+| [LC0500.py]     | [Separate Black and White Balls]                                                                      | Medium     |
 
 [//]: # (Solutions)
 
@@ -2024,3 +2025,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0500.py]: Solutions/LC0500.py
 [Maximal Score After Applying K Operations]:https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/
+
+[LC0501.py]: Solutions/LC0501.py
+[Separate Black and White Balls]:https://leetcode.com/problems/separate-black-and-white-balls/description/
