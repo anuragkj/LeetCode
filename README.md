@@ -513,7 +513,12 @@ The questions are divided into 3 levels of difficulty:
 | [LC0498.py]     | [Divide Intervals Into Minimum Number of Groups]                                                      | Medium     |
 | [LC0499.py]     | [Smallest Range Covering Elements from K Lists]                                                       | Hard       |
 | [LC0500.py]     | [Maximal Score After Applying K Operations]                                                           | Medium     |
-| [LC0500.py]     | [Separate Black and White Balls]                                                                      | Medium     |
+| [LC0501.py]     | [Separate Black and White Balls]                                                                      | Medium     |
+| [LC0502.py]     | [Longest Happy String]                                                                                | Medium     |
+| [LC0503.py]     | [Maximum Swap]                                                                                        | Medium     |
+| [LC0504.py]     | [Count Number of Maximum Bitwise-OR Subsets]                                                          | Medium     |
+| [LC0505.py]     | [Find Kth Bit in Nth Binary String]                                                                   | Medium     |
+| [LC0506.py]     | [Parsing A Boolean Expression]                                                                        | Hard       |
 
 [//]: # (Solutions)
 
@@ -2028,3 +2033,18 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0501.py]: Solutions/LC0501.py
 [Separate Black and White Balls]:https://leetcode.com/problems/separate-black-and-white-balls/description/
+
+[LC0502.py]: Solutions/LC0501.py
+[Longest Happy String]:https://leetcode.com/problems/longest-happy-string/description/
+
+[LC0503.py]: Solutions/LC0501.py
+[Maximum Swap]:https://leetcode.com/problems/maximum-swap/description/
+
+[LC0504.py]: Solutions/LC0501.py
+[Count Number of Maximum Bitwise-OR Subsets]:https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/
+
+[LC0505.py]: Solutions/LC0501.py
+[Find Kth Bit in Nth Binary String]:https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/
+
+[LC0506.py]: Solutions/LC0501.py
+[Parsing A Boolean Expression]:https://leetcode.com/problems/parsing-a-boolean-expression/description/
