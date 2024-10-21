@@ -519,6 +519,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0504.py]     | [Count Number of Maximum Bitwise-OR Subsets]                                                          | Medium     |
 | [LC0505.py]     | [Find Kth Bit in Nth Binary String]                                                                   | Medium     |
 | [LC0506.py]     | [Parsing A Boolean Expression]                                                                        | Hard       |
+| [LC0507.py]     | [Split a String Into the Max Number of Unique Substrings]                                             | Medium     |
 
 [//]: # (Solutions)
 
@@ -2034,17 +2035,20 @@ The questions are divided into 3 levels of difficulty:
 [LC0501.py]: Solutions/LC0501.py
 [Separate Black and White Balls]:https://leetcode.com/problems/separate-black-and-white-balls/description/
 
-[LC0502.py]: Solutions/LC0501.py
+[LC0502.py]: Solutions/LC0502.py
 [Longest Happy String]:https://leetcode.com/problems/longest-happy-string/description/
 
-[LC0503.py]: Solutions/LC0501.py
+[LC0503.py]: Solutions/LC0503.py
 [Maximum Swap]:https://leetcode.com/problems/maximum-swap/description/
 
-[LC0504.py]: Solutions/LC0501.py
+[LC0504.py]: Solutions/LC0504.py
 [Count Number of Maximum Bitwise-OR Subsets]:https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/
 
-[LC0505.py]: Solutions/LC0501.py
+[LC0505.py]: Solutions/LC0505.py
 [Find Kth Bit in Nth Binary String]:https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/
 
-[LC0506.py]: Solutions/LC0501.py
+[LC0506.py]: Solutions/LC0506.py
 [Parsing A Boolean Expression]:https://leetcode.com/problems/parsing-a-boolean-expression/description/
+
+[LC0507.py]: Solutions/LC0507.py
+[Split a String Into the Max Number of Unique Substrings]:https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/description/
