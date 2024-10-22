@@ -520,6 +520,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0505.py]     | [Find Kth Bit in Nth Binary String]                                                                   | Medium     |
 | [LC0506.py]     | [Parsing A Boolean Expression]                                                                        | Hard       |
 | [LC0507.py]     | [Split a String Into the Max Number of Unique Substrings]                                             | Medium     |
+| [LC0508.py]     | [Kth Largest Sum in a Binary Tree]                                                                    | Medium     |
 
 [//]: # (Solutions)
 
@@ -2052,3 +2053,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0507.py]: Solutions/LC0507.py
 [Split a String Into the Max Number of Unique Substrings]:https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/description/
+
+[LC0508.py]: Solutions/LC0508.py
+[Kth Largest Sum in a Binary Tree]:https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/
