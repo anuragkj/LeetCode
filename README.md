@@ -522,6 +522,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0507.py]     | [Split a String Into the Max Number of Unique Substrings]                                             | Medium     |
 | [LC0508.py]     | [Kth Largest Sum in a Binary Tree]                                                                    | Medium     |
 | [LC0509.py]     | [Cousins in Binary Tree II]                                                                           | Medium     |
+| [LC0510.py]     | [Flip Equivalent Binary Trees]                                                                        | Medium     |
 
 
 [//]: # (Solutions)
@@ -2061,3 +2062,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0509.py]: Solutions/LC0509.py
 [Cousins in Binary Tree II]:https://leetcode.com/problems/cousins-in-binary-tree-ii/description/
+
+[LC0510.py]: Solutions/LC0510.py
+[Flip Equivalent Binary Trees]:https://leetcode.com/problems/flip-equivalent-binary-trees/description/
