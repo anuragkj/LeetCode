@@ -523,6 +523,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0508.py]     | [Kth Largest Sum in a Binary Tree]                                                                    | Medium     |
 | [LC0509.py]     | [Cousins in Binary Tree II]                                                                           | Medium     |
 | [LC0510.py]     | [Flip Equivalent Binary Trees]                                                                        | Medium     |
+| [LC0511.py]     | [Remove Sub-Folders from the Filesystem]                                                              | Medium     |
 
 
 [//]: # (Solutions)
@@ -2065,3 +2066,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0510.py]: Solutions/LC0510.py
 [Flip Equivalent Binary Trees]:https://leetcode.com/problems/flip-equivalent-binary-trees/description/
+
+[LC0511.py]: Solutions/LC0511.py
+[Remove Sub-Folders from the Filesystem]:https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/
