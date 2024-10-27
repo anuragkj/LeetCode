@@ -525,6 +525,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0510.py]     | [Flip Equivalent Binary Trees]                                                                        | Medium     |
 | [LC0511.py]     | [Remove Sub-Folders from the Filesystem]                                                              | Medium     |
 | [LC0512.py]     | [Height of Binary Tree After Subtree Removal Queries]                                                 | Hard       |
+| [LC0512.py]     | [Count Square Submatrices with All Ones]                                                              | Medium     |
 
 [//]: # (Solutions)
 
@@ -2072,3 +2073,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0512.py]: Solutions/LC0512.py
 [Height of Binary Tree After Subtree Removal Queries]:https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/description/
+
+[LC0513.py]: Solutions/LC0513.py
+[Count Square Submatrices with All Ones]:https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/
