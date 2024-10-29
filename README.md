@@ -527,6 +527,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0512.py]     | [Height of Binary Tree After Subtree Removal Queries]                                                 | Hard       |
 | [LC0513.py]     | [Count Square Submatrices with All Ones]                                                              | Medium     |
 | [LC0514.py]     | [Longest Square Streak in an Array]                                                                   | Medium     |
+| [LC0515.py]     | [Maximum Number of Moves in a Grid]                                                                   | Medium     |
 
 [//]: # (Solutions)
 
@@ -2080,3 +2081,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0514.py]: Solutions/LC0514.py
 [Longest Square Streak in an Array]:https://leetcode.com/problems/longest-square-streak-in-an-array/description/
+
+[LC0515.py]: Solutions/LC0515.py
+[Maximum Number of Moves in a Grid]:https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/
