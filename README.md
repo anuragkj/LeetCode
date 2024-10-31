@@ -529,6 +529,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0514.py]     | [Longest Square Streak in an Array]                                                                   | Medium     |
 | [LC0515.py]     | [Maximum Number of Moves in a Grid]                                                                   | Medium     |
 | [LC0516.py]     | [Minimum Number of Removals to Make Mountain Array]                                                   | Hard       |
+| [LC0517.py]     | [Minimum Total Distance Traveled]                                                                     | Hard       |
 
 [//]: # (Solutions)
 
@@ -2088,3 +2089,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0516.py]: Solutions/LC0516.py
 [Minimum Number of Removals to Make Mountain Array]:https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/
+
+[LC0517.py]: Solutions/LC0517.py
+[Minimum Total Distance Traveled]:https://leetcode.com/problems/minimum-total-distance-traveled/description/
