@@ -530,6 +530,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0515.py]     | [Maximum Number of Moves in a Grid]                                                                   | Medium     |
 | [LC0516.py]     | [Minimum Number of Removals to Make Mountain Array]                                                   | Hard       |
 | [LC0517.py]     | [Minimum Total Distance Traveled]                                                                     | Hard       |
+| [LC0518.py]     | [Delete Characters to Make Fancy String]                                                              | Easy       |
 
 [//]: # (Solutions)
 
@@ -2092,3 +2093,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0517.py]: Solutions/LC0517.py
 [Minimum Total Distance Traveled]:https://leetcode.com/problems/minimum-total-distance-traveled/description/
+
+[LC0518.py]: Solutions/LC0518.py
+[Delete Characters to Make Fancy String]:https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/
