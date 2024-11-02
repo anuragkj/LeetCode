@@ -531,6 +531,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0516.py]     | [Minimum Number of Removals to Make Mountain Array]                                                   | Hard       |
 | [LC0517.py]     | [Minimum Total Distance Traveled]                                                                     | Hard       |
 | [LC0518.py]     | [Delete Characters to Make Fancy String]                                                              | Easy       |
+| [LC0519.py]     | [Circular Sentence]                                                                                   | Easy       |
 
 [//]: # (Solutions)
 
@@ -2096,3 +2097,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0518.py]: Solutions/LC0518.py
 [Delete Characters to Make Fancy String]:https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/
+
+[LC0519.py]: Solutions/LC0519.py
+[Circular Sentence]:https://leetcode.com/problems/circular-sentence/description/
