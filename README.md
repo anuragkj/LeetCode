@@ -533,6 +533,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0518.py]     | [Delete Characters to Make Fancy String]                                                              | Easy       |
 | [LC0519.py]     | [Circular Sentence]                                                                                   | Easy       |
 | [LC0520.py]     | [Rotate String]                                                                                       | Easy       |
+| [LC0521.py]     | [String Compression III]                                                                              | Medium     |
 
 [//]: # (Solutions)
 
@@ -2104,3 +2105,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0520.py]: Solutions/LC0520.py
 [Rotate String]:https://leetcode.com/problems/rotate-string/description/
+
+[LC0521.py]: Solutions/LC0521.py
+[String Compression III]:https://leetcode.com/problems/string-compression-iii/description/
