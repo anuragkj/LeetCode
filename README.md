@@ -534,6 +534,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0519.py]     | [Circular Sentence]                                                                                   | Easy       |
 | [LC0520.py]     | [Rotate String]                                                                                       | Easy       |
 | [LC0521.py]     | [String Compression III]                                                                              | Medium     |
+| [LC0522.py]     | [Minimum Number of Changes to Make Binary String Beautiful]                                           | Medium     |
 
 [//]: # (Solutions)
 
@@ -2108,3 +2109,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0521.py]: Solutions/LC0521.py
 [String Compression III]:https://leetcode.com/problems/string-compression-iii/description/
+
+[LC0522.py]: Solutions/LC0522.py
+[Minimum Number of Changes to Make Binary String Beautiful]:https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/
