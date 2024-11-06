@@ -535,6 +535,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0520.py]     | [Rotate String]                                                                                       | Easy       |
 | [LC0521.py]     | [String Compression III]                                                                              | Medium     |
 | [LC0522.py]     | [Minimum Number of Changes to Make Binary String Beautiful]                                           | Medium     |
+| [LC0523.py]     | [Find if Array Can Be Sorted]                                                                         | Medium     |
 
 [//]: # (Solutions)
 
@@ -2112,3 +2113,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0522.py]: Solutions/LC0522.py
 [Minimum Number of Changes to Make Binary String Beautiful]:https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/
+
+[LC0523.py]: Solutions/LC0523.py
+[Find if Array Can Be Sorted]:https://leetcode.com/problems/find-if-array-can-be-sorted/description/
