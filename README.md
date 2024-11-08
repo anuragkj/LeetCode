@@ -537,6 +537,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0522.py]     | [Minimum Number of Changes to Make Binary String Beautiful]                                           | Medium     |
 | [LC0523.py]     | [Find if Array Can Be Sorted]                                                                         | Medium     |
 | [LC0524.py]     | [Largest Combination With Bitwise AND Greater Than Zero]                                              | Medium     |
+| [LC0525.py]     | [Maximum XOR for Each Query]                                                                          | Medium     |
 
 [//]: # (Solutions)
 
@@ -2120,3 +2121,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0524.py]: Solutions/LC0524.py
 [Largest Combination With Bitwise AND Greater Than Zero]:https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/description/
+
+[LC0525.py]: Solutions/LC0525.py
+[Maximum XOR for Each Query]:https://leetcode.com/problems/maximum-xor-for-each-query/description/
