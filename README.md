@@ -538,6 +538,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0523.py]     | [Find if Array Can Be Sorted]                                                                         | Medium     |
 | [LC0524.py]     | [Largest Combination With Bitwise AND Greater Than Zero]                                              | Medium     |
 | [LC0525.py]     | [Maximum XOR for Each Query]                                                                          | Medium     |
+| [LC0526.py]     | [Minimum Array End]                                                                                   | Medium     |
 
 [//]: # (Solutions)
 
@@ -2124,3 +2125,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0525.py]: Solutions/LC0525.py
 [Maximum XOR for Each Query]:https://leetcode.com/problems/maximum-xor-for-each-query/description/
+
+[LC0526.py]: Solutions/LC0526.py
+[Minimum Array End]:https://leetcode.com/problems/minimum-array-end/description/
