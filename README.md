@@ -539,6 +539,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0524.py]     | [Largest Combination With Bitwise AND Greater Than Zero]                                              | Medium     |
 | [LC0525.py]     | [Maximum XOR for Each Query]                                                                          | Medium     |
 | [LC0526.py]     | [Minimum Array End]                                                                                   | Medium     |
+| [LC0527.py]     | [Shortest Subarray With OR at Least K II]                                                             | Medium     |
 
 [//]: # (Solutions)
 
@@ -2128,3 +2129,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0526.py]: Solutions/LC0526.py
 [Minimum Array End]:https://leetcode.com/problems/minimum-array-end/description/
+
+[LC0527.py]: Solutions/LC0527.py
+[Shortest Subarray With OR at Least K II]:https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/
