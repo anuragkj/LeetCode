@@ -540,6 +540,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0525.py]     | [Maximum XOR for Each Query]                                                                          | Medium     |
 | [LC0526.py]     | [Minimum Array End]                                                                                   | Medium     |
 | [LC0527.py]     | [Shortest Subarray With OR at Least K II]                                                             | Medium     |
+| [LC0528.py]     | [Prime Subtraction Operation]                                                                         | Medium     |
 
 [//]: # (Solutions)
 
@@ -2132,3 +2133,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0527.py]: Solutions/LC0527.py
 [Shortest Subarray With OR at Least K II]:https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/
+
+[LC0528.py]: Solutions/LC0528.py
+[Prime Subtraction Operation]:https://leetcode.com/problems/prime-subtraction-operation/description/
