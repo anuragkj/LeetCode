@@ -541,6 +541,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0526.py]     | [Minimum Array End]                                                                                   | Medium     |
 | [LC0527.py]     | [Shortest Subarray With OR at Least K II]                                                             | Medium     |
 | [LC0528.py]     | [Prime Subtraction Operation]                                                                         | Medium     |
+| [LC0529.py]     | [Most Beautiful Item for Each Query]                                                                  | Medium     |
+| [LC0530.py]     | [Count the Number of Fair Pairs]                                                                      | Medium     |
 
 [//]: # (Solutions)
 
@@ -2136,3 +2138,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0528.py]: Solutions/LC0528.py
 [Prime Subtraction Operation]:https://leetcode.com/problems/prime-subtraction-operation/description/
+
+[LC0529.py]: Solutions/LC0529.py
+[Most Beautiful Item for Each Query]:https://leetcode.com/problems/most-beautiful-item-for-each-query/description/
+
+[LC0530.py]: Solutions/LC0530.py
+[Count the Number of Fair Pairs]:https://leetcode.com/problems/count-the-number-of-fair-pairs/description/
