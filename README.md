@@ -543,6 +543,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0528.py]     | [Prime Subtraction Operation]                                                                         | Medium     |
 | [LC0529.py]     | [Most Beautiful Item for Each Query]                                                                  | Medium     |
 | [LC0530.py]     | [Count the Number of Fair Pairs]                                                                      | Medium     |
+| [LC0531.py]     | [Minimized Maximum of Products Distributed to Any Store]                                              | Medium     |
 
 [//]: # (Solutions)
 
@@ -2144,3 +2145,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0530.py]: Solutions/LC0530.py
 [Count the Number of Fair Pairs]:https://leetcode.com/problems/count-the-number-of-fair-pairs/description/
+
+[LC0531.py]: Solutions/LC0531.py
+[Minimized Maximum of Products Distributed to Any Store]:https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/
