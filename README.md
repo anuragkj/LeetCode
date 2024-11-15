@@ -544,6 +544,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0529.py]     | [Most Beautiful Item for Each Query]                                                                  | Medium     |
 | [LC0530.py]     | [Count the Number of Fair Pairs]                                                                      | Medium     |
 | [LC0531.py]     | [Minimized Maximum of Products Distributed to Any Store]                                              | Medium     |
+| [LC0532.py]     | [Shortest Subarray to be Removed to Make Array Sorted]                                                | Medium     |
 
 [//]: # (Solutions)
 
@@ -2148,3 +2149,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0531.py]: Solutions/LC0531.py
 [Minimized Maximum of Products Distributed to Any Store]:https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/
+
+[LC0532.py]: Solutions/LC0532.py
+[Shortest Subarray to be Removed to Make Array Sorted]:https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/
