@@ -545,6 +545,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0530.py]     | [Count the Number of Fair Pairs]                                                                      | Medium     |
 | [LC0531.py]     | [Minimized Maximum of Products Distributed to Any Store]                                              | Medium     |
 | [LC0532.py]     | [Shortest Subarray to be Removed to Make Array Sorted]                                                | Medium     |
+| [LC0533.py]     | [Find the Power of K-Size Subarrays I]                                                                | Medium     |
 
 [//]: # (Solutions)
 
@@ -2152,3 +2153,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0532.py]: Solutions/LC0532.py
 [Shortest Subarray to be Removed to Make Array Sorted]:https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/
+
+[LC0533.py]: Solutions/LC0533.py
+[Find the Power of K-Size Subarrays I]:https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/description/
