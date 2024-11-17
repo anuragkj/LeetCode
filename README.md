@@ -546,6 +546,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0531.py]     | [Minimized Maximum of Products Distributed to Any Store]                                              | Medium     |
 | [LC0532.py]     | [Shortest Subarray to be Removed to Make Array Sorted]                                                | Medium     |
 | [LC0533.py]     | [Find the Power of K-Size Subarrays I]                                                                | Medium     |
+| [LC0534.py]     | [Shortest Subarray with Sum at Least K]                                                               | Medium     |
 
 [//]: # (Solutions)
 
@@ -2156,3 +2157,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0533.py]: Solutions/LC0533.py
 [Find the Power of K-Size Subarrays I]:https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/description/
+
+[LC0534.py]: Solutions/LC0534.py
+[Shortest Subarray with Sum at Least K]:https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/
