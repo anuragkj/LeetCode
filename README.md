@@ -547,6 +547,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0532.py]     | [Shortest Subarray to be Removed to Make Array Sorted]                                                | Medium     |
 | [LC0533.py]     | [Find the Power of K-Size Subarrays I]                                                                | Medium     |
 | [LC0534.py]     | [Shortest Subarray with Sum at Least K]                                                               | Medium     |
+| [LC0535.py]     | [Defuse the Bomb]                                                                                     | Easy       |
 
 [//]: # (Solutions)
 
@@ -2160,3 +2161,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0534.py]: Solutions/LC0534.py
 [Shortest Subarray with Sum at Least K]:https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/
+
+[LC0535.py]: Solutions/LC0535.py
+[Defuse the Bomb]:https://leetcode.com/problems/defuse-the-bomb/description/
