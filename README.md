@@ -548,6 +548,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0533.py]     | [Find the Power of K-Size Subarrays I]                                                                | Medium     |
 | [LC0534.py]     | [Shortest Subarray with Sum at Least K]                                                               | Medium     |
 | [LC0535.py]     | [Defuse the Bomb]                                                                                     | Easy       |
+| [LC0536.py]     | [Take K of Each Character From Left and Right]                                                        | Medium     |
 
 [//]: # (Solutions)
 
@@ -2164,3 +2165,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0535.py]: Solutions/LC0535.py
 [Defuse the Bomb]:https://leetcode.com/problems/defuse-the-bomb/description/
+
+[LC0536.py]: Solutions/LC0536.py
+[Take K of Each Character From Left and Right]:https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/
