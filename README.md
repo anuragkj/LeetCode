@@ -549,6 +549,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0534.py]     | [Shortest Subarray with Sum at Least K]                                                               | Medium     |
 | [LC0535.py]     | [Defuse the Bomb]                                                                                     | Easy       |
 | [LC0536.py]     | [Take K of Each Character From Left and Right]                                                        | Medium     |
+| [LC0537.py]     | [Count Unguarded Cells in the Grid]                                                                   | Medium     |
 
 [//]: # (Solutions)
 
@@ -2168,3 +2169,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0536.py]: Solutions/LC0536.py
 [Take K of Each Character From Left and Right]:https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/
+
+[LC0537.py]: Solutions/LC0537.py
+[Count Unguarded Cells in the Grid]:https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/
