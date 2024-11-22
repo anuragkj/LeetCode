@@ -550,6 +550,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0535.py]     | [Defuse the Bomb]                                                                                     | Easy       |
 | [LC0536.py]     | [Take K of Each Character From Left and Right]                                                        | Medium     |
 | [LC0537.py]     | [Count Unguarded Cells in the Grid]                                                                   | Medium     |
+| [LC0538.py]     | [Flip Columns For Maximum Number of Equal Rows]                                                       | Medium     |
 
 [//]: # (Solutions)
 
@@ -2172,3 +2173,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0537.py]: Solutions/LC0537.py
 [Count Unguarded Cells in the Grid]:https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/
+
+[LC0538.py]: Solutions/LC0538.py
+[Flip Columns For Maximum Number of Equal Rows]:https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/
