@@ -551,6 +551,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0536.py]     | [Take K of Each Character From Left and Right]                                                        | Medium     |
 | [LC0537.py]     | [Count Unguarded Cells in the Grid]                                                                   | Medium     |
 | [LC0538.py]     | [Flip Columns For Maximum Number of Equal Rows]                                                       | Medium     |
+| [LC0539.py]     | [Rotating the Box]                                                                                    | Medium     |
 
 [//]: # (Solutions)
 
@@ -2176,3 +2177,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0538.py]: Solutions/LC0538.py
 [Flip Columns For Maximum Number of Equal Rows]:https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/
+
+[LC0539.py]: Solutions/LC0539.py
+[Rotating the Box]:https://leetcode.com/problems/rotating-the-box/description/
