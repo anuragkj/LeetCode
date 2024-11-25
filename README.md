@@ -553,6 +553,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0538.py]     | [Flip Columns For Maximum Number of Equal Rows]                                                       | Medium     |
 | [LC0539.py]     | [Rotating the Box]                                                                                    | Medium     |
 | [LC0540.py]     | [Maximum Matrix Sum]                                                                                  | Medium     |
+| [LC0541.py]     | [Sliding Puzzle]                                                                                      | Hard       |
 
 [//]: # (Solutions)
 
@@ -2184,3 +2185,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0540.py]: Solutions/LC0540.py
 [Maximum Matrix Sum]:https://leetcode.com/problems/maximum-matrix-sum/description/
+
+[LC0541.py]: Solutions/LC0541.py
+[Sliding Puzzle]:https://leetcode.com/problems/sliding-puzzle/description/
