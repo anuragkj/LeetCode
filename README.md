@@ -554,6 +554,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0539.py]     | [Rotating the Box]                                                                                    | Medium     |
 | [LC0540.py]     | [Maximum Matrix Sum]                                                                                  | Medium     |
 | [LC0541.py]     | [Sliding Puzzle]                                                                                      | Hard       |
+| [LC0542.py]     | [Find Champion II]                                                                                    | Medium     |
 
 [//]: # (Solutions)
 
@@ -2188,3 +2189,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0541.py]: Solutions/LC0541.py
 [Sliding Puzzle]:https://leetcode.com/problems/sliding-puzzle/description/
+
+[LC0542.py]: Solutions/LC0542.py
+[Find Champion II]:https://leetcode.com/problems/find-champion-ii/description/
