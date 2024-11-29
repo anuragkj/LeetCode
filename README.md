@@ -555,6 +555,9 @@ The questions are divided into 3 levels of difficulty:
 | [LC0540.py]     | [Maximum Matrix Sum]                                                                                  | Medium     |
 | [LC0541.py]     | [Sliding Puzzle]                                                                                      | Hard       |
 | [LC0542.py]     | [Find Champion II]                                                                                    | Medium     |
+| [LC0543.py]     | [Shortest Distance After Road Addition Queries I]                                                     | Medium     |
+| [LC0544.py]     | [Minimum Obstacle Removal to Reach Corner]                                                            | Hard       |
+| [LC0545.py]     | [Minimum Time to Visit a Cell In a Grid]                                                              | Hard       |
 
 [//]: # (Solutions)
 
@@ -2192,3 +2195,12 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0542.py]: Solutions/LC0542.py
 [Find Champion II]:https://leetcode.com/problems/find-champion-ii/description/
+
+[LC0543.py]: Solutions/LC0543.py
+[Shortest Distance After Road Addition Queries I]:https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/description/
+
+[LC0544.py]: Solutions/LC0544.py
+[Minimum Obstacle Removal to Reach Corner]:https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/
+
+[LC0545.py]: Solutions/LC0545.py
+[Minimum Time to Visit a Cell In a Grid]:https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/
