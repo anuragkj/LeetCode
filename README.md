@@ -558,6 +558,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0543.py]     | [Shortest Distance After Road Addition Queries I]                                                     | Medium     |
 | [LC0544.py]     | [Minimum Obstacle Removal to Reach Corner]                                                            | Hard       |
 | [LC0545.py]     | [Minimum Time to Visit a Cell In a Grid]                                                              | Hard       |
+| [LC0546.py]     | [Valid Arrangement of Pairs]                                                                          | Hard       |
 
 [//]: # (Solutions)
 
@@ -2204,3 +2205,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0545.py]: Solutions/LC0545.py
 [Minimum Time to Visit a Cell In a Grid]:https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/
+
+[LC0546.py]: Solutions/LC0546.py
+[Valid Arrangement of Pairs]:https://leetcode.com/problems/valid-arrangement-of-pairs/description/
