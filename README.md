@@ -559,6 +559,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0544.py]     | [Minimum Obstacle Removal to Reach Corner]                                                            | Hard       |
 | [LC0545.py]     | [Minimum Time to Visit a Cell In a Grid]                                                              | Hard       |
 | [LC0546.py]     | [Valid Arrangement of Pairs]                                                                          | Hard       |
+| [LC0547.py]     | [Check If N and Its Double Exist]                                                                     | Easy       |
 
 [//]: # (Solutions)
 
@@ -2208,3 +2209,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0546.py]: Solutions/LC0546.py
 [Valid Arrangement of Pairs]:https://leetcode.com/problems/valid-arrangement-of-pairs/description/
+
+[LC0547.py]: Solutions/LC0547.py
+Check If N and Its Double Exist]:https://leetcode.com/problems/check-if-n-and-its-double-exist/description/
