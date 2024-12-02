@@ -560,6 +560,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0545.py]     | [Minimum Time to Visit a Cell In a Grid]                                                              | Hard       |
 | [LC0546.py]     | [Valid Arrangement of Pairs]                                                                          | Hard       |
 | [LC0547.py]     | [Check If N and Its Double Exist]                                                                     | Easy       |
+| [LC0548.py]     | [Check If a Word Occurs As a Prefix of Any Word in a Sentence]                                        | Easy       |
 
 [//]: # (Solutions)
 
@@ -2211,4 +2212,7 @@ The questions are divided into 3 levels of difficulty:
 [Valid Arrangement of Pairs]:https://leetcode.com/problems/valid-arrangement-of-pairs/description/
 
 [LC0547.py]: Solutions/LC0547.py
-Check If N and Its Double Exist]:https://leetcode.com/problems/check-if-n-and-its-double-exist/description/
+[Check If N and Its Double Exist]:https://leetcode.com/problems/check-if-n-and-its-double-exist/description/
+
+[LC0548.py]: Solutions/LC0548.py
+[Check If a Word Occurs As a Prefix of Any Word in a Sentence]:https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/
