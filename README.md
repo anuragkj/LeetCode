@@ -562,6 +562,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0547.py]     | [Check If N and Its Double Exist]                                                                     | Easy       |
 | [LC0548.py]     | [Check If a Word Occurs As a Prefix of Any Word in a Sentence]                                        | Easy       |
 | [LC0549.py]     | [Adding Spaces to a String]                                                                           | Medium     |
+| [LC0550.py]     | [Make String a Subsequence Using Cyclic Increments]                                                   | Medium     |
  
 [//]: # (Solutions)
 
@@ -2220,3 +2221,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0549.py]: Solutions/LC0549.py
 [Adding Spaces to a String]:https://leetcode.com/problems/adding-spaces-to-a-string/description/
+
+[LC0550.py]: Solutions/LC0550.py
+[Make String a Subsequence Using Cyclic Increments]:https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/description/
