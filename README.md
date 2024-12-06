@@ -563,6 +563,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0548.py]     | [Check If a Word Occurs As a Prefix of Any Word in a Sentence]                                        | Easy       |
 | [LC0549.py]     | [Adding Spaces to a String]                                                                           | Medium     |
 | [LC0550.py]     | [Make String a Subsequence Using Cyclic Increments]                                                   | Medium     |
+| [LC0551.py]     | [Move Pieces to Obtain a String]                                                                      | Medium     |
+| [LC0552.py]     | [Maximum Number of Integers to Choose From a Range I]                                                 | Medium     |
  
 [//]: # (Solutions)
 
@@ -2224,3 +2226,9 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0550.py]: Solutions/LC0550.py
 [Make String a Subsequence Using Cyclic Increments]:https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/description/
+
+[LC0551.py]: Solutions/LC0551.py
+[Move Pieces to Obtain a String]:https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/
+
+[LC0552.py]: Solutions/LC0552.py
+[Maximum Number of Integers to Choose From a Range I]:https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/description/
