@@ -565,6 +565,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0550.py]     | [Make String a Subsequence Using Cyclic Increments]                                                   | Medium     |
 | [LC0551.py]     | [Move Pieces to Obtain a String]                                                                      | Medium     |
 | [LC0552.py]     | [Maximum Number of Integers to Choose From a Range I]                                                 | Medium     |
+| [LC0553.py]     | [Minimum Limit of Balls in a Bag]                                                                     | Medium     |
  
 [//]: # (Solutions)
 
@@ -2232,3 +2233,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0552.py]: Solutions/LC0552.py
 [Maximum Number of Integers to Choose From a Range I]:https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/description/
+
+[LC0553.py]: Solutions/LC0553.py
+[Minimum Limit of Balls in a Bag]:https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/description/
