@@ -566,7 +566,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0551.py]     | [Move Pieces to Obtain a String]                                                                      | Medium     |
 | [LC0552.py]     | [Maximum Number of Integers to Choose From a Range I]                                                 | Medium     |
 | [LC0553.py]     | [Minimum Limit of Balls in a Bag]                                                                     | Medium     |
-| [LC0553.py]     | [Two Best Non-Overlapping Events]                                                                     | Medium     |
+| [LC0554.py]     | [Two Best Non-Overlapping Events]                                                                     | Medium     |
+| [LC0555.py]     | [Special Array II]                                                                                    | Medium     |
  
 [//]: # (Solutions)
 
@@ -2240,3 +2241,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0554.py]: Solutions/LC0554.py
 [Two Best Non-Overlapping Events]:https://leetcode.com/problems/two-best-non-overlapping-events/description/
+
+[LC0555.py]: Solutions/LC0555.py
+[Special Array II]:https://leetcode.com/problems/special-array-ii/description/
