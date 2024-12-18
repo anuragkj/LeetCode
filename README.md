@@ -568,6 +568,16 @@ The questions are divided into 3 levels of difficulty:
 | [LC0553.py]     | [Minimum Limit of Balls in a Bag]                                                                     | Medium     |
 | [LC0554.py]     | [Two Best Non-Overlapping Events]                                                                     | Medium     |
 | [LC0555.py]     | [Special Array II]                                                                                    | Medium     |
+| [LC0556.py]     | [Find Longest Special Substring That Occurs Thrice I]                                                 | Medium     |
+| [LC0557.py]     | [Maximum Beauty of an Array After Applying Operation]                                                 | Medium     |
+| [LC0558.py]     | [Beautiful Arrangement]                                                                               | Medium     |
+| [LC0559.py]     | [Take Gifts From the Richest Pile]                                                                    | Easy       |
+| [LC0560.py]     | [Find Score of an Array After Marking All Elements]                                                   | Medium     |
+| [LC0561.py]     | [Continuous Subarrays]                                                                                | Medium     |
+| [LC0562.py]     | [Maximum Average Pass Ratio]                                                                          | Medium     |
+| [LC0563.py]     | [Final Array State After K Multiplication Operations I]                                               | Easy       |
+| [LC0564.py]     | [Construct String With Repeat Limit]                                                                  | Medium     |
+| [LC0565.py]     | [Final Prices With a Special Discount in a Shop]                                                      | Easy       |
  
 [//]: # (Solutions)
 
