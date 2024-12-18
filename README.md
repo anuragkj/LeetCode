@@ -2280,7 +2280,7 @@ The questions are divided into 3 levels of difficulty:
 [Final Array State After K Multiplication Operations I]:https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/
 
 [LC0564.py]: Solutions/LC0564.py
-[SConstruct String With Repeat Limit]:https://leetcode.com/problems/construct-string-with-repeat-limit/description/
+[Construct String With Repeat Limit]:https://leetcode.com/problems/construct-string-with-repeat-limit/description/
 
 [LC0565.py]: Solutions/LC0565.py
 [Final Prices With a Special Discount in a Shop]:https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/
