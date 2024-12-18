@@ -2254,3 +2254,33 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0555.py]: Solutions/LC0555.py
 [Special Array II]:https://leetcode.com/problems/special-array-ii/description/
+
+[LC0556.py]: Solutions/LC0556.py
+[Find Longest Special Substring That Occurs Thrice I]:https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/description/
+
+[LC0557.py]: Solutions/LC0557.py
+[Maximum Beauty of an Array After Applying Operation]:https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/
+
+[LC0558.py]: Solutions/LC0558.py
+[Beautiful Arrangement]:https://leetcode.com/problems/beautiful-arrangement/description/
+
+[LC0559.py]: Solutions/LC0559.py
+[Take Gifts From the Richest Pile]:https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/
+
+[LC0560.py]: Solutions/LC0560.py
+[Find Score of an Array After Marking All Elements]:https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/
+
+[LC0561.py]: Solutions/LC0561.py
+[Continuous Subarrays]:https://leetcode.com/problems/continuous-subarrays/description/
+
+[LC0562.py]: Solutions/LC0562.py
+[Maximum Average Pass Ratio]:https://leetcode.com/problems/maximum-average-pass-ratio/description/
+
+[LC0563.py]: Solutions/LC0563.py
+[Final Array State After K Multiplication Operations I]:https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/
+
+[LC0564.py]: Solutions/LC0564.py
+[SConstruct String With Repeat Limit]:https://leetcode.com/problems/construct-string-with-repeat-limit/description/
+
+[LC0565.py]: Solutions/LC0565.py
+[Final Prices With a Special Discount in a Shop]:https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/
