@@ -578,6 +578,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0563.py]     | [Final Array State After K Multiplication Operations I]                                               | Easy       |
 | [LC0564.py]     | [Construct String With Repeat Limit]                                                                  | Medium     |
 | [LC0565.py]     | [Final Prices With a Special Discount in a Shop]                                                      | Easy       |
+| [LC0566.py]     | [Max Chunks To Make Sorted]                                                                           | Medium     |
  
 [//]: # (Solutions)
 
@@ -2284,3 +2285,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0565.py]: Solutions/LC0565.py
 [Final Prices With a Special Discount in a Shop]:https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/
+
+[LC0566.py]: Solutions/LC0566.py
+[Max Chunks To Make Sorted]:https://leetcode.com/problems/max-chunks-to-make-sorted/description/
