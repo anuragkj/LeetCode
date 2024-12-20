@@ -579,6 +579,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0564.py]     | [Construct String With Repeat Limit]                                                                  | Medium     |
 | [LC0565.py]     | [Final Prices With a Special Discount in a Shop]                                                      | Easy       |
 | [LC0566.py]     | [Max Chunks To Make Sorted]                                                                           | Medium     |
+| [LC0567.py]     | [Reverse Odd Levels of Binary Tree]                                                                   | Medium     |
  
 [//]: # (Solutions)
 
@@ -2288,3 +2289,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0566.py]: Solutions/LC0566.py
 [Max Chunks To Make Sorted]:https://leetcode.com/problems/max-chunks-to-make-sorted/description/
+
+[LC0567.py]: Solutions/LC0567.py
+[Reverse Odd Levels of Binary Tree]:https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/
