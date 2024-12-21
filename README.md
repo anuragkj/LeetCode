@@ -580,6 +580,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0565.py]     | [Final Prices With a Special Discount in a Shop]                                                      | Easy       |
 | [LC0566.py]     | [Max Chunks To Make Sorted]                                                                           | Medium     |
 | [LC0567.py]     | [Reverse Odd Levels of Binary Tree]                                                                   | Medium     |
+| [LC0568.py]     | [Maximum Number of K-Divisible Components]                                                            | Hard       |
  
 [//]: # (Solutions)
 
