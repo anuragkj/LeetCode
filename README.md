@@ -2293,3 +2293,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0567.py]: Solutions/LC0567.py
 [Reverse Odd Levels of Binary Tree]:https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/
+
+[LC0568.py]: Solutions/LC0568.py
+[Maximum Number of K-Divisible Components]:https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/
