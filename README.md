@@ -581,6 +581,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0566.py]     | [Max Chunks To Make Sorted]                                                                           | Medium     |
 | [LC0567.py]     | [Reverse Odd Levels of Binary Tree]                                                                   | Medium     |
 | [LC0568.py]     | [Maximum Number of K-Divisible Components]                                                            | Hard       |
+| [LC0569.py]     | [Find Building Where Alice and Bob Can Meet]                                                          | Hard       |
  
 [//]: # (Solutions)
 
@@ -2296,3 +2297,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0568.py]: Solutions/LC0568.py
 [Maximum Number of K-Divisible Components]:https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/
+
+[LC0569.py]: Solutions/LC0569.py
+[Find Building Where Alice and Bob Can Meet]:https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/
