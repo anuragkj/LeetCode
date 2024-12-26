@@ -582,7 +582,11 @@ The questions are divided into 3 levels of difficulty:
 | [LC0567.py]     | [Reverse Odd Levels of Binary Tree]                                                                   | Medium     |
 | [LC0568.py]     | [Maximum Number of K-Divisible Components]                                                            | Hard       |
 | [LC0569.py]     | [Find Building Where Alice and Bob Can Meet]                                                          | Hard       |
- 
+| [LC0570.py]     | [Minimum Number of Operations to Sort a Binary Tree by Level]                                         | Medium     |
+| [LC0571.py]     | [Find Minimum Diameter After Merging Two Trees]                                                       | Hard       |
+| [LC0572.py]     | [Find Largest Value in Each Tree Row]                                                                 | Medium     |
+| [LC0572.py]     | [Target Sum]                                                                                          | Medium     |
+
 [//]: # (Solutions)
 
 [LC0001.py]: Solutions/LC0001.py
@@ -2300,3 +2304,15 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0569.py]: Solutions/LC0569.py
 [Find Building Where Alice and Bob Can Meet]:https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/
+
+[LC0570.py]: Solutions/LC0570.py
+[Minimum Number of Operations to Sort a Binary Tree by Level]:https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/description/
+
+[LC0571.py]: Solutions/LC0571.py
+[Find Minimum Diameter After Merging Two Trees]:https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/
+
+[LC0572.py]: Solutions/LC0572.py
+[Find Largest Value in Each Tree Row]:https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/
+
+[LC0573.py]: Solutions/LC0573.py
+[Target Sum]:https://leetcode.com/problems/target-sum/description/
