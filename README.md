@@ -585,7 +585,8 @@ The questions are divided into 3 levels of difficulty:
 | [LC0570.py]     | [Minimum Number of Operations to Sort a Binary Tree by Level]                                         | Medium     |
 | [LC0571.py]     | [Find Minimum Diameter After Merging Two Trees]                                                       | Hard       |
 | [LC0572.py]     | [Find Largest Value in Each Tree Row]                                                                 | Medium     |
-| [LC0572.py]     | [Target Sum]                                                                                          | Medium     |
+| [LC0573.py]     | [Target Sum]                                                                                          | Medium     |
+| [LC0574.py]     | [Best Sightseeing Pair]                                                                               | Medium     |
 
 [//]: # (Solutions)
 
@@ -2316,3 +2317,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0573.py]: Solutions/LC0573.py
 [Target Sum]:https://leetcode.com/problems/target-sum/description/
+
+[LC0574.py]: Solutions/LC0574.py
+[Best Sightseeing Pair]:https://leetcode.com/problems/best-sightseeing-pair/description/
