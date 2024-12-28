@@ -587,6 +587,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0572.py]     | [Find Largest Value in Each Tree Row]                                                                 | Medium     |
 | [LC0573.py]     | [Target Sum]                                                                                          | Medium     |
 | [LC0574.py]     | [Best Sightseeing Pair]                                                                               | Medium     |
+| [LC0575.py]     | [Maximum Sum of 3 Non-Overlapping Subarrays]                                                          | Medium     |
 
 [//]: # (Solutions)
 
@@ -2320,3 +2321,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0574.py]: Solutions/LC0574.py
 [Best Sightseeing Pair]:https://leetcode.com/problems/best-sightseeing-pair/description/
+
+[LC0575.py]: Solutions/LC0575.py
+[Maximum Sum of 3 Non-Overlapping Subarrays]:https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/
