@@ -588,6 +588,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0573.py]     | [Target Sum]                                                                                          | Medium     |
 | [LC0574.py]     | [Best Sightseeing Pair]                                                                               | Medium     |
 | [LC0575.py]     | [Maximum Sum of 3 Non-Overlapping Subarrays]                                                          | Medium     |
+| [LC0576.py]     | [Number of Ways to Form a Target String Given a Dictionary]                                           | Hard       |
 
 [//]: # (Solutions)
 
@@ -2324,3 +2325,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0575.py]: Solutions/LC0575.py
 [Maximum Sum of 3 Non-Overlapping Subarrays]:https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/
+
+[LC0576.py]: Solutions/LC0576.py
+[Number of Ways to Form a Target String Given a Dictionary]:https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/description/
