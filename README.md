@@ -589,6 +589,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0574.py]     | [Best Sightseeing Pair]                                                                               | Medium     |
 | [LC0575.py]     | [Maximum Sum of 3 Non-Overlapping Subarrays]                                                          | Medium     |
 | [LC0576.py]     | [Number of Ways to Form a Target String Given a Dictionary]                                           | Hard       |
+| [LC0577.py]     | [Count Ways To Build Good Strings]                                                                    | Medium     |
 
 [//]: # (Solutions)
 
@@ -2328,3 +2329,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0576.py]: Solutions/LC0576.py
 [Number of Ways to Form a Target String Given a Dictionary]:https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/description/
+
+[LC0577.py]: Solutions/LC0577.py
+[Count Ways To Build Good Strings]:https://leetcode.com/problems/count-ways-to-build-good-strings/description/
