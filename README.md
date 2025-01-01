@@ -591,6 +591,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0576.py]     | [Number of Ways to Form a Target String Given a Dictionary]                                           | Hard       |
 | [LC0577.py]     | [Count Ways To Build Good Strings]                                                                    | Medium     |
 | [LC0578.py]     | [Minimum Cost For Tickets]                                                                            | Medium     |
+| [LC0579.py]     | [Maximum Score After Splitting a String]                                                              | Easy       |
 
 [//]: # (Solutions)
 
@@ -2336,3 +2337,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0578.py]: Solutions/LC0578.py
 [Minimum Cost For Tickets]:https://leetcode.com/problems/minimum-cost-for-tickets/description/
+
+[LC0579.py]: Solutions/LC0579.py
+[Maximum Score After Splitting a String]:https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/
