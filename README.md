@@ -592,6 +592,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0577.py]     | [Count Ways To Build Good Strings]                                                                    | Medium     |
 | [LC0578.py]     | [Minimum Cost For Tickets]                                                                            | Medium     |
 | [LC0579.py]     | [Maximum Score After Splitting a String]                                                              | Easy       |
+| [LC0580.py]     | [Count Vowel Strings in Ranges]                                                                       | Medium     |
 
 [//]: # (Solutions)
 
@@ -2340,3 +2341,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0579.py]: Solutions/LC0579.py
 [Maximum Score After Splitting a String]:https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/
+
+[LC0580.py]: Solutions/LC0580.py
+[Count Vowel Strings in Ranges]:https://leetcode.com/problems/count-vowel-strings-in-ranges/description/
