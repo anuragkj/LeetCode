@@ -594,6 +594,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0579.py]     | [Maximum Score After Splitting a String]                                                              | Easy       |
 | [LC0580.py]     | [Count Vowel Strings in Ranges]                                                                       | Medium     |
 | [LC0581.py]     | [Number of Ways to Split Array]                                                                       | Medium     |
+| [LC0582.py]     | [Unique Length-3 Palindromic Subsequences]                                                            | Medium     |
 
 [//]: # (Solutions)
 
@@ -2348,3 +2349,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0581.py]: Solutions/LC0581.py
 [Number of Ways to Split Array]:https://leetcode.com/problems/number-of-ways-to-split-array/description/
+
+[LC0582.py]: Solutions/LC0582.py
+[Unique Length-3 Palindromic Subsequences]:https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/
