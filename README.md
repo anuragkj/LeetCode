@@ -596,6 +596,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0581.py]     | [Number of Ways to Split Array]                                                                       | Medium     |
 | [LC0582.py]     | [Unique Length-3 Palindromic Subsequences]                                                            | Medium     |
 | [LC0583.py]     | [Shifting Letters II]                                                                                 | Medium     |
+| [LC0584.py]     | [Minimum Number of Operations to Move All Balls to Each Box]                                          | Medium     |
 
 [//]: # (Solutions)
 
@@ -2356,3 +2357,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0583.py]: Solutions/LC0583.py
 [Shifting Letters II]:https://leetcode.com/problems/shifting-letters-ii/description/
+
+[LC0584.py]: Solutions/LC0584.py
+[Minimum Number of Operations to Move All Balls to Each Box]:https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/
