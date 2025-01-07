@@ -597,6 +597,7 @@ The questions are divided into 3 levels of difficulty:
 | [LC0582.py]     | [Unique Length-3 Palindromic Subsequences]                                                            | Medium     |
 | [LC0583.py]     | [Shifting Letters II]                                                                                 | Medium     |
 | [LC0584.py]     | [Minimum Number of Operations to Move All Balls to Each Box]                                          | Medium     |
+| [LC0585.py]     | [String Matching in an Array]                                                                         | Medium     |
 
 [//]: # (Solutions)
 
@@ -2360,3 +2361,6 @@ The questions are divided into 3 levels of difficulty:
 
 [LC0584.py]: Solutions/LC0584.py
 [Minimum Number of Operations to Move All Balls to Each Box]:https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/
+
+[LC0585.py]: Solutions/LC0585.py
+[String Matching in an Array]:https://leetcode.com/problems/string-matching-in-an-array/description/
