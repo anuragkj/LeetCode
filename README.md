@@ -1,3 +1,5 @@
+# INFO: This is an outdated repo: Now moved [here](https://github.com/anuragkj/Leetcode_Workflow_Submit/tree/main)
+
 # LeetCode
 
 Solutions to some of the questions on the LeetCode [website](https://www.leetcode.com "LeetCode").
